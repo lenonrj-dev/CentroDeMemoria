@@ -1,0 +1,55 @@
+export const pipelinesSeed = [
+  {
+    id: "pipe-1",
+    name: "web-api / main",
+    branch: "main",
+    status: "SUCESSO",
+    duration: "6m 12s",
+    author: "ana.silva",
+    lastRun: "há 8 min",
+    history: [
+      { id: "r-1012", status: "SUCESSO", duration: "6m12s", by: "ana.silva", time: "há 8 min" },
+      { id: "r-1011", status: "SUCESSO", duration: "5m48s", by: "ci-bot", time: "há 1 h" },
+      { id: "r-1010", status: "FALHA", duration: "2m10s", by: "ci-bot", time: "há 3 h" },
+    ],
+  },
+  {
+    id: "pipe-2",
+    name: "checkout / release",
+    branch: "release/3.2.x",
+    status: "EM EXECUÇÃO",
+    duration: "4m 02s",
+    author: "devops-bot",
+    lastRun: "agora",
+    history: [
+      { id: "r-776", status: "EM EXECUÇÃO", duration: "4m02s", by: "devops-bot", time: "agora" },
+      { id: "r-775", status: "SUCESSO", duration: "7m22s", by: "devops-bot", time: "há 2 h" },
+    ],
+  },
+  {
+    id: "pipe-3",
+    name: "auth / canary",
+    branch: "canary",
+    status: "FALHA",
+    duration: "1m 51s",
+    author: "rodrigo.m",
+    lastRun: "há 15 min",
+    history: [
+      { id: "r-430", status: "FALHA", duration: "1m51s", by: "rodrigo.m", time: "há 15 min" },
+      { id: "r-429", status: "SUCESSO", duration: "3m20s", by: "ci-bot", time: "há 1 d" },
+    ],
+  },
+  {
+    id: "pipe-4",
+    name: "search-api / main",
+    branch: "main",
+    status: "SUCESSO",
+    duration: "5m 10s",
+    author: "ci-bot",
+    lastRun: "há 50 min",
+    history: [
+      { id: "r-220", status: "SUCESSO", duration: "5m10s", by: "ci-bot", time: "há 50 min" },
+      { id: "r-219", status: "SUCESSO", duration: "4m58s", by: "ci-bot", time: "há 6 h" },
+    ],
+  },
+];

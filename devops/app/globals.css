@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  font-family: "Space Grotesk", "Inter", system-ui, -apple-system, sans-serif;
+  background: radial-gradient(circle at 20% 20%, rgba(34, 211, 238, 0.07), transparent 26%),
+    radial-gradient(circle at 80% 0%, rgba(59, 130, 246, 0.07), transparent 28%),
+    #050910;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: radial-gradient(circle at 20% 20%, rgba(34, 211, 238, 0.08), transparent 26%),
+    radial-gradient(circle at 80% 0%, rgba(59, 130, 246, 0.05), transparent 28%),
+    #050910;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(34, 211, 238, 0.7), rgba(59, 130, 246, 0.6));
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.03);
+}
