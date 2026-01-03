@@ -1,0 +1,10 @@
+{
+  "name": "sintracon-root",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/dev.js",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:devops": "npm --prefix devops run dev",
+    "install:all": "npm --prefix backend install && npm --prefix devops install"
+  }
+}

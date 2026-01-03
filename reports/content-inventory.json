@@ -1,0 +1,1540 @@
+{
+  "generatedAt": "2025-12-17T19:43:24.963Z",
+  "backend": {
+    "counts": {
+      "documentos": 0,
+      "depoimentos": 0,
+      "referencias": 0,
+      "jornais": 0,
+      "acervo-fotografico": 0
+    },
+    "items": {
+      "documentos": [],
+      "depoimentos": [],
+      "referencias": [],
+      "jornais": [],
+      "acervo-fotografico": []
+    }
+  },
+  "frontendFallback": {
+    "counts": {
+      "documentos": 10,
+      "depoimentos": 6,
+      "referencias": 10,
+      "jornais": 11,
+      "acervo-fotografico": 5
+    },
+    "items": {
+      "documentos": [
+        {
+          "module": "documentos",
+          "title": "Ata de Assembleia – Setembro de 1961",
+          "slug": "ata-1961-09",
+          "description": "Registro deliberativo sobre pauta salarial e eleição de delegados.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+          "tags": [
+            "Atas",
+            "Assembleia"
+          ],
+          "routes": [
+            "/acervo/documentos/ata-1961-09",
+            "/{locale}/acervo/documentos/ata-1961-09"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/api.ts",
+            "notes": "Mock local usado quando o backend falha (ou em páginas de detalhe via fallback)."
+          },
+          "raw": {
+            "id": "documentos/ata-1961-09",
+            "collection": "documentos",
+            "slug": "ata-1961-09",
+            "title": "Ata de Assembleia – Setembro de 1961",
+            "date": "1961-09-18",
+            "location": "Sede do Sindicato",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+            "tags": [
+              "Atas",
+              "Assembleia"
+            ],
+            "summary": "Registro deliberativo sobre pauta salarial e eleição de delegados.",
+            "body": [
+              "Aprovação de indicativo de greve caso não haja avanço na próxima rodada.",
+              "Eleita comissão de comunicação para ampliar distribuição de boletins."
+            ],
+            "files": [
+              {
+                "label": "PDF (fac-símile)",
+                "url": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg"
+              },
+              {
+                "label": "Transcrição (txt)",
+                "url": "#"
+              }
+            ]
+          }
+        },
+        {
+          "module": "documentos",
+          "title": "Ofício ao Ministério do Trabalho – Fevereiro de 1958",
+          "slug": "oficio-1958-02",
+          "description": "Pedido de mediação em dissídio coletivo e abertura de mesa tripartite.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+          "tags": [
+            "Ofícios",
+            "Negociação"
+          ],
+          "routes": [
+            "/acervo/documentos/oficio-1958-02",
+            "/{locale}/acervo/documentos/oficio-1958-02"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/api.ts",
+            "notes": "Mock local usado quando o backend falha (ou em páginas de detalhe via fallback)."
+          },
+          "raw": {
+            "id": "documentos/oficio-1958-02",
+            "collection": "documentos",
+            "slug": "oficio-1958-02",
+            "title": "Ofício ao Ministério do Trabalho – Fevereiro de 1958",
+            "date": "1958-02-09",
+            "location": "Rio de Janeiro",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+            "tags": [
+              "Ofícios",
+              "Negociação"
+            ],
+            "summary": "Pedido de mediação em dissídio coletivo e abertura de mesa tripartite.",
+            "body": [
+              "Ofício protocolado com pauta e documentação anexa."
+            ],
+            "files": [
+              {
+                "label": "PDF digitalizado",
+                "url": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "module": "documentos",
+          "title": "Relatório de Gestão – 1965",
+          "slug": "relatorio-1965",
+          "description": "Síntese de atividades, finanças e participação em conselhos.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+          "tags": [
+            "Relatórios",
+            "Prestação de contas"
+          ],
+          "routes": [
+            "/acervo/documentos/relatorio-1965",
+            "/{locale}/acervo/documentos/relatorio-1965"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/api.ts",
+            "notes": "Mock local usado quando o backend falha (ou em páginas de detalhe via fallback)."
+          },
+          "raw": {
+            "id": "documentos/relatorio-1965",
+            "collection": "documentos",
+            "slug": "relatorio-1965",
+            "title": "Relatório de Gestão – 1965",
+            "date": "1965-12-20",
+            "location": "VR–RJ",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+            "tags": [
+              "Relatórios",
+              "Prestação de contas"
+            ],
+            "summary": "Síntese de atividades, finanças e participação em conselhos.",
+            "body": [
+              "Quadros de evolução de associados e balanço orçamentário."
+            ],
+            "files": [
+              {
+                "label": "PDF digitalizado",
+                "url": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "module": "documentos",
+          "title": "Cartaz de Mobilização – 1979",
+          "slug": "1979-mob",
+          "description": "Convocação para assembleia unificada com palavras de ordem.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+          "tags": [
+            "Cartazes",
+            "Mobilização"
+          ],
+          "routes": [
+            "/acervo/cartazes/1979-mob",
+            "/{locale}/acervo/cartazes/1979-mob"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/api.ts",
+            "notes": "Mock local usado quando o backend falha (ou em páginas de detalhe via fallback)."
+          },
+          "raw": {
+            "id": "cartazes/1979-mob",
+            "collection": "cartazes",
+            "slug": "1979-mob",
+            "title": "Cartaz de Mobilização – 1979",
+            "date": "1979-04-20",
+            "location": "VR–RJ",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+            "tags": [
+              "Cartazes",
+              "Mobilização"
+            ],
+            "summary": "Convocação para assembleia unificada com palavras de ordem.",
+            "body": [
+              "Orientações sobre votação e concentração na praça central."
+            ],
+            "files": [
+              {
+                "label": "Imagem (alta)",
+                "url": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "module": "documentos",
+          "title": "Cartaz – Assembleia Geral 1984",
+          "slug": "1984-assembleia",
+          "description": "Arte gráfica convocando assembleia de deliberação de pauta.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+          "tags": [
+            "Cartazes",
+            "Assembleia"
+          ],
+          "routes": [
+            "/acervo/cartazes/1984-assembleia",
+            "/{locale}/acervo/cartazes/1984-assembleia"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/api.ts",
+            "notes": "Mock local usado quando o backend falha (ou em páginas de detalhe via fallback)."
+          },
+          "raw": {
+            "id": "cartazes/1984-assembleia",
+            "collection": "cartazes",
+            "slug": "1984-assembleia",
+            "title": "Cartaz – Assembleia Geral 1984",
+            "date": "1984-09-03",
+            "location": "Ginásio Municipal",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+            "tags": [
+              "Cartazes",
+              "Assembleia"
+            ],
+            "summary": "Arte gráfica convocando assembleia de deliberação de pauta.",
+            "body": [
+              "Layout com horários, local e QR para panfleto digital."
+            ],
+            "files": [
+              {
+                "label": "Imagem (alta)",
+                "url": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "module": "documentos",
+          "title": "Cartaz – 1º de Maio 1972",
+          "slug": "1972-1maio",
+          "description": "Programação cultural e ato público no Dia do Trabalhador.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+          "tags": [
+            "Cartazes",
+            "Comemorações"
+          ],
+          "routes": [
+            "/acervo/cartazes/1972-1maio",
+            "/{locale}/acervo/cartazes/1972-1maio"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/api.ts",
+            "notes": "Mock local usado quando o backend falha (ou em páginas de detalhe via fallback)."
+          },
+          "raw": {
+            "id": "cartazes/1972-1maio",
+            "collection": "cartazes",
+            "slug": "1972-1maio",
+            "title": "Cartaz – 1º de Maio 1972",
+            "date": "1972-05-01",
+            "location": "VR–RJ",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+            "tags": [
+              "Cartazes",
+              "Comemorações"
+            ],
+            "summary": "Programação cultural e ato público no Dia do Trabalhador.",
+            "body": [
+              "Programação musical e atos simbólicos de homenagem."
+            ],
+            "files": [
+              {
+                "label": "Imagem (alta)",
+                "url": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "module": "documentos",
+          "title": "Ata de Assembleia – 1961",
+          "slug": "volta-redonda-documentos-1961-09-18",
+          "description": "Deliberação sobre pauta salarial e comissão de base.",
+          "coverImageUrl": "/file.svg",
+          "tags": [
+            "Volta Redonda",
+            "Documentos"
+          ],
+          "routes": [
+            "/acervo/volta-redonda/documentos",
+            "/{locale}/acervo/volta-redonda/documentos"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "volta-redonda",
+            "section": "documentos",
+            "item": {
+              "title": "Ata de Assembleia – 1961",
+              "summary": "Deliberação sobre pauta salarial e comissão de base.",
+              "date": "1961-09-18",
+              "href": "/acervo/volta-redonda/documentos",
+              "thumb": "/file.svg"
+            }
+          }
+        },
+        {
+          "module": "documentos",
+          "title": "Relatório de Gestão – 1965",
+          "slug": "volta-redonda-documentos-1965-12-20",
+          "description": "Síntese de atividades e finanças da categoria.",
+          "coverImageUrl": "/file.svg",
+          "tags": [
+            "Volta Redonda",
+            "Documentos"
+          ],
+          "routes": [
+            "/acervo/volta-redonda/documentos",
+            "/{locale}/acervo/volta-redonda/documentos"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "volta-redonda",
+            "section": "documentos",
+            "item": {
+              "title": "Relatório de Gestão – 1965",
+              "summary": "Síntese de atividades e finanças da categoria.",
+              "date": "1965-12-20",
+              "href": "/acervo/volta-redonda/documentos",
+              "thumb": "/file.svg"
+            }
+          }
+        },
+        {
+          "module": "documentos",
+          "title": "Ofício ao MT – 1958",
+          "slug": "barra-mansa-documentos-1958-02-09",
+          "description": "Pedido de mediação em dissídio coletivo.",
+          "coverImageUrl": "/file.svg",
+          "tags": [
+            "Barra Mansa",
+            "Documentos"
+          ],
+          "routes": [
+            "/acervo/barra-mansa/documentos",
+            "/{locale}/acervo/barra-mansa/documentos"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "barra-mansa",
+            "section": "documentos",
+            "item": {
+              "title": "Ofício ao MT – 1958",
+              "summary": "Pedido de mediação em dissídio coletivo.",
+              "date": "1958-02-09",
+              "href": "/acervo/barra-mansa/documentos",
+              "thumb": "/file.svg"
+            }
+          }
+        },
+        {
+          "module": "documentos",
+          "title": "Ata de assembleia – 1950",
+          "slug": "barra-mansa-documentos-1950-11-14",
+          "description": "Chamada à organização e calendário de reuniões.",
+          "coverImageUrl": "/file.svg",
+          "tags": [
+            "Barra Mansa",
+            "Documentos"
+          ],
+          "routes": [
+            "/acervo/barra-mansa/documentos",
+            "/{locale}/acervo/barra-mansa/documentos"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "barra-mansa",
+            "section": "documentos",
+            "item": {
+              "title": "Ata de assembleia – 1950",
+              "summary": "Chamada à organização e calendário de reuniões.",
+              "date": "1950-11-14",
+              "href": "/acervo/barra-mansa/documentos",
+              "thumb": "/file.svg"
+            }
+          }
+        }
+      ],
+      "depoimentos": [
+        {
+          "module": "depoimentos",
+          "title": "Entrevista com M. Santos – 1983",
+          "slug": "m-santos-1983",
+          "description": "Depoimento sobre organização por seção e construção de alianças.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+          "tags": [
+            "Oral",
+            "Lideranças"
+          ],
+          "routes": [
+            "/acervo/entrevistas/m-santos-1983",
+            "/{locale}/acervo/entrevistas/m-santos-1983"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/api.ts",
+            "notes": "Mock local usado quando o backend falha (ou em páginas de detalhe via fallback)."
+          },
+          "raw": {
+            "id": "entrevistas/m-santos-1983",
+            "collection": "entrevistas",
+            "slug": "m-santos-1983",
+            "title": "Entrevista com M. Santos – 1983",
+            "date": "1983-11-02",
+            "location": "Estúdio do Sindicato",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+            "tags": [
+              "Oral",
+              "Lideranças"
+            ],
+            "summary": "Depoimento sobre organização por seção e construção de alianças.",
+            "body": [
+              "Relatos de greves gerais e implicações na base por turnos."
+            ],
+            "files": [
+              {
+                "label": "Áudio (mp3)",
+                "url": "#"
+              },
+              {
+                "label": "Transcrição (pdf)",
+                "url": "#"
+              }
+            ]
+          }
+        },
+        {
+          "module": "depoimentos",
+          "title": "Entrevista com A. Oliveira – 1978",
+          "slug": "a-oliveira-1978",
+          "description": "Memórias de mobilizações e redes de solidariedade intersindical.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+          "tags": [
+            "Oral",
+            "Memória"
+          ],
+          "routes": [
+            "/acervo/entrevistas/a-oliveira-1978",
+            "/{locale}/acervo/entrevistas/a-oliveira-1978"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/api.ts",
+            "notes": "Mock local usado quando o backend falha (ou em páginas de detalhe via fallback)."
+          },
+          "raw": {
+            "id": "entrevistas/a-oliveira-1978",
+            "collection": "entrevistas",
+            "slug": "a-oliveira-1978",
+            "title": "Entrevista com A. Oliveira – 1978",
+            "date": "1978-06-15",
+            "location": "VR–RJ",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+            "tags": [
+              "Oral",
+              "Memória"
+            ],
+            "summary": "Memórias de mobilizações e redes de solidariedade intersindical.",
+            "body": [
+              "Registros de campanhas salariais e apoio de associações de bairro."
+            ],
+            "files": [
+              {
+                "label": "Áudio (mp3)",
+                "url": "#"
+              }
+            ]
+          }
+        },
+        {
+          "module": "depoimentos",
+          "title": "Entrevista com M. Santos – 1983",
+          "slug": "volta-redonda-depoimentos-1983-11-02",
+          "description": "Relatos de organização por seção e alianças.",
+          "coverImageUrl": "/hero.png",
+          "tags": [
+            "Volta Redonda",
+            "Depoimentos"
+          ],
+          "routes": [
+            "/acervo/volta-redonda/depoimentos",
+            "/{locale}/acervo/volta-redonda/depoimentos"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "volta-redonda",
+            "section": "depoimentos",
+            "item": {
+              "title": "Entrevista com M. Santos – 1983",
+              "summary": "Relatos de organização por seção e alianças.",
+              "date": "1983-11-02",
+              "href": "/acervo/volta-redonda/depoimentos",
+              "thumb": "/hero.png"
+            }
+          }
+        },
+        {
+          "module": "depoimentos",
+          "title": "Depoimento A. Oliveira – 1978",
+          "slug": "volta-redonda-depoimentos-1978-06-15",
+          "description": "Memórias de mobilizações e solidariedade.",
+          "coverImageUrl": "/hero.png",
+          "tags": [
+            "Volta Redonda",
+            "Depoimentos"
+          ],
+          "routes": [
+            "/acervo/volta-redonda/depoimentos",
+            "/{locale}/acervo/volta-redonda/depoimentos"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "volta-redonda",
+            "section": "depoimentos",
+            "item": {
+              "title": "Depoimento A. Oliveira – 1978",
+              "summary": "Memórias de mobilizações e solidariedade.",
+              "date": "1978-06-15",
+              "href": "/acervo/volta-redonda/depoimentos",
+              "thumb": "/hero.png"
+            }
+          }
+        },
+        {
+          "module": "depoimentos",
+          "title": "Depoimento A. Oliveira – 1978",
+          "slug": "barra-mansa-depoimentos-1978-06-15",
+          "description": "Memórias de mobilizações e solidariedade.",
+          "coverImageUrl": "/hero.png",
+          "tags": [
+            "Barra Mansa",
+            "Depoimentos"
+          ],
+          "routes": [
+            "/acervo/barra-mansa/depoimentos",
+            "/{locale}/acervo/barra-mansa/depoimentos"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "barra-mansa",
+            "section": "depoimentos",
+            "item": {
+              "title": "Depoimento A. Oliveira – 1978",
+              "summary": "Memórias de mobilizações e solidariedade.",
+              "date": "1978-06-15",
+              "href": "/acervo/barra-mansa/depoimentos",
+              "thumb": "/hero.png"
+            }
+          }
+        },
+        {
+          "module": "depoimentos",
+          "title": "Relato comunitário – 1980",
+          "slug": "barra-mansa-depoimentos-1980-01-01",
+          "description": "Redes de apoio intersindical.",
+          "coverImageUrl": "/hero.png",
+          "tags": [
+            "Barra Mansa",
+            "Depoimentos"
+          ],
+          "routes": [
+            "/acervo/barra-mansa/depoimentos",
+            "/{locale}/acervo/barra-mansa/depoimentos"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "barra-mansa",
+            "section": "depoimentos",
+            "item": {
+              "title": "Relato comunitário – 1980",
+              "summary": "Redes de apoio intersindical.",
+              "date": "1980-01-01",
+              "href": "/acervo/barra-mansa/depoimentos",
+              "thumb": "/hero.png"
+            }
+          }
+        }
+      ],
+      "referencias": [
+        {
+          "module": "referencias",
+          "title": "Clipping VR – anos 80",
+          "slug": "volta-redonda-referencia-bibliografica-1980-01-01",
+          "description": "Recortes de imprensa sobre greves e negociações.",
+          "coverImageUrl": "/globe.svg",
+          "tags": [
+            "Volta Redonda",
+            "Referência Bibliográfica"
+          ],
+          "routes": [
+            "/acervo/volta-redonda/referencia-bibliografica",
+            "/{locale}/acervo/volta-redonda/referencia-bibliografica"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "volta-redonda",
+            "section": "referencia-bibliografica",
+            "item": {
+              "title": "Clipping VR – anos 80",
+              "summary": "Recortes de imprensa sobre greves e negociações.",
+              "date": "1980-01-01",
+              "href": "/acervo/volta-redonda/referencia-bibliografica",
+              "thumb": "/globe.svg"
+            }
+          }
+        },
+        {
+          "module": "referencias",
+          "title": "Bibliografia básica",
+          "slug": "volta-redonda-referencia-bibliografica-1985-01-01",
+          "description": "Listagem de livros e artigos de referência.",
+          "coverImageUrl": "/globe.svg",
+          "tags": [
+            "Volta Redonda",
+            "Referência Bibliográfica"
+          ],
+          "routes": [
+            "/acervo/volta-redonda/referencia-bibliografica",
+            "/{locale}/acervo/volta-redonda/referencia-bibliografica"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "volta-redonda",
+            "section": "referencia-bibliografica",
+            "item": {
+              "title": "Bibliografia básica",
+              "summary": "Listagem de livros e artigos de referência.",
+              "date": "1985-01-01",
+              "href": "/acervo/volta-redonda/referencia-bibliografica",
+              "thumb": "/globe.svg"
+            }
+          }
+        },
+        {
+          "module": "referencias",
+          "title": "Clipping BM – década de 80",
+          "slug": "barra-mansa-referencia-bibliografica-1985-01-01",
+          "description": "Recortes de imprensa sobre negociações locais.",
+          "coverImageUrl": "/globe.svg",
+          "tags": [
+            "Barra Mansa",
+            "Referência Bibliográfica"
+          ],
+          "routes": [
+            "/acervo/barra-mansa/referencia-bibliografica",
+            "/{locale}/acervo/barra-mansa/referencia-bibliografica"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "barra-mansa",
+            "section": "referencia-bibliografica",
+            "item": {
+              "title": "Clipping BM – década de 80",
+              "summary": "Recortes de imprensa sobre negociações locais.",
+              "date": "1985-01-01",
+              "href": "/acervo/barra-mansa/referencia-bibliografica",
+              "thumb": "/globe.svg"
+            }
+          }
+        },
+        {
+          "module": "referencias",
+          "title": "Bibliografia básica",
+          "slug": "barra-mansa-referencia-bibliografica-1990-01-01",
+          "description": "Lista de livros e artigos sobre o território.",
+          "coverImageUrl": "/globe.svg",
+          "tags": [
+            "Barra Mansa",
+            "Referência Bibliográfica"
+          ],
+          "routes": [
+            "/acervo/barra-mansa/referencia-bibliografica",
+            "/{locale}/acervo/barra-mansa/referencia-bibliografica"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "barra-mansa",
+            "section": "referencia-bibliografica",
+            "item": {
+              "title": "Bibliografia básica",
+              "summary": "Lista de livros e artigos sobre o território.",
+              "date": "1990-01-01",
+              "href": "/acervo/barra-mansa/referencia-bibliografica",
+              "thumb": "/globe.svg"
+            }
+          }
+        },
+        {
+          "module": "referencias",
+          "title": "MemÃ³ria operÃ¡ria e espaÃ§o urbano",
+          "slug": "memoria-operaria-espaco-urbano",
+          "description": "AnÃ¡lise das relaÃ§Ãµes entre memÃ³ria operÃ¡ria, territÃ³rio e processos de urbanizaÃ§Ã£o no Vale do ParaÃ­ba.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821738/Manchete_6_de_fevereiro_de_1960_fh5bkv.jpg",
+          "tags": [
+            "MemÃ³ria OperÃ¡ria",
+            "Trabalho",
+            "Cidade"
+          ],
+          "routes": [
+            "/producao-bibliografica",
+            "/{locale}/producao-bibliografica"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/api/content/production/data.ts",
+            "notes": "Href de detalhe declarado: /producao-bibliografica/memoria-operaria-espaco-urbano"
+          },
+          "raw": {
+            "id": "a1",
+            "title": "MemÃ³ria operÃ¡ria e espaÃ§o urbano",
+            "authors": [
+              "Rubem Machado",
+              "Ana Bezerra"
+            ],
+            "year": 2021,
+            "type": "Artigo",
+            "decade": "2020s",
+            "tags": [
+              "MemÃ³ria OperÃ¡ria",
+              "Trabalho",
+              "Cidade"
+            ],
+            "abstract": "AnÃ¡lise das relaÃ§Ãµes entre memÃ³ria operÃ¡ria, territÃ³rio e processos de urbanizaÃ§Ã£o no Vale do ParaÃ­ba.",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821738/Manchete_6_de_fevereiro_de_1960_fh5bkv.jpg",
+            "href": "/producao-bibliografica/memoria-operaria-espaco-urbano",
+            "pdf": "/pdfs/memoria-operaria.pdf"
+          }
+        },
+        {
+          "module": "referencias",
+          "title": "InventÃ¡rio do acervo fotogrÃ¡fico 1940â€“1970",
+          "slug": "inventario-acervo-fotografico",
+          "description": "Metodologia, critÃ©rios de descriÃ§Ã£o e resultados do inventÃ¡rio das fotografias histÃ³ricas.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821738/Manchete_6_de_fevereiro_de_1960_fh5bkv.jpg",
+          "tags": [
+            "Fotografia",
+            "CatalogaÃ§Ã£o",
+            "Acervo"
+          ],
+          "routes": [
+            "/producao-bibliografica",
+            "/{locale}/producao-bibliografica"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/api/content/production/data.ts",
+            "notes": "Href de detalhe declarado: /producao-bibliografica/inventario-acervo-fotografico"
+          },
+          "raw": {
+            "id": "a2",
+            "title": "InventÃ¡rio do acervo fotogrÃ¡fico 1940â€“1970",
+            "authors": [
+              "Marina Lopes"
+            ],
+            "year": 2020,
+            "type": "RelatÃ³rio",
+            "decade": "2020s",
+            "tags": [
+              "Fotografia",
+              "CatalogaÃ§Ã£o",
+              "Acervo"
+            ],
+            "abstract": "Metodologia, critÃ©rios de descriÃ§Ã£o e resultados do inventÃ¡rio das fotografias histÃ³ricas.",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821738/Manchete_6_de_fevereiro_de_1960_fh5bkv.jpg",
+            "href": "/producao-bibliografica/inventario-acervo-fotografico",
+            "pdf": "/pdfs/inventario-acervo.pdf"
+          }
+        },
+        {
+          "module": "referencias",
+          "title": "Sindicalismo e habitaÃ§Ã£o popular",
+          "slug": "sindicalismo-habitacao-popular",
+          "description": "CapÃ­tulo que revisita experiÃªncias de organizaÃ§Ã£o por moradia e seus elos com o trabalho.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821738/Manchete_6_de_fevereiro_de_1960_fh5bkv.jpg",
+          "tags": [
+            "Sindicalismo",
+            "HabitaÃ§Ã£o",
+            "PolÃ­tica"
+          ],
+          "routes": [
+            "/producao-bibliografica",
+            "/{locale}/producao-bibliografica"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/api/content/production/data.ts",
+            "notes": "Href de detalhe declarado: /producao-bibliografica/sindicalismo-habitacao-popular"
+          },
+          "raw": {
+            "id": "a3",
+            "title": "Sindicalismo e habitaÃ§Ã£o popular",
+            "authors": [
+              "Carlos Figueiredo"
+            ],
+            "year": 2017,
+            "type": "CapÃ­tulo",
+            "decade": "2010s",
+            "tags": [
+              "Sindicalismo",
+              "HabitaÃ§Ã£o",
+              "PolÃ­tica"
+            ],
+            "abstract": "CapÃ­tulo que revisita experiÃªncias de organizaÃ§Ã£o por moradia e seus elos com o trabalho.",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821738/Manchete_6_de_fevereiro_de_1960_fh5bkv.jpg",
+            "href": "/producao-bibliografica/sindicalismo-habitacao-popular",
+            "pdf": "#"
+          }
+        },
+        {
+          "module": "referencias",
+          "title": "Guia de digitalizaÃ§Ã£o e restauraÃ§Ã£o",
+          "slug": "guia-digitalizacao",
+          "description": "Boas prÃ¡ticas, padrÃµes tÃ©cnicos e fluxos de preservaÃ§Ã£o digital para acervos histÃ³ricos.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821738/Manchete_6_de_fevereiro_de_1960_fh5bkv.jpg",
+          "tags": [
+            "DigitalizaÃ§Ã£o",
+            "RestauraÃ§Ã£o",
+            "Metadados"
+          ],
+          "routes": [
+            "/producao-bibliografica",
+            "/{locale}/producao-bibliografica"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/api/content/production/data.ts",
+            "notes": "Href de detalhe declarado: /producao-bibliografica/guia-digitalizacao"
+          },
+          "raw": {
+            "id": "a4",
+            "title": "Guia de digitalizaÃ§Ã£o e restauraÃ§Ã£o",
+            "authors": [
+              "Marina Lopes",
+              "LÃ­via Rocha"
+            ],
+            "year": 2019,
+            "type": "Livro",
+            "decade": "2010s",
+            "tags": [
+              "DigitalizaÃ§Ã£o",
+              "RestauraÃ§Ã£o",
+              "Metadados"
+            ],
+            "abstract": "Boas prÃ¡ticas, padrÃµes tÃ©cnicos e fluxos de preservaÃ§Ã£o digital para acervos histÃ³ricos.",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821738/Manchete_6_de_fevereiro_de_1960_fh5bkv.jpg",
+            "href": "/producao-bibliografica/guia-digitalizacao",
+            "pdf": "/pdfs/guia-digitalizacao.pdf"
+          }
+        },
+        {
+          "module": "referencias",
+          "title": "Boletins sindicais: uma leitura histÃ³rica",
+          "slug": "boletins-leitura-historica",
+          "description": "AnÃ¡lise crÃ­tica de boletins sindicais como fonte primÃ¡ria para a histÃ³ria do trabalho.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821738/Manchete_6_de_fevereiro_de_1960_fh5bkv.jpg",
+          "tags": [
+            "Boletins",
+            "HistÃ³ria",
+            "ComunicaÃ§Ã£o"
+          ],
+          "routes": [
+            "/producao-bibliografica",
+            "/{locale}/producao-bibliografica"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/api/content/production/data.ts",
+            "notes": "Href de detalhe declarado: /producao-bibliografica/boletins-leitura-historica"
+          },
+          "raw": {
+            "id": "a5",
+            "title": "Boletins sindicais: uma leitura histÃ³rica",
+            "authors": [
+              "Sofia Mendes"
+            ],
+            "year": 2012,
+            "type": "Artigo",
+            "decade": "2010s",
+            "tags": [
+              "Boletins",
+              "HistÃ³ria",
+              "ComunicaÃ§Ã£o"
+            ],
+            "abstract": "AnÃ¡lise crÃ­tica de boletins sindicais como fonte primÃ¡ria para a histÃ³ria do trabalho.",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821738/Manchete_6_de_fevereiro_de_1960_fh5bkv.jpg",
+            "href": "/producao-bibliografica/boletins-leitura-historica",
+            "pdf": "#"
+          }
+        },
+        {
+          "module": "referencias",
+          "title": "Mapeamento de comissÃµes de fÃ¡brica (1960â€“1980)",
+          "slug": "comissoes-fabrica-mapeamento",
+          "description": "Pesquisa documental sobre comissÃµes de fÃ¡brica, estruturas internas e pautas reivindicatÃ³rias.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821738/Manchete_6_de_fevereiro_de_1960_fh5bkv.jpg",
+          "tags": [
+            "ComissÃµes",
+            "FÃ¡brica",
+            "OrganizaÃ§Ã£o"
+          ],
+          "routes": [
+            "/producao-bibliografica",
+            "/{locale}/producao-bibliografica"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/api/content/production/data.ts",
+            "notes": "Href de detalhe declarado: /producao-bibliografica/comissoes-fabrica-mapeamento"
+          },
+          "raw": {
+            "id": "a6",
+            "title": "Mapeamento de comissÃµes de fÃ¡brica (1960â€“1980)",
+            "authors": [
+              "Rubem Machado"
+            ],
+            "year": 2015,
+            "type": "RelatÃ³rio",
+            "decade": "2010s",
+            "tags": [
+              "ComissÃµes",
+              "FÃ¡brica",
+              "OrganizaÃ§Ã£o"
+            ],
+            "abstract": "Pesquisa documental sobre comissÃµes de fÃ¡brica, estruturas internas e pautas reivindicatÃ³rias.",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821738/Manchete_6_de_fevereiro_de_1960_fh5bkv.jpg",
+            "href": "/producao-bibliografica/comissoes-fabrica-mapeamento",
+            "pdf": "/pdfs/comissoes-fabrica.pdf"
+          }
+        }
+      ],
+      "jornais": [
+        {
+          "module": "jornais",
+          "title": "Boletim Operário – Março de 1952",
+          "slug": "1952-03",
+          "description": "Paralisações e negociações de base no início de 1952 com pautas salariais.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+          "tags": [
+            "Boletins",
+            "Greves",
+            "Metalúrgicos"
+          ],
+          "routes": [
+            "/acervo/boletins/1952-03",
+            "/{locale}/acervo/boletins/1952-03"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/api.ts",
+            "notes": "Mock local usado quando o backend falha (ou em páginas de detalhe via fallback)."
+          },
+          "raw": {
+            "id": "boletins/1952-03",
+            "collection": "boletins",
+            "slug": "1952-03",
+            "title": "Boletim Operário – Março de 1952",
+            "date": "1952-03-10",
+            "location": "VR–RJ",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+            "tags": [
+              "Boletins",
+              "Greves",
+              "Metalúrgicos"
+            ],
+            "summary": "Paralisações e negociações de base no início de 1952 com pautas salariais.",
+            "body": [
+              "Reportagens sobre piquetes em portarias e análise de conjuntura do custo de vida.",
+              "Carta da Redação reforça assembleias como espaço soberano de deliberação."
+            ],
+            "files": [
+              {
+                "label": "PDF digitalizado",
+                "url": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "module": "jornais",
+          "title": "Boletim Operário – Julho de 1953",
+          "slug": "1953-07",
+          "description": "Edição dedicada às negociações do semestre e depoimentos de lideranças.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+          "tags": [
+            "Boletins",
+            "Greves"
+          ],
+          "routes": [
+            "/acervo/boletins/1953-07",
+            "/{locale}/acervo/boletins/1953-07"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/api.ts",
+            "notes": "Mock local usado quando o backend falha (ou em páginas de detalhe via fallback)."
+          },
+          "raw": {
+            "id": "boletins/1953-07",
+            "collection": "boletins",
+            "slug": "1953-07",
+            "title": "Boletim Operário – Julho de 1953",
+            "date": "1953-07-05",
+            "location": "VR–RJ",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+            "tags": [
+              "Boletins",
+              "Greves"
+            ],
+            "summary": "Edição dedicada às negociações do semestre e depoimentos de lideranças.",
+            "body": [
+              "Mesa de negociação e cobertura fotográfica das assembleias."
+            ],
+            "files": [
+              {
+                "label": "PDF digitalizado",
+                "url": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "module": "jornais",
+          "title": "Boletim Operário – Novembro de 1950",
+          "slug": "1950-11",
+          "description": "Chamada à organização por seção e calendário de reuniões por bairro.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+          "tags": [
+            "Boletins",
+            "Organização"
+          ],
+          "routes": [
+            "/acervo/boletins/1950-11",
+            "/{locale}/acervo/boletins/1950-11"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/api.ts",
+            "notes": "Mock local usado quando o backend falha (ou em páginas de detalhe via fallback)."
+          },
+          "raw": {
+            "id": "boletins/1950-11",
+            "collection": "boletins",
+            "slug": "1950-11",
+            "title": "Boletim Operário – Novembro de 1950",
+            "date": "1950-11-14",
+            "location": "VR–RJ",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+            "tags": [
+              "Boletins",
+              "Organização"
+            ],
+            "summary": "Chamada à organização por seção e calendário de reuniões por bairro.",
+            "body": [
+              "Editorial sobre sindicalização e comissões de fábrica."
+            ],
+            "files": [
+              {
+                "label": "PDF digitalizado",
+                "url": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "module": "jornais",
+          "title": "Boletim Operário – 1952",
+          "slug": "volta-redonda-jornais-de-epoca-1952-03-10",
+          "description": "Paralisações e negociações no início de 1952.",
+          "coverImageUrl": "/window.svg",
+          "tags": [
+            "Volta Redonda",
+            "Jornais de época"
+          ],
+          "routes": [
+            "/acervo/volta-redonda/jornais-de-epoca",
+            "/{locale}/acervo/volta-redonda/jornais-de-epoca"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "volta-redonda",
+            "section": "jornais-de-epoca",
+            "item": {
+              "title": "Boletim Operário – 1952",
+              "summary": "Paralisações e negociações no início de 1952.",
+              "date": "1952-03-10",
+              "href": "/acervo/volta-redonda/jornais-de-epoca",
+              "thumb": "/window.svg"
+            }
+          }
+        },
+        {
+          "module": "jornais",
+          "title": "Edição histórica – 1953",
+          "slug": "volta-redonda-jornais-de-epoca-1953-07-05",
+          "description": "Chamadas e registros fotográficos.",
+          "coverImageUrl": "/window.svg",
+          "tags": [
+            "Volta Redonda",
+            "Jornais de época"
+          ],
+          "routes": [
+            "/acervo/volta-redonda/jornais-de-epoca",
+            "/{locale}/acervo/volta-redonda/jornais-de-epoca"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "volta-redonda",
+            "section": "jornais-de-epoca",
+            "item": {
+              "title": "Edição histórica – 1953",
+              "summary": "Chamadas e registros fotográficos.",
+              "date": "1953-07-05",
+              "href": "/acervo/volta-redonda/jornais-de-epoca",
+              "thumb": "/window.svg"
+            }
+          }
+        },
+        {
+          "module": "jornais",
+          "title": "Edição histórica – 1937",
+          "slug": "barra-mansa-jornais-de-epoca-1937-07-17",
+          "description": "Cobertura de marchas e assembleias.",
+          "coverImageUrl": "/window.svg",
+          "tags": [
+            "Barra Mansa",
+            "Jornais de época"
+          ],
+          "routes": [
+            "/acervo/barra-mansa/jornais-de-epoca",
+            "/{locale}/acervo/barra-mansa/jornais-de-epoca"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "barra-mansa",
+            "section": "jornais-de-epoca",
+            "item": {
+              "title": "Edição histórica – 1937",
+              "summary": "Cobertura de marchas e assembleias.",
+              "date": "1937-07-17",
+              "href": "/acervo/barra-mansa/jornais-de-epoca",
+              "thumb": "/window.svg"
+            }
+          }
+        },
+        {
+          "module": "jornais",
+          "title": "Boletim local – 1953",
+          "slug": "barra-mansa-jornais-de-epoca-1953-07-05",
+          "description": "Chamadas e registros fotográficos.",
+          "coverImageUrl": "/window.svg",
+          "tags": [
+            "Barra Mansa",
+            "Jornais de época"
+          ],
+          "routes": [
+            "/acervo/barra-mansa/jornais-de-epoca",
+            "/{locale}/acervo/barra-mansa/jornais-de-epoca"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "barra-mansa",
+            "section": "jornais-de-epoca",
+            "item": {
+              "title": "Boletim local – 1953",
+              "summary": "Chamadas e registros fotográficos.",
+              "date": "1953-07-05",
+              "href": "/acervo/barra-mansa/jornais-de-epoca",
+              "thumb": "/window.svg"
+            }
+          }
+        },
+        {
+          "module": "jornais",
+          "title": "O Operário",
+          "slug": "o-operario-1913-05-12",
+          "description": "Organização de base e pautas salariais do setor siderúrgico.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1765237328/Jornal_do_Brasil_-_2%C2%AA_Auditoria_do_Ex%C3%A9rcito_xzf1q2.jpg",
+          "tags": [
+            "1910s"
+          ],
+          "routes": [
+            "/jornais-de-epoca/o-operario-1913-05-12",
+            "/{locale}/jornais-de-epoca/o-operario-1913-05-12"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/api/content/journals/data.ts",
+            "notes": "Lista local (fallback) usada na landing de jornais quando o backend falha; o leitor usa o backend."
+          },
+          "raw": {
+            "slug": "o-operario-1913-05-12",
+            "title": "O Operário",
+            "date": "12/05/1913",
+            "decade": "1910s",
+            "summary": "Organização de base e pautas salariais do setor siderúrgico.",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1765237328/Jornal_do_Brasil_-_2%C2%AA_Auditoria_do_Ex%C3%A9rcito_xzf1q2.jpg",
+            "full": "https://res.cloudinary.com/dc7u5spia/image/upload/v1765237328/Jornal_do_Brasil_-_2%C2%AA_Auditoria_do_Ex%C3%A9rcito_xzf1q2.jpg",
+            "width": 1359,
+            "height": 2998
+          }
+        },
+        {
+          "module": "jornais",
+          "title": "Folha do Trabalhador",
+          "slug": "folha-trabalhador-1921-09-03",
+          "description": "Mobilizações urbanas e comissões de fábrica em pauta naquele ano.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1765237328/Jornal_do_Brasil_-_2%C2%AA_Auditoria_do_Ex%C3%A9rcito_xzf1q2.jpg",
+          "tags": [
+            "1920s"
+          ],
+          "routes": [
+            "/jornais-de-epoca/folha-trabalhador-1921-09-03",
+            "/{locale}/jornais-de-epoca/folha-trabalhador-1921-09-03"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/api/content/journals/data.ts",
+            "notes": "Lista local (fallback) usada na landing de jornais quando o backend falha; o leitor usa o backend."
+          },
+          "raw": {
+            "slug": "folha-trabalhador-1921-09-03",
+            "title": "Folha do Trabalhador",
+            "date": "03/09/1921",
+            "decade": "1920s",
+            "summary": "Mobilizações urbanas e comissões de fábrica em pauta naquele ano.",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1765237328/Jornal_do_Brasil_-_2%C2%AA_Auditoria_do_Ex%C3%A9rcito_xzf1q2.jpg",
+            "full": "https://res.cloudinary.com/dc7u5spia/image/upload/v1765237328/Jornal_do_Brasil_-_2%C2%AA_Auditoria_do_Ex%C3%A9rcito_xzf1q2.jpg",
+            "width": 1359,
+            "height": 2998
+          }
+        },
+        {
+          "module": "jornais",
+          "title": "Gazeta Sindical",
+          "slug": "gazeta-sindical-1932-02-28",
+          "description": "Greves, assembleias e resistência em um período de intensas disputas.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1765237328/Jornal_do_Brasil_-_2%C2%AA_Auditoria_do_Ex%C3%A9rcito_xzf1q2.jpg",
+          "tags": [
+            "1930s"
+          ],
+          "routes": [
+            "/jornais-de-epoca/gazeta-sindical-1932-02-28",
+            "/{locale}/jornais-de-epoca/gazeta-sindical-1932-02-28"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/api/content/journals/data.ts",
+            "notes": "Lista local (fallback) usada na landing de jornais quando o backend falha; o leitor usa o backend."
+          },
+          "raw": {
+            "slug": "gazeta-sindical-1932-02-28",
+            "title": "Gazeta Sindical",
+            "date": "28/02/1932",
+            "decade": "1930s",
+            "summary": "Greves, assembleias e resistência em um período de intensas disputas.",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1765237328/Jornal_do_Brasil_-_2%C2%AA_Auditoria_do_Ex%C3%A9rcito_xzf1q2.jpg",
+            "full": "https://res.cloudinary.com/dc7u5spia/image/upload/v1765237328/Jornal_do_Brasil_-_2%C2%AA_Auditoria_do_Ex%C3%A9rcito_xzf1q2.jpg",
+            "width": 1359,
+            "height": 2998
+          }
+        },
+        {
+          "module": "jornais",
+          "title": "O Dia do Povo",
+          "slug": "o-dia-do-povo-1937-07-17",
+          "description": "Marchas, assembleias e o cotidiano dos trabalhadores em formação sindical.",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1765237328/Jornal_do_Brasil_-_2%C2%AA_Auditoria_do_Ex%C3%A9rcito_xzf1q2.jpg",
+          "tags": [
+            "1930s"
+          ],
+          "routes": [
+            "/jornais-de-epoca/o-dia-do-povo-1937-07-17",
+            "/{locale}/jornais-de-epoca/o-dia-do-povo-1937-07-17"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/api/content/journals/data.ts",
+            "notes": "Lista local (fallback) usada na landing de jornais quando o backend falha; o leitor usa o backend."
+          },
+          "raw": {
+            "slug": "o-dia-do-povo-1937-07-17",
+            "title": "O Dia do Povo",
+            "date": "17/07/1937",
+            "decade": "1930s",
+            "summary": "Marchas, assembleias e o cotidiano dos trabalhadores em formação sindical.",
+            "cover": "https://res.cloudinary.com/dc7u5spia/image/upload/v1765237328/Jornal_do_Brasil_-_2%C2%AA_Auditoria_do_Ex%C3%A9rcito_xzf1q2.jpg",
+            "full": "https://res.cloudinary.com/dc7u5spia/image/upload/v1765237328/Jornal_do_Brasil_-_2%C2%AA_Auditoria_do_Ex%C3%A9rcito_xzf1q2.jpg",
+            "width": 1359,
+            "height": 2998
+          }
+        }
+      ],
+      "acervo-fotografico": [
+        {
+          "module": "acervo-fotografico",
+          "title": "Pátio da fábrica – 1948",
+          "slug": "volta-redonda-acervo-fotografico-1948-06-01",
+          "description": "Registro do cotidiano e do ambiente industrial.",
+          "coverImageUrl": "/hero.png",
+          "tags": [
+            "Volta Redonda",
+            "Acervo Fotográfico"
+          ],
+          "routes": [
+            "/acervo/volta-redonda/acervo-fotografico",
+            "/{locale}/acervo/volta-redonda/acervo-fotografico"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "volta-redonda",
+            "section": "acervo-fotografico",
+            "item": {
+              "title": "Pátio da fábrica – 1948",
+              "summary": "Registro do cotidiano e do ambiente industrial.",
+              "date": "1948-06-01",
+              "href": "/acervo/volta-redonda/acervo-fotografico",
+              "thumb": "/hero.png"
+            }
+          }
+        },
+        {
+          "module": "acervo-fotografico",
+          "title": "Assembleia na praça",
+          "slug": "volta-redonda-acervo-fotografico-1950-01-01",
+          "description": "Momento de votação e mobilização.",
+          "coverImageUrl": "/hero.png",
+          "tags": [
+            "Volta Redonda",
+            "Acervo Fotográfico"
+          ],
+          "routes": [
+            "/acervo/volta-redonda/acervo-fotografico",
+            "/{locale}/acervo/volta-redonda/acervo-fotografico"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "volta-redonda",
+            "section": "acervo-fotografico",
+            "item": {
+              "title": "Assembleia na praça",
+              "summary": "Momento de votação e mobilização.",
+              "date": "1950-01-01",
+              "href": "/acervo/volta-redonda/acervo-fotografico",
+              "thumb": "/hero.png"
+            }
+          }
+        },
+        {
+          "module": "acervo-fotografico",
+          "title": "Registro de assembleia",
+          "slug": "barra-mansa-acervo-fotografico-1950-01-01",
+          "description": "Votação e mobilização na praça central.",
+          "coverImageUrl": "/hero.png",
+          "tags": [
+            "Barra Mansa",
+            "Acervo Fotográfico"
+          ],
+          "routes": [
+            "/acervo/barra-mansa/acervo-fotografico",
+            "/{locale}/acervo/barra-mansa/acervo-fotografico"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "barra-mansa",
+            "section": "acervo-fotografico",
+            "item": {
+              "title": "Registro de assembleia",
+              "summary": "Votação e mobilização na praça central.",
+              "date": "1950-01-01",
+              "href": "/acervo/barra-mansa/acervo-fotografico",
+              "thumb": "/hero.png"
+            }
+          }
+        },
+        {
+          "module": "acervo-fotografico",
+          "title": "Cena urbana",
+          "slug": "barra-mansa-acervo-fotografico-1948-06-01",
+          "description": "Cotidiano do território industrial.",
+          "coverImageUrl": "/hero.png",
+          "tags": [
+            "Barra Mansa",
+            "Acervo Fotográfico"
+          ],
+          "routes": [
+            "/acervo/barra-mansa/acervo-fotografico",
+            "/{locale}/acervo/barra-mansa/acervo-fotografico"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/cityData.ts",
+            "notes": "Cards de exemplo por cidade; não são páginas de item individual."
+          },
+          "raw": {
+            "city": "barra-mansa",
+            "section": "acervo-fotografico",
+            "item": {
+              "title": "Cena urbana",
+              "summary": "Cotidiano do território industrial.",
+              "date": "1948-06-01",
+              "href": "/acervo/barra-mansa/acervo-fotografico",
+              "thumb": "/hero.png"
+            }
+          }
+        },
+        {
+          "module": "acervo-fotografico",
+          "title": "Funcionários da siderúrgica",
+          "slug": "siderurgica-1950-equipe",
+          "description": "Volta Redonda – RJ (1950)",
+          "coverImageUrl": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg",
+          "tags": [
+            "Fábrica",
+            "Retrato de grupo",
+            "Década de 1950"
+          ],
+          "routes": [
+            "/acervo/fotos/siderurgica-1950-equipe",
+            "/{locale}/acervo/fotos/siderurgica-1950-equipe"
+          ],
+          "source": {
+            "type": "frontend-fallback",
+            "file": "frontend/app/acervo/fotos/PhotosGalleryClient.tsx",
+            "notes": "Fallback usado quando a API /api/acervo-fotografico retorna vazio."
+          },
+          "raw": {
+            "slug": "siderurgica-1950-equipe",
+            "title": "Funcionários da siderúrgica",
+            "year": 1950,
+            "location": "Volta Redonda – RJ",
+            "tags": [
+              "Fábrica",
+              "Retrato de grupo",
+              "Década de 1950"
+            ],
+            "src": "https://res.cloudinary.com/dc7u5spia/image/upload/v1758821829/Funcionarios_da_Siderurgica_BM_dec._de_1950_esytij.jpg"
+          }
+        }
+      ]
+    }
+  }
+}
