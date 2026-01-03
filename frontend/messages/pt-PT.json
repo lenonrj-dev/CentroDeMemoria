@@ -1,0 +1,1080 @@
+{
+  "global": {
+    "skipToContent": "Ir para o conte�do",
+    "siteTitle": "Sintracon",
+    "siteSubtitle": "Centro de Mem�ria",
+    "menu": "Menu",
+    "close": "Fechar",
+    "searchPlaceholder": "Procurar...",
+    "language": "Idioma",
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "youtube": "YouTube"
+    }
+  },
+  "home": {
+    "featured": {
+      "eyebrow": "Fundos de Acervo Pessoal",
+      "title": "Dom Waldyr Calheiros",
+      "description": "Documenta��o, relatos e publica��es que registam a presen�a pastoral de Dom Waldyr junto aos trabalhadores de Volta Redonda e Barra Mansa. Um acervo para pesquisa, media��o e inspira��o de novas leituras.",
+      "primaryCta": "Ver produ��o bibliogr�fica",
+      "secondaryCta": "Sobre o Fundo",
+      "footnote": "Conte�dos ilustrativos. A organiza��o final seguir� o cat�logo oficial do acervo.",
+      "items": [
+        {
+          "title": "Funcion�rios da Metal�rgica Barbar� (1950)",
+          "description": "Registo hist�rico dos Trabalhadores Metal�rgicos da Barbar� na d�cada de 1950"
+        },
+        {
+          "title": "Funcion�rios da Sider�rgica de Barra Mansa (1950)",
+          "description": "Registo hist�rico de trabalhadores da siderurgia de Barra Mansa na d�cada de 1950"
+        },
+        {
+          "title": "Obelisco em homenagem aos oper�rios de Barra Mansa (1933)",
+          "description": "Obelisco inaugurado em 1 de Maio de 1933. Fonte: Academia Barramansense de Hist�ria."
+        },
+        {
+          "title": "Lan�amento da Pedra Fundamental da Sider�rgica Barra Mansa (1935)",
+          "description": "Ato de funda��o da sider�rgica Barra Mansa com assinatura de Dario Arag�o."
+        },
+        {
+          "title": "Constru��o da Companhia Nestl� (1936)",
+          "description": "Registo do in�cio das obras da companhia Nestl� na d�cada de 1930."
+        },
+        {
+          "title": "Repress�o a manifesta��o popular",
+          "description": "Ocasi�o do assassinato do l�der sindical Rubem Machado, presidente do Sindicato da Constru��o Civil de Volta Redonda-RJ e regi�o."
+        },
+        {
+          "title": "O Movimento Oper�rio no Sul Fluminense (1970)",
+          "description": "Homenagem aos trabalhadores e ao sindicato pelo apoio cont�nuo."
+        },
+        {
+          "title": "Repress�o policial e mem�ria oper�ria",
+          "description": "Registos de confrontos e mem�ria das lutas em Volta Redonda e Barra Mansa."
+        }
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Acervo Dom Waldyr Calheiros",
+      "title": "A��o pastoral, ditadura e movimento oper�rio",
+      "description": "Linha do tempo sobre a atua��o de Dom Waldyr junto aos trabalhadores: visitas pastorais, resist�ncia � ditadura civil-militar e apoio direto ao movimento oper�rio.",
+      "items": [
+        {
+          "title": "Primeiras miss�es pastorais",
+          "description": "Forma��o, ordena��o e chegada ao Sul Fluminense; aproxima��o com metal�rgicos e bases comunit�rias."
+        },
+        {
+          "title": "A��o pastoral em vilas oper�rias",
+          "description": "Visitas a canteiros, mutir�es e apoio �s fam�lias dos trabalhadores da constru��o civil e siderurgia."
+        },
+        {
+          "title": "Ditadura civil-militar",
+          "description": "Den�ncias de tortura, defesa de presos pol�ticos e articula��o com pastorais sociais em plena repress�o."
+        },
+        {
+          "title": "Movimento oper�rio em Volta Redonda",
+          "description": "Media��o de conflitos, apoio a greves e defesa dos direitos de metal�rgicos e da constru��o civil."
+        },
+        {
+          "title": "Comunica��o e boletins",
+          "description": "Publica��es pastorais, notas e cartas que orientavam comunidades e sindicatos em tempos de censura."
+        },
+        {
+          "title": "Direitos humanos e media��o",
+          "description": "Interlocu��o com autoridades, visitas a pris�es e apoio jur�dico a lideran�as perseguidas."
+        },
+        {
+          "title": "Comunidades eclesiais de base",
+          "description": "Organiza��o de c�rculos b�blicos e redes de solidariedade popular alinhadas �s lutas trabalhistas."
+        },
+        {
+          "title": "Reconhecimento e legado",
+          "description": "Homenagens de sindicatos e movimentos populares; mem�ria viva no Sul Fluminense."
+        }
+      ],
+      "aside": {
+        "label": "Perfil em foco",
+        "name": "Dom Waldyr Calheiros",
+        "role": "Bispo aliado ao movimento oper�rio",
+        "highlights": [
+          "A��o pastoral junto aos oper�rios",
+          "Enfrentamento � ditadura",
+          "Apoio a greves e presos pol�ticos",
+          "Mem�ria dos trabalhadores"
+        ]
+      },
+      "footnote": "Sele��o tem�tica: use as setas para navegar pelos marcos de Dom Waldyr."
+    },
+    "hero": {
+      "alt": "Centro de Mem�ria Oper�ria Digitalizada Rubem Machado"
+    },
+    "search": {
+      "title": "Centro de Mem�ria Oper�ria Digitalizada Rubem Machado",
+      "tagline": "Bem-vindos e bem-vindas ao nosso acervo virtual. Boas pesquisas!",
+      "description": "Pesquise por termos, nomes ou datas e siga para o acervo completo.",
+      "placeholder": "Pesquise por termos, nomes, datas�",
+      "button": "Pesquisar",
+      "category": "Categoria",
+      "categories": {
+        "all": "Todo o conte�do",
+        "imagens": "Imagens",
+        "videos": "V�deos",
+        "documentos": "Documentos",
+        "pessoas": "Pessoas"
+      }
+    },
+    "journals": {
+      "eyebrow": "Jornais de �poca",
+      "title": "Uma janela para o passado",
+      "description": "Explore edi��es hist�ricas digitalizadas e avance para a leitura completa.",
+      "cta": "Ver todos os jornais",
+      "ui": {
+        "allLabel": "todos os tipos",
+        "readLabel": "Ler jornal",
+        "prevLabel": "Anterior",
+        "nextLabel": "Pr�ximo",
+        "carouselAriaLabel": "Carrossel de jornais de �poca",
+        "coverAltTemplate": "{title} � capa"
+      },
+      "filters": {
+        "all": "Todos",
+        "1910s": "1910s",
+        "1920s": "1920s",
+        "1930s": "1930s",
+        "1940s": "1940s",
+        "1950s": "1950s",
+        "1960s": "1960s"
+      },
+      "items": [
+        {
+          "title": "O Oper�rio",
+          "description": "Edi��o dedicada � organiza��o de base e �s primeiras pautas salariais."
+        },
+        {
+          "title": "Folha do Trabalhador",
+          "description": "Relatos de mobiliza��es em bairros fabris e forma��o de comiss�es."
+        },
+        {
+          "title": "Gazeta Sindical",
+          "description": "An�lise das greves hist�ricas e estrat�gias de negocia��o coletiva."
+        },
+        {
+          "title": "O Dia do Povo",
+          "description": "Cobertura de marchas, assembleias e da vida cotidiana nos galp�es."
+        },
+        {
+          "title": "Tribuna Oper�ria",
+          "description": "Edi��o especial sobre seguran�a, sa�de e reformas dos locais de trabalho."
+        },
+        {
+          "title": "Voz da F�brica",
+          "description": "Cr�nicas de turno, refeit�rios e as novas demandas do p�s-guerra."
+        },
+        {
+          "title": "Correio Popular",
+          "description": "Editorial sobre custo de vida e tabelas comparativas de pre�os."
+        },
+        {
+          "title": "Jornal do Metal",
+          "description": "Reportagens fotogr�ficas das linhas de montagem e novas tecnologias."
+        },
+        {
+          "title": "A Voz do Sindicato",
+          "description": "Plano de lutas, calend�rio de assembleias e entrevistas com lideran�as."
+        },
+        {
+          "title": "Boletim do Trabalhador",
+          "description": "Cartazes, notas r�pidas e uma linha do tempo de conquistas."
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Equipa T�cnica",
+      "title": "Quem faz o Centro de Mem�ria Oper�ria acontecer",
+      "description": "Equipa multidisciplinar dedicada � preserva��o, investiga��o e acesso p�blico.",
+      "cta": "Ver equipa completa",
+      "ui": {
+        "photoAltTemplate": "Foto de {name}",
+        "viewProfileLabel": "Ver perfil",
+        "emailLabel": "Enviar e-mail para {name}",
+        "linkedinLabel": "LinkedIn de {name}"
+      },
+      "people": [
+        {
+          "role": "Coordena��o Geral & Curadoria",
+          "bio": "Estrat�gia do acervo, diretrizes de preserva��o e valida��o hist�rica.",
+          "tags": [
+            "Curadoria",
+            "Gest�o",
+            "Mem�ria"
+          ]
+        },
+        {
+          "role": "Arquivista Chefe",
+          "bio": "Classifica��o, descri��o e pol�ticas de acesso ao acervo.",
+          "tags": [
+            "Arquiv�stica",
+            "Cataloga��o",
+            "Acesso"
+          ]
+        },
+        {
+          "role": "Historiador",
+          "bio": "Contextualiza��o, recorte temporal e verifica��o de fontes.",
+          "tags": [
+            "Pesquisa",
+            "Contexto",
+            "Fontes"
+          ]
+        },
+        {
+          "role": "L�der de Digitaliza��o",
+          "bio": "Fluxo de captura, restaura��o e padr�es de imagem.",
+          "tags": [
+            "Digitaliza��o",
+            "Restaura��o",
+            "Metadados"
+          ]
+        },
+        {
+          "role": "Eng. de Software",
+          "bio": "Aplica��o, pesquisa e interface com o banco de mem�ria.",
+          "tags": [
+            "Full-stack",
+            "Next.js",
+            "UX"
+          ]
+        },
+        {
+          "role": "Infra & DevOps",
+          "bio": "Escalabilidade, backups e observabilidade do ambiente.",
+          "tags": [
+            "Infra",
+            "S3/KVM",
+            "Seguran�a"
+          ]
+        },
+        {
+          "role": "Design & Acessibilidade",
+          "bio": "Identidade visual e leitura confort�vel em todas as telas.",
+          "tags": [
+            "UI",
+            "A11y",
+            "Sistemas"
+          ]
+        },
+        {
+          "role": "Gest�o de Conte�do",
+          "bio": "Padroniza��o editorial, revis�o e publica��o de cole��es.",
+          "tags": [
+            "Editorial",
+            "Padr�es",
+            "Publica��o"
+          ]
+        }
+      ]
+    },
+    "access": {
+      "eyebrow": "Acesso � Informa��o",
+      "title": "Transpar�ncia ativa e pesquisa num s� lugar",
+      "description": "Consulte documentos, pol�ticas e registos do banco de mem�ria.",
+      "ui": {
+        "searchPlaceholder": "Pesquisar por t�tulo, tema ou descri��o�",
+        "filtersLabel": "Filtros",
+        "resultsTemplate": "{count} resultado(s) � {filter}",
+        "allFiltersLabel": "todos os tipos",
+        "prevLabel": "Anterior",
+        "nextLabel": "Pr�ximo",
+        "readMoreLabel": "Saber mais",
+        "howItWorksTitle": "Como funciona",
+        "ctaLabel": "Enviar pedido de acesso",
+        "rightsTitle": "Direitos do requerente",
+        "rightsLinkLabel": "Ver pol�tica de transpar�ncia",
+        "howItWorksSteps": [
+          "1. Localize o tema pela pesquisa ou filtros.",
+          "2. Acesse a p�gina do conte�do pretendido.",
+          "3. Verifique permiss�es e termos de uso quando aplic�vel.",
+          "4. Precisa de algo espec�fico? Envie um pedido de acesso."
+        ],
+        "rightsItems": [
+          "Orienta��o sobre onde e como aceder � informa��o.",
+          "Ser informado sobre a disponibilidade do conte�do solicitado.",
+          "Justifica��o em caso de restri��o de acesso."
+        ]
+      },
+      "filters": {
+        "todas": "Todas",
+        "atas": "Atas",
+        "relatorios": "Relat�rios",
+        "contratos": "Contratos",
+        "despesas": "Despesas",
+        "convenios": "Conven��es",
+        "boletins": "Boletins",
+        "imagens": "Imagens"
+      },
+      "items": [
+        {
+          "title": "Atas de Assembleia � 1950�1980",
+          "description": "Delibera��es, presen�a e pautas debatidas em encontros gerais e extraordin�rios."
+        },
+        {
+          "title": "Relat�rios de Gest�o",
+          "description": "S�ntese anual de a��es, indicadores e presta��o de contas das frentes do sindicato."
+        },
+        {
+          "title": "Contratos e Parcerias",
+          "description": "Instrumentos firmados com fornecedores e institui��es, com objetos e vig�ncias."
+        },
+        {
+          "title": "Despesas e Custos Operacionais",
+          "description": "Notas, empenhos e categorias de gasto com crit�rios de classifica��o."
+        },
+        {
+          "title": "Conv�nios e Termos de Coopera��o",
+          "description": "Bases de colabora��o, responsabilidades e resultados esperados."
+        },
+        {
+          "title": "Boletins e Comunicados Oficiais",
+          "description": "Publica��es peri�dicas com decis�es, avisos e orienta��es � categoria."
+        },
+        {
+          "title": "Acervo Fotogr�fico � Acesso P�blico",
+          "description": "Conjunto de imagens com termos de uso, cr�ditos e contexto."
+        },
+        {
+          "title": "Pol�tica de Transpar�ncia e Acesso",
+          "description": "Diretrizes gerais de disponibiliza��o, prazos e canais de atendimento."
+        }
+      ]
+    },
+    "politics": {
+      "eyebrow": "Pol�tica Nacional",
+      "title": "Diretrizes, instrumentos e hist�rico da atua��o sindical",
+      "description": "Sele��o editorial de marcos legais, reformas e eixos tem�ticos para leitura r�pida.",
+      "featured": {
+        "title": "Constitui��o de 1988 � direitos e garantias",
+        "description": "Marco legal que redefine cidadania, rela��es de trabalho e acesso a pol�ticas p�blicas. Entenda impactos no mundo do trabalho e na organiza��o sindical."
+      },
+      "notes": [
+        "Sele��es curadas com fontes verificadas.",
+        "Resumos objetivos para leitura r�pida.",
+        "Aprofunde-se nas p�ginas das an�lises."
+      ],
+      "methodologyLink": "Metodologia",
+      "searchPlaceholder": "Pesquisar marcos�",
+      "ui": {
+        "readAnalysisLabel": "Ver an�lise",
+        "editorialLabel": "Sele��o editorial",
+        "axesLabel": "Eixos",
+        "notesLabel": "Notas",
+        "quickSearchLabel": "Pesquisa r�pida",
+        "footerNote": "Esta � uma pr�via editorial da �rea de Pol�tica Nacional. Consulte as p�ginas dedicadas para leituras completas e refer�ncias.",
+        "prevLabel": "Anterior",
+        "nextLabel": "Pr�ximo"
+      },
+      "axes": {
+        "todos": "Todos",
+        "trabalho": "Trabalho",
+        "previdencia": "Previd�ncia",
+        "educacao": "Educa��o",
+        "saude": "Sa�de",
+        "direitos": "Direitos"
+      },
+      "events": [
+        {
+          "title": "Reforma Trabalhista � Contexto e Efeitos",
+          "summary": "Mudan�as em contratos, negocia��o coletiva e representa��o sindical � linhas gerais e debates."
+        },
+        {
+          "title": "Pol�tica de Valoriza��o do Sal�rio M�nimo",
+          "summary": "Indexadores e f�rmulas que influenciam renda, consumo e negocia��es setoriais."
+        },
+        {
+          "title": "Reforma da Previd�ncia � Regras Gerais",
+          "summary": "Idade m�nima, tempo de contribui��o e transi��es: o que muda para diferentes categorias."
+        },
+        {
+          "title": "Pisos Salariais Profissionais",
+          "summary": "Estruturas de piso por ocupa��o e seus reflexos em carreiras e negocia��es."
+        },
+        {
+          "title": "Diretrizes Nacionais de Educa��o Profissional",
+          "summary": "Qualifica��o e certifica��o para o mundo do trabalho: hist�rico e pol�ticas."
+        },
+        {
+          "title": "SUS � Estrutura e Participa��o Social",
+          "summary": "Conselhos, confer�ncias e acesso universal: como a sa�de p�blica se organiza."
+        },
+        {
+          "title": "Seguran�a e Sa�de no Trabalho",
+          "summary": "Normas Regulamentadoras, preven��o e condi��es de trabalho ao longo das d�cadas."
+        },
+        {
+          "title": "Conselhos e Mesas de Negocia��o",
+          "summary": "Mecanismos de di�logo social entre governo, trabalhadores e empregadores."
+        },
+        {
+          "title": "Programas de Habita��o de Interesse Social",
+          "summary": "Acesso � moradia e impactos socioecon�micos para a classe trabalhadora."
+        },
+        {
+          "title": "Pol�tica de Transpar�ncia e Acesso",
+          "summary": "Bases legais de transpar�ncia ativa, prazos de resposta e controle social."
+        },
+        {
+          "title": "Carta de Princ�pios",
+          "summary": "Valores e compromissos que orientam a atua��o institucional."
+        },
+        {
+          "title": "Pactos Regionais",
+          "summary": "Implementa��o regional de metas e prioridades da pol�tica nacional."
+        }
+      ]
+    }
+  },
+  "politicsPage": {
+    "metadata": {
+      "title": "Pol�tica Nacional � Banco de Mem�ria | Sintracon",
+      "description": "Diretrizes, instrumentos e linha do tempo da pol�tica nacional do sindicato. Busque por eixos, per�odos e acesse documentos completos."
+    },
+    "hero": {
+      "eyebrow": "Pol�tica Nacional"
+    },
+    "sections": {
+      "guidelines": "Diretrizes",
+      "highlights": "Destaques",
+      "instruments": "Instrumentos",
+      "timeline": "Linha do tempo",
+      "implementation": "Implementa��o",
+      "faq": "FAQ"
+    },
+    "stats": {
+      "axes": "Eixos",
+      "guidelines": "Diretrizes",
+      "instruments": "Instrumentos",
+      "periods": "Per�odos",
+      "regions": "Regi�es",
+      "highlights": "Destaques"
+    },
+    "filters": {
+      "searchPlaceholder": "Buscar por t�tulo ou palavra-chave�",
+      "allAxes": "Todos os eixos",
+      "allPeriods": "Todos os per�odos"
+    },
+    "ui": {
+      "readGuideline": "Ler diretriz",
+      "read": "Ler",
+      "highlight": "Destaque",
+      "viewDocument": "Ver documento",
+      "prev": "Anterior",
+      "next": "Pr�ximo"
+    },
+    "timeline": {
+      "note": "Consulte as p�ginas de an�lise para detalhes cronol�gicos."
+    },
+    "implementation": {
+      "note": "Implementa��o regional e indicadores (conte�do din�mico a ser ligado � API real)."
+    },
+    "faq": {
+      "items": [
+        {
+          "q": "Como navegar pelas diretrizes?",
+          "a": "Use filtros por eixo/per�odo e abra as p�ginas de an�lise."
+        },
+        {
+          "q": "Onde encontro os documentos integrais?",
+          "a": "Nos links de instrumentos e diretrizes; futuramente ligados � base oficial."
+        }
+      ]
+    }
+  },
+  "transparencyPage": {
+    "metadata": {
+      "title": "Transpar�ncia | Sintracon",
+      "description": "Relat�rios, plano de dados abertos, pol�tica de privacidade e diretrizes de publica��o."
+    },
+    "hero": {
+      "eyebrow": "Transpar�ncia",
+      "title": "Hub de transpar�ncia institucional",
+      "description": "Relat�rios, pol�ticas e planos p�blicos reunidos num �nico local para acompanhamento da sociedade."
+    },
+    "links": [
+      {
+        "title": "Relat�rio de Transpar�ncia 2024",
+        "description": "Indicadores, entregas e metas do �ltimo ciclo de presta��o de contas.",
+        "action": "Abrir"
+      },
+      {
+        "title": "Plano de Dados Abertos",
+        "description": "Datasets priorizados, formatos e calend�rios de publica��o.",
+        "action": "Abrir"
+      },
+      {
+        "title": "Pol�tica de Privacidade",
+        "description": "Diretrizes de tratamento de dados pessoais e bases legais.",
+        "action": "Abrir"
+      },
+      {
+        "title": "Pol�tica de Transpar�ncia",
+        "description": "Diretrizes de publica��o, n�veis de detalhamento e prazos de resposta �s solicita��es p�blicas.",
+        "action": "Abrir"
+      }
+    ],
+    "footerNote": "Para pedidos formais, consulte tamb�m o portal de Acesso � Informa��o.",
+    "ui": {
+      "open": "Abrir"
+    }
+  },
+  "navbar": {
+    "inicio": "In�cio",
+    "acervo": "Acervo",
+    "acesso": "Acesso",
+    "institucional": "Institucional",
+    "politica": "Pol�tica Nacional",
+    "contato": "Contacto",
+    "diretoria": "Dire��o",
+    "equipe": "Equipa",
+    "transparencia": "Transpar�ncia",
+    "jornais": "Jornais de �poca",
+    "producao": "Produ��o Bibliogr�fica",
+    "sobre": "Sobre",
+    "acervoOverview": "Vis�o geral",
+    "acervoVoltaRedonda": "Volta Redonda",
+    "acervoVrDocuments": "Documentos",
+    "acervoVrDepoimentos": "Depoimentos",
+    "acervoVrBibliografia": "Refer�ncia bibliogr�fica",
+    "acervoVrJornais": "Jornais de �poca",
+    "acervoVrFotos": "Acervo fotogr�fico",
+    "acervoBarraMansa": "Barra Mansa",
+    "acervoBmDocuments": "Documentos",
+    "acervoBmDepoimentos": "Depoimentos",
+    "acervoBmBibliografia": "Refer�ncia bibliogr�fica",
+    "acervoBmJornais": "Jornais de �poca",
+    "acervoBmFotos": "Acervo fotogr�fico",
+    "acervoFundos": "Fundos",
+    "acervoFundosConstrucao": "Constru��o Civil",
+    "acervoFundosMetalurgico": "Metal�rgico",
+    "acervoFundosMovimentos": "Movimentos Populares",
+    "acervoFundosDomWaldyr": "Dom Waldyr"
+  },
+  "footer": {
+    "copyright": "Sintracon",
+    "links": "Liga��es",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "contact": "Contacto",
+    "reserved": "Todos os direitos reservados."
+  },
+  "inicio": {
+    "search": {
+      "title": "Centro de Mem�ria Oper�ria Digitalizada Rubem Machado",
+      "tagline": "Bem-vindos ao nosso acervo virtual. Boa pesquisa!",
+      "description": "Pesquise por termos, nomes ou datas e siga para o acervo completo.",
+      "placeholder": "Pesquise por termos, nomes, datas�",
+      "button": "Pesquisar",
+      "category": "Categoria",
+      "whoWeAre": "QUEM SOMOS"
+    },
+    "timeline": {
+      "eyebrow": "Acervo Dom Waldyr Calheiros",
+      "title": "A��o pastoral, ditadura e movimento oper�rio",
+      "footnote": "Sele��o tem�tica: use as setas para navegar pelos marcos de Dom Waldyr."
+    },
+    "access": {
+      "eyebrow": "Acesso � Informa��o",
+      "title": "Transpar�ncia ativa e pesquisa num s� lugar",
+      "cta": "Saber mais",
+      "filters": "Filtros",
+      "howItWorks": [
+        "Localize o tema",
+        "Aceda ao conte�do desejado",
+        "Verifique permiss�es",
+        "Envie um pedido se necess�rio"
+      ]
+    },
+    "politics": {
+      "eyebrow": "Pol�tica Nacional",
+      "title": "Diretrizes, instrumentos e hist�rico da atua��o sindical",
+      "cta": "Ver an�lise",
+      "notes": "Notas"
+    }
+  },
+  "lang": {
+    "pt-BR": "Portugu�s (Brasil)",
+    "pt-PT": "Portugu�s (Portugal)",
+    "es": "Espa�ol",
+    "en": "English"
+  },
+  "contactPage": {
+    "metadata": {
+      "title": "Contato � Banco de Mem�ria | Sintracon",
+      "description": "Fale com a equipe do Banco de Mem�ria: canais oficiais, formul�rio, endere�os, hor�rios e orienta��es."
+    }
+  },
+    "sessionLanding": {"aboutSection": "Sobre esta sessao","intro": "Esta pagina reune as pre-visualizacoes de {section} do acervo de {city}. Use os links abaixo para navegar entre as secoes ou voltar para a visao geral.","backCity": "Voltar ao acervo de {city}","overview": "Ver visao geral","cta": {"title": "Quer navegar em outra sessao?","subtitle": "Use os menus do topo ou volte para o acervo de {city} para escolher outra colecao.","action": "Voltar ao acervo"}},
+  "homePage": {
+    "hero": {
+      "alt": "Centro de Mem�ria Oper�ria Digitalizada Rubem Machado"
+    },
+    "search": {
+      "title": "Centro de Mem�ria Oper�ria Digitalizada Rubem Machado",
+      "tagline": "Bem-vindos e bem-vindas ao nosso acervo virtual. Boa pesquisa!",
+      "description": "Busque por termos, nomes ou datas e siga para o acervo completo.",
+      "placeholder": "Busque por termos, nomes, datas�",
+      "button": "Pesquisar",
+      "category": "Categoria",
+      "categories": {
+        "all": "Todo o conte�do",
+        "imagens": "Imagens",
+        "videos": "V�deos",
+        "documentos": "Documentos",
+        "pessoas": "Pessoas"
+      }
+    }
+  },
+  "accessExpenses": {
+    "metadata": {
+      "title": "Despesas e custos operacionais � Acesso � Informa��o | Sintracon",
+      "description": "Notas, empenhos e categorias de gasto com crit�rios de classifica��o. Atualiza��o peri�dica."
+    },
+    "eyebrow": "Acesso � Informa��o",
+    "title": "Despesas e custos operacionais",
+    "lead": "Vis�o r�pida dos principais gastos por m�s e por categoria. Planilha completa e notas fiscais ficam dispon�veis mediante pedido formal.",
+    "months": {
+      "oct2025": "out/2025",
+      "sep2025": "set/2025"
+    },
+    "categories": {
+      "preservation": "Preserva��o",
+      "infrastructure": "Infraestrutura",
+      "communication": "Comunica��o"
+    },
+    "expenses": {
+      "digital": "Digitaliza��o e restaura��o",
+      "hosting": "Hospedagem e CDN",
+      "editorial": "Produ��o editorial"
+    },
+    "recent": {
+      "title": "Despesas recentes",
+      "subtitle": "Valores em regime de compet�ncia. Para empenhos/anexos, solicite via Contacto."
+    },
+    "detail": {
+      "title": "Planilha detalhada",
+      "text": {
+        "part1": "Envie um protocolo na �rea",
+        "part2": "ou solicite a planilha de execu��o or�ament�ria pelo"
+      },
+      "access": "Acesso � Informa��o",
+      "contact": "Contacto"
+    }
+  },
+  "accessContracts": {
+    "metadata": {
+      "title": "Contratos e Parcerias � Acesso � Informa��o | Sintracon",
+      "description": "Instrumentos firmados com fornecedores e institui��es. Objetos, vig�ncia, valores e situa��o de execu��o."
+    },
+    "eyebrow": "Acesso � Informa��o",
+    "title": "Contratos e parcerias",
+    "lead": "Consulte objeto, valor estimado, vig�ncia e situa��o. Vers�es assinadas e aditivos ser�o publicados aqui ap�s confer�ncia jur�dica.",
+    "stats": {
+      "active": "Instrumentos ativos",
+      "activeValue": "2",
+      "cooperation": "Em coopera��o",
+      "cooperationValue": "1",
+      "updated": "�ltima atualiza��o",
+      "updatedValue": "nov/2025"
+    },
+    "listing": {
+      "title": "Listagem resumida",
+      "subtitle": "Para c�pias integrais, use Contacto ou o protocolo oficial de pedidos."
+    },
+    "cta": "Ver detalhes",
+    "contracts": {
+      "contract1": {
+        "title": "Contrato 01/2024 � Digitaliza��o e Preserva��o",
+        "partner": "Mem�ria Digital Ltda.",
+        "term": "jan/2024 � dez/2025",
+        "value": "R$ 210.000,00",
+        "status": "Em execu��o"
+      },
+      "contract2": {
+        "title": "Acordo 03/2023 � Hospedagem e CDN",
+        "partner": "InfraCloud S.A.",
+        "term": "jul/2023 � jul/2026",
+        "value": "R$ 86.400,00",
+        "status": "Vigente"
+      },
+      "contract3": {
+        "title": "Conv�nio 07/2022 � Digitaliza��o hist�rica",
+        "partner": "Universidade Popular",
+        "term": "ago/2022 � fev/2024",
+        "value": "R$ 0,00 (coopera��o)",
+        "status": "Encerrado"
+      }
+    },
+    "request": {
+      "title": "Como solicitar",
+      "text": {
+        "part1": "Caso precise de c�pias integrais ou esclarecimentos, envie protocolo pela se��o",
+        "part2": "ou abra um pedido formal em"
+      },
+      "contact": "Contacto",
+      "access": "Acesso � Informa��o"
+    }
+  },
+  "notFound": {
+    "eyebrow": "P�gina n�o encontrada",
+    "lede": "Estamos a preparar esta �rea para ficar dispon�vel em breve.",
+    "badge": "Ainda indispon�vel",
+    "title": "Em constru��o, quase pronta.",
+    "description": "A estrutura est� pronta. Agora refinamos narrativa, acessibilidade e performance para manter a experi�ncia alinhada ao resto do site.",
+    "cta": {
+      "home": "Voltar ao in�cio",
+      "archive": "Explorar o acervo",
+      "contact": "Avisar a equipa"
+    },
+    "status": {
+      "title": "Linha de constru��o",
+      "subtitle": "Evolu��o em camadas",
+      "online": "Online",
+      "navigation": "Arquitetura de navega��o",
+      "navigationValue": "Conclu�da",
+      "navigationNote": "Fluxos e rotas j� mapeados.",
+      "interface": "Interface e tipografia",
+      "interfaceValue": "Aperfei�oar detalhes",
+      "interfaceNote": "Ajustar contrastes e microintera��es.",
+      "editorial": "Conte�do editorial",
+      "editorialValue": "Em curadoria",
+      "editorialNote": "Organizar textos, cr�ditos e fontes."
+    },
+    "shortcuts": {
+      "title": "Atalhos �teis",
+      "politics": "Pol�tica Nacional de Arquivos",
+      "transparency": "Transpar�ncia e relat�rios",
+      "journals": "Jornais de �poca",
+      "personal": "Acervo pessoal: Rubem Machado"
+    },
+    "highlights": {
+      "experience": {
+        "title": "Experi�ncia cont�nua",
+        "text": "Esta p�gina seguir� o mesmo tra�o visual do projeto: fundo escuro, brilho suave e componentes respir�veis."
+      },
+      "early": {
+        "title": "Acesso antecipado",
+        "text": "Enquanto terminamos, pode navegar pelo acervo, consultar a pol�tica nacional ou falar com a equipa."
+      },
+      "direct": {
+        "title": "Linha direta",
+        "text": "Precisa do conte�do j�? Envie uma mensagem pelo Contacto e priorizaremos o que for urgente."
+      }
+    }
+  },
+  "accessMain": {
+    "metadata": {
+      "title": "Acesso � Informa��o � Banco de Mem�ria | Sintracon",
+      "description": "Consulte documentos, pol�ticas e registros do banco de mem�ria. Busque por tema e avance para p�ginas com o conte�do completo."
+    },
+    "hero": {
+      "label": "Acesso � Informa��o",
+      "title": "Transpar�ncia ativa e pesquisa num s� lugar",
+      "description": "Consulte documentos, pol�ticas e registros do banco de mem�ria. Filtre por tema e avance para p�ginas com o conte�do completo.",
+      "searchPlaceholder": "Pesquisar por t�tulo, tema ou descri��o",
+      "filterLabel": "Filtros"
+    },
+    "filters": {
+      "todos": "Todos",
+      "atas": "Atas",
+      "relat�rios": "Relat�rios",
+      "contratos": "Contratos",
+      "despesas": "Despesas",
+      "conv�nios": "Conv�nios",
+      "boletins": "Boletins",
+      "imagens": "Imagens"
+    },
+    "operations": {
+      "howItWorksTitle": "Como funciona",
+      "steps": [
+        {
+          "title": "Localizar",
+          "detail": "Encontre o tema desejado pela busca ou pelos filtros."
+        },
+        {
+          "title": "Aceder",
+          "detail": "Abra a p�gina com o conte�do completo e os termos de uso."
+        },
+        {
+          "title": "Verificar",
+          "detail": "Confirme permiss�es, licen�as e condi��es de reutiliza��o."
+        },
+        {
+          "title": "Solicitar",
+          "detail": "Envie um pedido caso precise de algo espec�fico."
+        }
+      ],
+      "cta": "Enviar pedido de acesso"
+    },
+    "rights": {
+      "title": "Direitos do requerente",
+      "items": [
+        "Orienta��o sobre onde e como acessar as informa��es.",
+        "Ser informado sobre a disponibilidade do conte�do solicitado.",
+        "Justifica��o em caso de restri��o de acesso."
+      ],
+      "policy": "Ver pol�tica de transpar�ncia"
+    },
+    "transparency": {
+      "heading": "Transpar�ncia ativa - relat�rios",
+      "reports": [
+        {
+          "title": "Relat�rio de Transpar�ncia 2024",
+          "description": "Indicadores de atendimento, prazos e bases publicadas."
+        },
+        {
+          "title": "Plano de Dados Abertos",
+          "description": "Datasets priorizados, formatos e respons�veis pelas atualiza��es."
+        },
+        {
+          "title": "Pol�tica de Privacidade",
+          "description": "Tratamento de dados pessoais e bases legais aplic�veis."
+        }
+      ]
+    },
+    "datasets": {
+      "heading": "Datasets p�blicos",
+      "label": "Atualiza��o peri�dica �",
+      "items": [
+        {
+          "title": "Cat�logo de Documentos (CSV)",
+          "type": "CSV"
+        },
+        {
+          "title": "Vocabul�rio Controlado (JSON)",
+          "type": "JSON"
+        },
+        {
+          "title": "S�ries de Pedidos de Acesso (CSV)",
+          "type": "CSV"
+        }
+      ]
+    },
+    "quickSteps": [
+      {
+        "title": "Localizar",
+        "text": "Use busca e filtros para chegar ao conte�do."
+      },
+      {
+        "title": "Verificar",
+        "text": "Leia os termos de uso e permiss�es dispon�veis."
+      },
+      {
+        "title": "Solicitar",
+        "text": "Envie um pedido com justificativa quando necess�rio."
+      }
+    ],
+    "faq": {
+      "heading": "Perguntas frequentes",
+      "items": [
+        {
+          "q": "Quais informa��es podem estar restritas?",
+          "a": "Itens com dados pessoais sens�veis, segredos industriais ou direitos autorais n�o licenciados podem ter acesso condicionado."
+        },
+        {
+          "q": "Em quanto tempo recebo retorno do pedido?",
+          "a": "Voc� recebe protocolo imediato e atualiza��o de status; os prazos variam conforme a complexidade do acesso."
+        },
+        {
+          "q": "Posso reutilizar os dados?",
+          "a": "Respeite a licen�a indicada em cada item. Datasets podem ser reutilizados com cr�dito ao Banco de Mem�ria."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Fale com a equipa",
+      "description": "D�vidas sobre prazos, formatos e disponibiliza��o? Estamos � disposi��o.",
+      "cta": "Solicitar acesso"
+    },
+    "ui": {
+      "learnMore": "Saiba mais",
+      "viewMore": "Ver mais",
+      "open": "Abrir",
+      "download": "Baixar"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Fale connosco",
+      "title": "Contacto � Banco de Mem�ria",
+      "description": "Estamos dispon�veis para pedidos de pesquisa, doa��es, imprensa e atendimento ao trabalhador.",
+      "primaryAction": "Enviar mensagem",
+      "phone": "(11) 0000-0000",
+      "email": "contato@sintracon.org.br"
+    },
+    "channels": {
+      "title": "Canais oficiais",
+      "description": "Escolha o canal que melhor se adequa � sua demanda para agilizar o atendimento.",
+      "cards": [
+        {
+          "title": "Atendimento ao Trabalhador",
+          "subtitle": "D�vidas e orienta��es",
+          "description": "Direitos, documentos e encaminhamentos. Resposta at� 2 dias �teis."
+        },
+        {
+          "title": "Pesquisa & Acervo",
+          "subtitle": "Pedidos de pesquisa",
+          "description": "Consulta ao banco de mem�ria, doa��es e uso de imagem."
+        },
+        {
+          "title": "WhatsApp",
+          "subtitle": "Mensagens r�pidas",
+          "description": "Atendimento em hor�rio comercial. N�o envie documentos sens�veis."
+        },
+        {
+          "title": "Imprensa",
+          "subtitle": "Assessoria",
+          "description": "Entrevistas, dados e imagens com cr�dito institucional."
+        },
+        {
+          "title": "Atendimento Presencial",
+          "subtitle": "Matriz",
+          "description": "Endere�o, hor�rios e agendamento para consulta local."
+        }
+      ]
+    },
+    "form": {
+      "heading": "Envie uma mensagem",
+      "description": "Preencha o formul�rio e responderemos em at� 2 dias �teis.",
+      "fields": [
+        { "label": "Nome completo" },
+        { "label": "E-mail" },
+        { "label": "Telefone (opcional)" },
+        {
+          "label": "Assunto",
+          "options": [
+            "Atendimento ao Trabalhador",
+            "Pesquisa / Acervo",
+            "Doa��o de materiais",
+            "Imprensa",
+            "Outros"
+          ]
+        }
+      ],
+      "textarea": { "label": "Mensagem" },
+      "consent": {
+        "text": "Ao enviar, voc� concorda com a nossa ",
+        "linkLabel": "Pol�tica de Privacidade (RGPD)",
+        "suffix": " e com o uso das informa��es para fins de atendimento."
+      },
+      "buttonLabel": "Enviar",
+      "successMessage": "Mensagem enviada! Obrigado pelo contacto.",
+      "selectPlaceholder": "Selecione"
+    },
+    "addresses": {
+      "heading": "Moradas & hor�rios",
+      "description": "Atendimento presencial sujeito a disponibilidade. Traga documento de identifica��o.",
+      "locations": [
+        {
+          "title": "Matriz � Centro de Mem�ria",
+          "address": "Rua Exemplo, 123 � Centro, S�o Paulo/SP",
+          "hours": "Seg a Sex, 9h � 17h",
+          "a11y": "Acesso facilitado, elevador, sanit�rios"
+        },
+        {
+          "title": "Unidade de Atendimento",
+          "address": "Av. Modelo, 456 � Bairro, S�o Paulo/SP",
+          "hours": "Seg a Sex, 10h � 16h",
+          "a11y": "Rampa de acesso, balc�o priorit�rio"
+        }
+      ]
+    },
+    "map": {
+      "heading": "Mapa & como chegar",
+      "description": "Use transporte p�blico sempre que poss�vel. Consulte rotas e hor�rios atualizados.",
+      "iframeTitle": "Mapa � Centro de Mem�ria",
+      "note": "Transporte p�blico recomendado; confira itiner�rios recentes."
+    },
+    "faq": {
+      "heading": "Perguntas frequentes",
+      "items": [
+        { "q": "Qual o prazo de resposta?", "a": "At� 2 dias �teis, dependendo do volume de pedidos." },
+        {
+          "q": "Posso solicitar c�pias digitalizadas?",
+          "a": "Sim, conforme pol�tica de uso e direitos. Alguns materiais exigem autoriza��o."
+        },
+        {
+          "q": "Como doar materiais ao acervo?",
+          "a": "Envie detalhes pelo formul�rio ou e-mail. A equipa orienta a avalia��o e os tr�mites."
+        },
+        {
+          "q": "H� atendimento presencial para pesquisa?",
+          "a": "Sim, com agendamento e disponibilidade. Consulte hor�rios e traga documento."
+        }
+      ],
+      "note": "Para outros assuntos, consulte a nossa ",
+      "noteLink": "Pol�tica de Transpar�ncia",
+      "openSymbol": "-",
+      "closeSymbol": "+"
+    }
+  }
+,
+  "acervo": {"sectionGrid": {"open": "Abrir"},
+    "metadata": {"title": "Acervo - Banco de Memoria | Sintracon","description": "Pesquise e filtre documentos, depoimentos, bibliografia, jornais e fotos por tipo, origem e etiquetas."},
+    "hero": {
+      "searchLabel": "Pesquisar",
+      "searchPlaceholder": "Pesquisar por titulo, etiqueta ou cidade.",
+      "empty": "Nenhum resultado para a sua pesquisa. Ajuste filtros ou termos.",
+      "filterOptions": {
+        "types": {"all": "Todos","document": "Documento","interview": "Depoimento","bibliography": "Bibliografia","newspaper": "Jornal","photo": "Foto"},
+        "origins": {"all": "Todos","vr": "Volta Redonda","bm": "Barra Mansa","funds": "Fundos"},
+        "tags": {"documents": "Documentos","atas": "Atas","strikes": "Greves","testimonies": "Depoimentos","oral": "Oral","leaders": "Liderancas","bibliography": "Bibliografia","clipping": "Clipping","newspapers": "Jornais","history": "Historico","photo": "Fotografia","daily": "Quotidiano","mobilization": "Mobilizacao","funds": "Fundos","construction": "Const. Civil","metal": "Metalurgico","movements": "Mov. Populares","domWaldyr": "Dom Waldyr"}
+      },
+      "actions": {"viewItem": "Ver item"},
+      "nav": {"previous": "Anterior","next": "Seguinte","results": "Resultados do acervo (navegacao por setas/rolagem)"},
+      "items": [
+        {"title": "Documentos - Volta Redonda","origin": "Volta Redonda","type": "Documento","tags": ["Documentos","Atas","Greves"]},
+        {"title": "Depoimentos - Volta Redonda","origin": "Volta Redonda","type": "Depoimento","tags": ["Depoimentos","Oral","Liderancas"]},
+        {"title": "Referencia Bibliografica - Volta Redonda","origin": "Volta Redonda","type": "Bibliografia","tags": ["Bibliografia","Clipping"]},
+        {"title": "Jornais de epoca - Volta Redonda","origin": "Volta Redonda","type": "Jornal","tags": ["Jornais","Greves"]},
+        {"title": "Acervo Fotografico - Volta Redonda","origin": "Volta Redonda","type": "Foto","tags": ["Fotografia","Quotidiano"]},
+        {"title": "Documentos - Barra Mansa","origin": "Barra Mansa","type": "Documento","tags": ["Documentos","Atas"]},
+        {"title": "Depoimentos - Barra Mansa","origin": "Barra Mansa","type": "Depoimento","tags": ["Depoimentos","Oral"]},
+        {"title": "Referencia Bibliografica - Barra Mansa","origin": "Barra Mansa","type": "Bibliografia","tags": ["Bibliografia","Clipping"]},
+        {"title": "Jornais de epoca - Barra Mansa","origin": "Barra Mansa","type": "Jornal","tags": ["Jornais","Historico"]},
+        {"title": "Acervo Fotografico - Barra Mansa","origin": "Barra Mansa","type": "Foto","tags": ["Fotografia","Mobilizacao"]},
+        {"title": "Fundos - Construcao Civil","origin": "Fundos","type": "Documento","tags": ["Fundos","Const. Civil"]},
+        {"title": "Fundos - Metalurgico","origin": "Fundos","type": "Documento","tags": ["Fundos","Metalurgico"]},
+        {"title": "Fundos - Movimentos Populares","origin": "Fundos","type": "Jornal","tags": ["Fundos","Mov. Populares","Cartazes"]},
+        {"title": "Fundos - Dom Waldyr","origin": "Fundos","type": "Bibliografia","tags": ["Fundos","Dom Waldyr"]}
+      ]
+    },
+    "cityShowcase": {
+      "eyebrow": "Acervo por cidade e fundos",
+      "title": "Visao completa dos nucleos disponiveis",
+      "description": "O acervo publico reune Volta Redonda, Barra Mansa e fundos tematicos. Cada bloco detalha recorte, cobertura e pre-visualizacoes das secoes principais.",
+      "badges": ["Jornais","Fotos","Documentos & Bibliografia"],
+      "cities": [
+        {"name": "Volta Redonda","description": "Eixo industrial com greves historicas e producao documental ligada a construcao civil e metalurgia.","coverage": "Anos 1940-2000 | Movimentos paredistas e quotidiano fabril","focus": ["Documentacao sindical","Historia oral","Clippings e bibliografia","Fotografia de mobilizacao"],"sections": [
+          {"title": "Documentos","description": "Atas, oficios e relatorios das bases em VR."},
+          {"title": "Depoimentos","description": "Historia oral com liderancas e chao de fabrica."},
+          {"title": "Referencia Bibliografica","description": "Clippings, livros e artigos sobre VR."},
+          {"title": "Jornais de epoca","description": "Capas e edicoes digitalizadas."},
+          {"title": "Acervo Fotografico","description": "Mobilizacao e quotidiano fabril em imagens."}
+        ]},
+        {"name": "Barra Mansa","description": "Redes regionais de apoio e memoria operaria ligada ao Vale do Paraiba.","coverage": "Anos 1930-2000 | Bases locais, assembleias e cultura sindical","focus": ["Atas e oficios","Relatos de trabalhadores","Recortes de imprensa","Fotografia do territorio"],"sections": [
+          {"title": "Documentos","description": "Oficios, atas e normativas locais."},
+          {"title": "Depoimentos","description": "Vozes de trabalhadores e dirigentes."},
+          {"title": "Referencia Bibliografica","description": "Bibliografia e catalogos sobre BM."},
+          {"title": "Jornais de epoca","description": "Recortes e edicoes historicas."},
+          {"title": "Acervo Fotografico","description": "Imagens de mobilizacao e quotidiano."}
+        ]},
+        {"name": "Fundos Tematicos","description": "Colecoes por fundos institucionais e tematicos: construcao civil, metalurgia, movimento operario e Dom Waldyr.","coverage": "Series diversas | Documentos, imprensa, iconografia","focus": ["Const. Civil","Metalurgico","Mov. Populares","Dom Waldyr"],"sections": [
+          {"title": "Const. Civil","description": "Atas, memoriais e registos da categoria."},
+          {"title": "Metalurgico","description": "Documentacao e media sindical da metalurgia."},
+          {"title": "Mov. Populares","description": "Cartazes, jornais e narrativas do movimento."},
+          {"title": "Dom Waldyr","description": "Acervo relacionado a atuacao de Dom Waldyr."}
+        ]}
+      ]
+    }
+  }
+}

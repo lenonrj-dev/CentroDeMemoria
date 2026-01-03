@@ -1,0 +1,5 @@
+{
+  "subjects": ["trabalho", "sindicatos", "historia oral"],
+  "places": ["Volta Redonda", "Barra Mansa", "Resende"],
+  "types": ["boletim", "fotografia", "documento", "entrevista"]
+}

@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "title": "Archive — Memory Bank | Sintracon",
+    "description": "Browse the archive: historical newspapers, photographs, posters, documents and interviews. Search by theme, apply filters and explore featured collections."
+  },
+  "hero": {
+    "searchLabel": "Search the archive",
+    "searchPlaceholder": "Search by title, type, city or tag",
+    "empty": "No items found with the current filters.",
+    "filters": {
+      "types": "Types",
+      "origins": "Cities",
+      "tags": "Topics"
+    },
+    "filterOptions": {
+      "types": {
+        "all": "All",
+        "document": "Document",
+        "interview": "Interview",
+        "bibliography": "Bibliographic reference",
+        "newspaper": "Newspaper",
+        "photo": "Photo",
+        "fallback": "Other"
+      },
+      "origins": {
+        "all": "All",
+        "vr": "Volta Redonda",
+        "bm": "Barra Mansa",
+        "funds": "Funds",
+        "fallback": "Other"
+      },
+      "tags": {
+        "documents": "Documents",
+        "atas": "Minutes",
+        "strikes": "Strikes",
+        "testimonies": "Testimonies",
+        "oral": "Oral history",
+        "leaders": "Leadership",
+        "bibliography": "Bibliography",
+        "clipping": "Clipping",
+        "newspapers": "Newspapers",
+        "history": "Historic",
+        "photo": "Photography",
+        "daily": "Daily life",
+        "mobilization": "Mobilization",
+        "funds": "Funds",
+        "construction": "Civil construction",
+        "metal": "Metallurgical",
+        "movements": "Popular movements",
+        "domWaldyr": "Dom Waldyr",
+        "fallback": "Topic"
+      }
+    },
+    "actions": {
+      "viewItem": "View item"
+    },
+    "nav": {
+      "previous": "Previous",
+      "next": "Next",
+      "results": "Archive results (navigate with arrows/scroll)"
+    }
+  },
+  "cityShowcase": {
+    "eyebrow": "Territorial highlights",
+    "title": "Available archives",
+    "description": "Explore thematic and territorial collections."
+  },
+  "sectionGrid": {
+    "open": "Open section"
+  },
+  "sessionLanding": {
+    "aboutSection": "About this section",
+    "intro": "{section} in the {city} archive. Explore descriptions, series and highlights.",
+    "backCity": "Back to {city}",
+    "overview": "Archive overview",
+    "cta": {
+      "title": "Browse the {city} archive",
+      "subtitle": "Access collections, series and available records.",
+      "action": "Open archive"
+    }
+  }
+}

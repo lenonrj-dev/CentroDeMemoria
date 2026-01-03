@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "title": "Acervo — Banco de Memória | Sintracon",
+    "description": "Navegue pelo acervo: jornais de época, fotografias, cartazes, documentos e entrevistas. Busque por tema, use filtros e confira coleções em destaque."
+  },
+  "hero": {
+    "searchLabel": "Buscar no acervo",
+    "searchPlaceholder": "Busque por título, tipo, cidade ou tag",
+    "empty": "Nenhum item encontrado com os filtros atuais.",
+    "filters": {
+      "types": "Tipos",
+      "origins": "Cidades",
+      "tags": "Assuntos"
+    },
+    "filterOptions": {
+      "types": {
+        "all": "Todos",
+        "document": "Documento",
+        "interview": "Depoimento",
+        "bibliography": "Referência bibliográfica",
+        "newspaper": "Jornal",
+        "photo": "Foto",
+        "fallback": "Outros"
+      },
+      "origins": {
+        "all": "Todos",
+        "vr": "Volta Redonda",
+        "bm": "Barra Mansa",
+        "funds": "Fundos",
+        "fallback": "Outros"
+      },
+      "tags": {
+        "documents": "Documentos",
+        "atas": "Atas",
+        "strikes": "Greves",
+        "testimonies": "Depoimentos",
+        "oral": "História oral",
+        "leaders": "Lideranças",
+        "bibliography": "Bibliografia",
+        "clipping": "Clipping",
+        "newspapers": "Jornais",
+        "history": "Histórico",
+        "photo": "Fotografia",
+        "daily": "Cotidiano",
+        "mobilization": "Mobilização",
+        "funds": "Fundos",
+        "construction": "Const. civil",
+        "metal": "Metalúrgico",
+        "movements": "Mov. populares",
+        "domWaldyr": "Dom Waldyr",
+        "fallback": "Assunto"
+      }
+    },
+    "actions": {
+      "viewItem": "Ver item"
+    },
+    "nav": {
+      "previous": "Anterior",
+      "next": "Próximo",
+      "results": "Resultados do acervo (navegação por setas/rolagem)"
+    }
+  },
+  "cityShowcase": {
+    "eyebrow": "Recortes territoriais",
+    "title": "Acervos disponíveis",
+    "description": "Explore as coleções temáticas e territoriais."
+  },
+  "sectionGrid": {
+    "open": "Abrir seção"
+  },
+  "sessionLanding": {
+    "aboutSection": "Sobre esta seção",
+    "intro": "{section} no acervo de {city}. Explore descrições, séries e destaques.",
+    "backCity": "Voltar para {city}",
+    "overview": "Visão geral do acervo",
+    "cta": {
+      "title": "Navegue pelo acervo de {city}",
+      "subtitle": "Acesse coleções, séries e documentos disponíveis.",
+      "action": "Abrir acervo"
+    }
+  }
+}

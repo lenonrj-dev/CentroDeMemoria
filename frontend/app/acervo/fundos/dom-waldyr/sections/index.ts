@@ -1,0 +1,9 @@
+export { DomWaldyrHero } from "./HeroSection";
+export { DomWaldyrIntro } from "./IntroSection";
+export { DomWaldyrDocuments } from "./DocumentsSection";
+export { DomWaldyrDepoimentos } from "./DepoimentosSection";
+export { DomWaldyrReferencias } from "./ReferenciasSection";
+export { DomWaldyrJornais } from "./JornaisSection";
+export { DomWaldyrFotos } from "./FotosSection";
+export { DomWaldyrHistorias } from "./HistoriasSection";
+export { DomWaldyrCTA } from "./CtaSection";

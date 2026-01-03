@@ -1,0 +1,1220 @@
+{
+  "global": {
+    "skipToContent": "Ir para o conteúdo",
+    "siteTitle": "Sintracon",
+    "siteSubtitle": "Centro de Memória",
+    "menu": "Menu",
+    "close": "Fechar",
+    "searchPlaceholder": "Buscar...",
+    "language": "Idioma",
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "youtube": "YouTube"
+    }
+  },
+  "home": {
+    "featured": {
+      "eyebrow": "Fundos de Acervo Pessoal",
+      "title": "Dom Waldyr Calheiros",
+      "description": "Documentação, relatos e publicações que registram a presença pastoral de Dom Waldyr junto aos trabalhadores de Volta Redonda e Barra Mansa. Um acervo para pesquisa, mediação e inspiração de novas leituras.",
+      "primaryCta": "Ver produção bibliográfica",
+      "secondaryCta": "Sobre o Fundo",
+      "footnote": "Conteúdos ilustrativos. A organização final seguirá o catálogo oficial do acervo.",
+      "items": [
+        {
+          "title": "Funcionários da Metalúrgica Barbará (1950)",
+          "description": "Registro histórico dos Trabalhadores Metalúrgicos da Barbará na década de 1950"
+        },
+        {
+          "title": "Funcionários da Siderúrgica de Barra Mansa (1950)",
+          "description": "Registro histórico de trabalhadores da siderurgia de Barra Mansa na década de 1950"
+        },
+        {
+          "title": "Obelisco em homenagem aos operários de Barra Mansa (1933)",
+          "description": "Obelisco inaugurado em 1 de Maio de 1933. Fonte: Academia Barramansense de História."
+        },
+        {
+          "title": "Lançamento da Pedra Fundamental da Siderúrgica Barra Mansa (1935)",
+          "description": "Ato de fundação da siderúrgica Barra Mansa com assinatura de Dario Aragão."
+        },
+        {
+          "title": "Construção da Companhia Nestlé (1936)",
+          "description": "Registro do início das obras da companhia Nestlé na década de 1930."
+        },
+        {
+          "title": "Repressão a manifestação popular",
+          "description": "Ocasião do assassinato do líder sindical Rubem Machado, presidente do Sindicato da Construção Civil de Volta Redonda-RJ e região."
+        },
+        {
+          "title": "O Movimento Operário no Sul Fluminense (1970)",
+          "description": "Homenagem aos trabalhadores e ao sindicato pelo apoio contínuo."
+        },
+        {
+          "title": "Repressão policial e memória operária",
+          "description": "Registros de confrontos e memória das lutas em Volta Redonda e Barra Mansa."
+        }
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Acervo Dom Waldyr Calheiros",
+      "title": "Ação pastoral, ditadura e movimento operário",
+      "description": "Linha do tempo sobre a atuação de Dom Waldyr junto aos trabalhadores: visitas pastorais, resistência à ditadura civil-militar e apoio direto ao movimento operário.",
+      "items": [
+        {
+          "title": "Primeiras missões pastorais",
+          "description": "Formação, ordenação e chegada ao Sul Fluminense; aproximação com metalúrgicos e bases comunitárias."
+        },
+        {
+          "title": "Ação pastoral em vilas operárias",
+          "description": "Visitas a canteiros, mutirões e apoio às famílias dos trabalhadores da construção civil e siderurgia."
+        },
+        {
+          "title": "Ditadura civil-militar",
+          "description": "Denúncias de tortura, defesa de presos políticos e articulação com pastorais sociais em plena repressão."
+        },
+        {
+          "title": "Movimento operário em Volta Redonda",
+          "description": "Mediação de conflitos, apoio a greves e defesa dos direitos de metalúrgicos e da construção civil."
+        },
+        {
+          "title": "Comunicação e boletins",
+          "description": "Publicações pastorais, notas e cartas que orientavam comunidades e sindicatos em tempos de censura."
+        },
+        {
+          "title": "Direitos humanos e mediação",
+          "description": "Interlocução com autoridades, visitas a presídios e apoio jurídico a lideranças perseguidas."
+        },
+        {
+          "title": "Comunidades eclesiais de base",
+          "description": "Organização de círculos bíblicos e redes de solidariedade popular alinhadas às lutas trabalhistas."
+        },
+        {
+          "title": "Reconhecimento e legado",
+          "description": "Homenagens de sindicatos e movimentos populares; memória viva no Sul Fluminense."
+        }
+      ],
+      "aside": {
+        "label": "Perfil em foco",
+        "name": "Dom Waldyr Calheiros",
+        "role": "Bispo aliado ao movimento operário",
+        "highlights": [
+          "Ação pastoral junto aos operários",
+          "Enfrentamento à ditadura",
+          "Apoio a greves e presos políticos",
+          "Memória dos trabalhadores"
+        ]
+      },
+      "footnote": "Seleção temática: use as setas para navegar pelos marcos de Dom Waldyr."
+    },
+    "hero": {
+      "alt": "Centro de Memória Operária Digitalizada Rubem Machado"
+    },
+    "search": {
+      "title": "Centro de Memória Operária Digitalizada Rubem Machado",
+      "tagline": "Bem-vindos e bem-vindas ao nosso acervo virtual. Boa pesquisa!",
+      "description": "Busque por termos, nomes ou datas e siga para o acervo completo.",
+      "placeholder": "Busque por termos, nomes, datas…",
+      "button": "Pesquisar",
+      "category": "Categoria",
+      "categories": {
+        "all": "Todo o conteúdo",
+        "imagens": "Imagens",
+        "videos": "Vídeos",
+        "documentos": "Documentos",
+        "pessoas": "Pessoas"
+      }
+    },
+    "journals": {
+      "eyebrow": "Jornais de época",
+      "title": "Uma janela para o passado",
+      "description": "Explore edições históricas digitalizadas e siga para a leitura completa.",
+      "cta": "Ver todos os jornais",
+      "ui": {
+        "allLabel": "todos os tipos",
+        "readLabel": "Ler jornal",
+        "prevLabel": "Anterior",
+        "nextLabel": "Próximo",
+        "carouselAriaLabel": "Carrossel de jornais de época",
+        "coverAltTemplate": "{title} – capa"
+      },
+      "filters": {
+        "all": "Todos",
+        "1910s": "1910s",
+        "1920s": "1920s",
+        "1930s": "1930s",
+        "1940s": "1940s",
+        "1950s": "1950s",
+        "1960s": "1960s"
+      },
+      "items": [
+        {
+          "title": "O Operário",
+          "description": "Edição dedicada à organização de base e às primeiras pautas salariais."
+        },
+        {
+          "title": "Folha do Trabalhador",
+          "description": "Relatos de mobilizações em bairros fabris e formação de comissões."
+        },
+        {
+          "title": "Gazeta Sindical",
+          "description": "Análise das greves históricas e estratégias de negociação coletiva."
+        },
+        {
+          "title": "O Dia do Povo",
+          "description": "Cobertura de marchas, assembleias e da vida cotidiana nos galpões."
+        },
+        {
+          "title": "Tribuna Operária",
+          "description": "Edição especial sobre segurança, saúde e reformas dos locais de trabalho."
+        },
+        {
+          "title": "Voz da Fábrica",
+          "description": "Crônicas de turno, refeitórios e as novas demandas do pós-guerra."
+        },
+        {
+          "title": "Correio Popular",
+          "description": "Editorial sobre custo de vida e tabelas comparativas de preços."
+        },
+        {
+          "title": "Jornal do Metal",
+          "description": "Reportagens fotográficas das linhas de montagem e novas tecnologias."
+        },
+        {
+          "title": "A Voz do Sindicato",
+          "description": "Plano de lutas, calendário de assembleias e entrevistas com lideranças."
+        },
+        {
+          "title": "Boletim do Trabalhador",
+          "description": "Cartazes, notas rápidas e uma linha do tempo de conquistas."
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Equipe Técnica",
+      "title": "Quem faz o Centro de Memória Operária acontecer",
+      "description": "Um time multidisciplinar dedicado à preservação, pesquisa e acesso público.",
+      "cta": "Ver equipe completa",
+      "ui": {
+        "photoAltTemplate": "Foto de {name}",
+        "viewProfileLabel": "Ver perfil",
+        "emailLabel": "Enviar e-mail para {name}",
+        "linkedinLabel": "LinkedIn de {name}"
+      },
+      "people": [
+        {
+          "role": "Coordenação Geral & Curadoria",
+          "bio": "Estratégia do acervo, diretrizes de preservação e validação histórica.",
+          "tags": [
+            "Curadoria",
+            "Gestão",
+            "Memória"
+          ]
+        },
+        {
+          "role": "Arquivista Chefe",
+          "bio": "Classificação, descrição e políticas de acesso ao acervo.",
+          "tags": [
+            "Arquivística",
+            "Catalogação",
+            "Acesso"
+          ]
+        },
+        {
+          "role": "Historiador",
+          "bio": "Contextualização, recorte temporal e verificação de fontes.",
+          "tags": [
+            "Pesquisa",
+            "Contexto",
+            "Fontes"
+          ]
+        },
+        {
+          "role": "Líder de Digitalização",
+          "bio": "Fluxo de captura, restauração e padrões de imagem.",
+          "tags": [
+            "Digitalização",
+            "Restauração",
+            "Metadados"
+          ]
+        },
+        {
+          "role": "Eng. de Software",
+          "bio": "Aplicação, pesquisa e interface com o banco de memória.",
+          "tags": [
+            "Full-stack",
+            "Next.js",
+            "UX"
+          ]
+        },
+        {
+          "role": "Infra & DevOps",
+          "bio": "Escalabilidade, backups e observabilidade do ambiente.",
+          "tags": [
+            "Infra",
+            "S3/KVM",
+            "Segurança"
+          ]
+        },
+        {
+          "role": "Design & Acessibilidade",
+          "bio": "Identidade visual e leitura confortável em todas as telas.",
+          "tags": [
+            "UI",
+            "A11y",
+            "Sistemas"
+          ]
+        },
+        {
+          "role": "Gestão de Conteúdo",
+          "bio": "Padronização editorial, revisão e publicação de coleções.",
+          "tags": [
+            "Editorial",
+            "Padrões",
+            "Publicação"
+          ]
+        }
+      ]
+    },
+    "access": {
+      "eyebrow": "Acesso à Informação",
+      "title": "Transparência ativa e busca em um só lugar",
+      "description": "Consulte documentos, políticas e registros do banco de memória.",
+      "ui": {
+        "searchPlaceholder": "Buscar por título, tema ou descrição…",
+        "filtersLabel": "Filtros",
+        "resultsTemplate": "{count} resultado(s) – {filter}",
+        "allFiltersLabel": "todos os tipos",
+        "prevLabel": "Anterior",
+        "nextLabel": "Próximo",
+        "readMoreLabel": "Saiba mais",
+        "howItWorksTitle": "Como funciona",
+        "ctaLabel": "Enviar pedido de acesso",
+        "rightsTitle": "Direitos do requerente",
+        "rightsLinkLabel": "Ver política de transparência",
+        "howItWorksSteps": [
+          "1. Localize o tema pela busca ou filtros.",
+          "2. Acesse a página do conteúdo desejado.",
+          "3. Verifique permissões e termos de uso quando aplicável.",
+          "4. Precisa de algo específico? Envie um pedido de acesso."
+        ],
+        "rightsItems": [
+          "Orientação sobre onde e como acessar informações.",
+          "Ser informado sobre a disponibilidade do conteúdo solicitado.",
+          "Justificativa em caso de restrição de acesso."
+        ]
+      },
+      "filters": {
+        "todas": "Todas",
+        "atas": "Atas",
+        "relatorios": "Relatórios",
+        "contratos": "Contratos",
+        "despesas": "Despesas",
+        "convenios": "Convênios",
+        "boletins": "Boletins",
+        "imagens": "Imagens"
+      },
+      "items": [
+        {
+          "title": "Atas de Assembleia — 1950–1980",
+          "description": "Deliberações, presença e pautas debatidas em encontros gerais e extraordinários."
+        },
+        {
+          "title": "Relatórios de Gestão",
+          "description": "Síntese anual de ações, indicadores e prestação de contas das frentes do sindicato."
+        },
+        {
+          "title": "Contratos e Parcerias",
+          "description": "Instrumentos firmados com fornecedores e instituições, com objetos e vigências."
+        },
+        {
+          "title": "Despesas e Custos Operacionais",
+          "description": "Notas, empenhos e categorias de gasto com critérios de classificação."
+        },
+        {
+          "title": "Convênios e Termos de Cooperação",
+          "description": "Bases de colaboração, responsabilidades e resultados esperados."
+        },
+        {
+          "title": "Boletins e Comunicados Oficiais",
+          "description": "Publicações periódicas com decisões, avisos e orientações à categoria."
+        },
+        {
+          "title": "Acervo Fotográfico — Acesso Público",
+          "description": "Conjunto de imagens com termos de uso, créditos e contexto."
+        },
+        {
+          "title": "Política de Transparência e Acesso",
+          "description": "Diretrizes gerais de disponibilização, prazos e canais de atendimento."
+        }
+      ]
+    },
+    "politics": {
+      "eyebrow": "Política Nacional",
+      "title": "Diretrizes, instrumentos e histórico da atuação sindical",
+      "description": "Seleção editorial de marcos legais, reformas e eixos temáticos para leitura rápida.",
+      "featured": {
+        "title": "Constituição de 1988 – direitos e garantias",
+        "description": "Marco legal que redefine cidadania, relações de trabalho e acesso a políticas públicas. Entenda impactos no mundo do trabalho e na organização sindical."
+      },
+      "notes": [
+        "Seleções curadas com fontes verificadas.",
+        "Resumos objetivos para leitura rápida.",
+        "Aprofunde-se nas páginas das análises."
+      ],
+      "methodologyLink": "Metodologia",
+      "searchPlaceholder": "Buscar marcos…",
+      "ui": {
+        "readAnalysisLabel": "Ver análise",
+        "editorialLabel": "Seleção editorial",
+        "axesLabel": "Eixos",
+        "notesLabel": "Notas",
+        "quickSearchLabel": "Busca rápida",
+        "footerNote": "Esta é uma prévia editorial da área de Política Nacional. Consulte as páginas dedicadas para leituras completas e referências.",
+        "prevLabel": "Anterior",
+        "nextLabel": "Próximo"
+      },
+      "axes": {
+        "todos": "Todos",
+        "trabalho": "Trabalho",
+        "previdencia": "Previdência",
+        "educacao": "Educação",
+        "saude": "Saúde",
+        "direitos": "Direitos"
+      },
+      "events": [
+        {
+          "title": "Reforma Trabalhista – Contexto e Efeitos",
+          "summary": "Mudanças em contratos, negociação coletiva e representação sindical – linhas gerais e debates."
+        },
+        {
+          "title": "Política de Valorização do Salário Mínimo",
+          "summary": "Indexadores e fórmulas que influenciam renda, consumo e negociações setoriais."
+        },
+        {
+          "title": "Reforma da Previdência – Regras Gerais",
+          "summary": "Idade mínima, tempo de contribuição e transições: o que muda para diferentes categorias."
+        },
+        {
+          "title": "Pisos Salariais Profissionais",
+          "summary": "Estruturas de piso por ocupação e seus reflexos em carreiras e negociações."
+        },
+        {
+          "title": "Diretrizes Nacionais de Educação Profissional",
+          "summary": "Qualificação e certificação para o mundo do trabalho: histórico e políticas."
+        },
+        {
+          "title": "SUS – Estrutura e Participação Social",
+          "summary": "Conselhos, conferências e acesso universal: como a saúde pública se organiza."
+        },
+        {
+          "title": "Segurança e Saúde no Trabalho",
+          "summary": "Normas Regulamentadoras, prevenção e condições de trabalho ao longo das décadas."
+        },
+        {
+          "title": "Conselhos e Mesas de Negociação",
+          "summary": "Mecanismos de diálogo social entre governo, trabalhadores e empregadores."
+        },
+        {
+          "title": "Programas de Habitação de Interesse Social",
+          "summary": "Acesso à moradia e impactos socioeconômicos para a classe trabalhadora."
+        },
+        {
+          "title": "Política de Transparência e Acesso",
+          "summary": "Bases legais de transparência ativa, prazos de resposta e controle social."
+        },
+        {
+          "title": "Carta de Princípios",
+          "summary": "Valores e compromissos que orientam a atuação institucional."
+        },
+        {
+          "title": "Pactos Regionais",
+          "summary": "Implementação regional de metas e prioridades da política nacional."
+        }
+      ]
+    }
+  },
+  "politicsPage": {
+    "metadata": {
+      "title": "Política Nacional – Banco de Memória | Sintracon",
+      "description": "Diretrizes, instrumentos e linha do tempo da política nacional do sindicato. Busque por eixos, períodos e acesse documentos completos."
+    },
+    "hero": {
+      "eyebrow": "Política Nacional"
+    },
+    "sections": {
+      "guidelines": "Diretrizes",
+      "highlights": "Destaques",
+      "instruments": "Instrumentos",
+      "timeline": "Linha do tempo",
+      "implementation": "Implementação",
+      "faq": "FAQ"
+    },
+    "stats": {
+      "axes": "Eixos",
+      "guidelines": "Diretrizes",
+      "instruments": "Instrumentos",
+      "periods": "Períodos",
+      "regions": "Regiões",
+      "highlights": "Destaques"
+    },
+    "filters": {
+      "searchPlaceholder": "Buscar por título ou palavra-chave…",
+      "allAxes": "Todos os eixos",
+      "allPeriods": "Todos os períodos"
+    },
+    "ui": {
+      "readGuideline": "Ler diretriz",
+      "read": "Ler",
+      "highlight": "Destaque",
+      "viewDocument": "Ver documento",
+      "prev": "Anterior",
+      "next": "Próximo"
+    },
+    "timeline": {
+      "note": "Consulte as páginas de análise para detalhes cronológicos."
+    },
+    "implementation": {
+      "note": "Implementação regional e indicadores (conteúdo dinâmico a ser ligado à API real)."
+    },
+    "faq": {
+      "items": [
+        {
+          "q": "Como navegar pelas diretrizes?",
+          "a": "Use filtros por eixo/período e abra as páginas de análise."
+        },
+        {
+          "q": "Onde encontro os documentos integrais?",
+          "a": "Nos links de instrumentos e diretrizes; futuramente ligados à base oficial."
+        }
+      ]
+    }
+  },
+  "transparencyPage": {
+    "metadata": {
+      "title": "Transparência | Sintracon",
+      "description": "Relatórios, plano de dados abertos, política de privacidade e diretrizes de publicação."
+    },
+    "hero": {
+      "eyebrow": "Transparência",
+      "title": "Hub de transparência institucional",
+      "description": "Relatórios, políticas e planos públicos reunidos em um único local para acompanhamento da sociedade."
+    },
+    "links": [
+      {
+        "title": "Relatório de Transparência 2024",
+        "description": "Indicadores, entregas e metas do último ciclo de prestação de contas.",
+        "action": "Abrir"
+      },
+      {
+        "title": "Plano de Dados Abertos",
+        "description": "Datasets priorizados, formatos e calendários de publicação.",
+        "action": "Abrir"
+      },
+      {
+        "title": "Política de Privacidade",
+        "description": "Diretrizes de tratamento de dados pessoais e bases legais.",
+        "action": "Abrir"
+      },
+      {
+        "title": "Política de Transparência",
+        "description": "Diretrizes de publicação, níveis de detalhamento e prazos de resposta às solicitações públicas.",
+        "action": "Abrir"
+      }
+    ],
+    "footerNote": "Para solicitações formais, consulte também o portal de Acesso à Informação.",
+    "ui": {
+      "open": "Abrir"
+    }
+  },
+  "navbar": {
+    "inicio": "Início",
+    "acervo": "Acervo",
+    "acesso": "Acesso",
+    "institucional": "Institucional",
+    "politica": "Política Nacional",
+    "contato": "Contato",
+    "diretoria": "Diretoria",
+    "equipe": "Equipe",
+    "transparencia": "Transparência",
+    "jornais": "Jornais de Época",
+    "producao": "Produção Bibliográfica",
+    "sobre": "Sobre",
+    "acervoOverview": "Visão geral",
+    "acervoVoltaRedonda": "Volta Redonda",
+    "acervoVrDocuments": "Documentos",
+    "acervoVrDepoimentos": "Depoimentos",
+    "acervoVrBibliografia": "Referência bibliográfica",
+    "acervoVrJornais": "Jornais de época",
+    "acervoVrFotos": "Acervo fotográfico",
+    "acervoBarraMansa": "Barra Mansa",
+    "acervoBmDocuments": "Documentos",
+    "acervoBmDepoimentos": "Depoimentos",
+    "acervoBmBibliografia": "Referência bibliográfica",
+    "acervoBmJornais": "Jornais de época",
+    "acervoBmFotos": "Acervo fotográfico",
+    "acervoFundos": "Fundos",
+    "acervoFundosConstrucao": "Construção Civil",
+    "acervoFundosMetalurgico": "Metalúrgico",
+    "acervoFundosMovimentos": "Movimentos Populares",
+    "acervoFundosDomWaldyr": "Dom Waldyr"
+  },
+  "footer": {
+    "copyright": "Sintracon",
+    "links": "Links",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "contact": "Contato",
+    "reserved": "Todos os direitos reservados."
+  },
+  "inicio": {
+    "search": {
+      "title": "Centro de Memória Operária Digitalizada Rubem Machado",
+      "tagline": "Bem-vindos e bem-vindas ao nosso acervo virtual. Boa pesquisa!",
+      "description": "Busque por termos, nomes ou datas e siga para o acervo completo.",
+      "placeholder": "Busque por termos, nomes, datas…",
+      "button": "Pesquisar",
+      "category": "Categoria",
+      "whoWeAre": "QUEM SOMOS"
+    },
+    "timeline": {
+      "eyebrow": "Acervo Dom Waldyr Calheiros",
+      "title": "Ação pastoral, ditadura e movimento operário",
+      "footnote": "Seleção temática: use as setas para navegar pelos marcos de Dom Waldyr."
+    },
+    "access": {
+      "eyebrow": "Acesso à Informação",
+      "title": "Transparência ativa e busca em um só lugar",
+      "cta": "Saiba mais",
+      "filters": "Filtros",
+      "howItWorks": [
+        "Localize o tema",
+        "Acesse o conteúdo desejado",
+        "Verifique permissões",
+        "Envie um pedido se precisar"
+      ]
+    },
+    "politics": {
+      "eyebrow": "Política Nacional",
+      "title": "Diretrizes, instrumentos e histórico da atuação sindical",
+      "cta": "Ver análise",
+      "notes": "Notas"
+    }
+  },
+  "lang": {
+    "pt-BR": "Português (Brasil)",
+    "pt-PT": "Português (Portugal)",
+    "es": "Español",
+    "en": "English"
+  },
+  "accessExpenses": {
+    "metadata": {
+      "title": "Despesas e custos operacionais — Acesso à Informação | Sintracon",
+      "description": "Notas, empenhos e categorias de gasto com critérios de classificação. Atualização periódica."
+    },
+    "eyebrow": "Acesso à Informação",
+    "title": "Despesas e custos operacionais",
+    "lead": "Visão rápida dos principais gastos por mês e por categoria. Planilha completa e notas fiscais ficam disponíveis mediante pedido formal.",
+    "months": {
+      "oct2025": "out/2025",
+      "sep2025": "set/2025"
+    },
+    "categories": {
+      "preservation": "Preservação",
+      "infrastructure": "Infraestrutura",
+      "communication": "Comunicação"
+    },
+    "expenses": {
+      "digital": "Digitalização e restauração",
+      "hosting": "Hospedagem e CDN",
+      "editorial": "Produção editorial"
+    },
+    "recent": {
+      "title": "Despesas recentes",
+      "subtitle": "Valores em regime de competência. Para empenhos/anexos, solicite via Contato."
+    },
+    "detail": {
+      "title": "Planilha detalhada",
+      "text": {
+        "part1": "Envie um protocolo na área",
+        "part2": "ou solicite a planilha de execução orçamentária pelo"
+      },
+      "access": "Acesso à Informação",
+      "contact": "Contato"
+    }
+  },
+  "accessContracts": {
+    "metadata": {
+      "title": "Contratos e Parcerias — Acesso à Informação | Sintracon",
+      "description": "Instrumentos firmados com fornecedores e instituições. Objetos, vigência, valores e situação de execução."
+    },
+    "eyebrow": "Acesso à Informação",
+    "title": "Contratos e parcerias",
+    "lead": "Consulte objeto, valor estimado, vigência e situação. Versões assinadas e aditivos serão publicados aqui após conferência jurídica.",
+    "stats": {
+      "active": "Instrumentos ativos",
+      "activeValue": "2",
+      "cooperation": "Em cooperação",
+      "cooperationValue": "1",
+      "updated": "Última atualização",
+      "updatedValue": "nov/2025"
+    },
+    "listing": {
+      "title": "Listagem resumida",
+      "subtitle": "Para cópias integrais, use Contato ou o protocolo oficial de pedidos."
+    },
+    "cta": "Ver detalhes",
+    "contracts": {
+      "contract1": {
+        "title": "Contrato 01/2024 — Digitalização e Preservação",
+        "partner": "Memória Digital Ltda.",
+        "term": "jan/2024 — dez/2025",
+        "value": "R$ 210.000,00",
+        "status": "Em execução"
+      },
+      "contract2": {
+        "title": "Acordo 03/2023 — Hospedagem e CDN",
+        "partner": "InfraCloud S.A.",
+        "term": "jul/2023 — jul/2026",
+        "value": "R$ 86.400,00",
+        "status": "Vigente"
+      },
+      "contract3": {
+        "title": "Convênio 07/2022 — Digitalização histórica",
+        "partner": "Universidade Popular",
+        "term": "ago/2022 — fev/2024",
+        "value": "R$ 0,00 (cooperação)",
+        "status": "Encerrado"
+      }
+    },
+    "request": {
+      "title": "Como solicitar",
+      "text": {
+        "part1": "Caso precise de cópias integrais ou esclarecimentos, envie protocolo pela seção",
+        "part2": "ou abra um pedido formal em"
+      },
+      "contact": "Contato",
+      "access": "Acesso à Informação"
+    }
+  },
+  "notFound": {
+    "eyebrow": "Página não encontrada",
+    "lede": "Estamos lapidando esta área para entrar no ar em breve.",
+    "badge": "Ainda não disponível",
+    "title": "Em construção, mas quase lá.",
+    "description": "A estrutura já está pronta. Agora estamos refinando narrativa, acessibilidade e performance para entregar uma experiência consistente com o restante do site.",
+    "cta": {
+      "home": "Voltar ao início",
+      "archive": "Explorar o acervo",
+      "contact": "Avisar a equipe"
+    },
+    "status": {
+      "title": "Linha de construção",
+      "subtitle": "Evolução em camadas",
+      "online": "Online",
+      "navigation": "Arquitetura de navegação",
+      "navigationValue": "Concluída",
+      "navigationNote": "Fluxos e rotas já mapeados.",
+      "interface": "Interface e tipografia",
+      "interfaceValue": "Polindo detalhes",
+      "interfaceNote": "Ajustando contrastes e microinterações.",
+      "editorial": "Conteúdo editorial",
+      "editorialValue": "Em curadoria",
+      "editorialNote": "Organizando textos, créditos e fontes."
+    },
+    "shortcuts": {
+      "title": "Atalhos úteis",
+      "politics": "Política Nacional de Arquivos",
+      "transparency": "Transparência e relatórios",
+      "journals": "Jornais de época",
+      "personal": "Acervo pessoal: Rubem Machado"
+    },
+    "highlights": {
+      "experience": {
+        "title": "Experiência contínua",
+        "text": "Esta página seguirá o mesmo traço visual do projeto: fundo escuro, brilho suave e componentes respiráveis."
+      },
+      "early": {
+        "title": "Acesso antecipado",
+        "text": "Enquanto finalizamos, você pode navegar pelo acervo, consultar a política nacional ou falar com a equipe."
+      },
+      "direct": {
+        "title": "Linha direta",
+        "text": "Precisa do conteúdo agora? Envie uma mensagem pelo Contato e priorizaremos o que for urgente."
+      }
+    }
+  },
+  "contactPage": {
+    "metadata": {
+      "title": "Contato – Banco de Memória | Sintracon",
+      "description": "Fale com a equipe do Banco de Memória: canais oficiais, formulário, endereços, horários e orientações."
+    }
+  },
+  "accessMain": {
+    "metadata": {
+      "title": "Acesso à Informação – Banco de Memória | Sintracon",
+      "description": "Consulte documentos, políticas e registros do banco de memória. Busque por tema e avance para páginas com o conteúdo completo."
+    },
+    "hero": {
+      "label": "Acesso à Informação",
+      "title": "Transparência ativa e busca em um só lugar",
+      "description": "Consulte documentos, políticas e registros do banco de memória. Filtre por tema e avance para páginas com o conteúdo completo.",
+      "searchPlaceholder": "Buscar por título, tema ou descrição",
+      "filterLabel": "Filtros"
+    },
+    "filters": {
+      "todos": "Todos",
+      "atas": "Atas",
+      "relatórios": "Relatórios",
+      "contratos": "Contratos",
+      "despesas": "Despesas",
+      "convênios": "Convênios",
+      "boletins": "Boletins",
+      "imagens": "Imagens"
+    },
+    "operations": {
+      "howItWorksTitle": "Como funciona",
+      "steps": [
+        {
+          "title": "Localize",
+          "detail": "Encontre o tema desejado pela busca ou pelos filtros."
+        },
+        {
+          "title": "Acesse",
+          "detail": "Abra a página com o conteúdo completo e os termos de uso."
+        },
+        {
+          "title": "Verifique",
+          "detail": "Confirme permissões, licenças e condições de reutilização."
+        },
+        {
+          "title": "Solicite",
+          "detail": "Envie um pedido caso precise de algo específico."
+        }
+      ],
+      "cta": "Enviar pedido de acesso"
+    },
+    "rights": {
+      "title": "Direitos do requerente",
+      "items": [
+        "Orientação sobre onde e como acessar as informações.",
+        "Ser informado sobre a disponibilidade do conteúdo solicitado.",
+        "Justificativa em caso de restrição de acesso."
+      ],
+      "policy": "Ver política de transparência"
+    },
+    "transparency": {
+      "heading": "Transparência ativa - relatórios",
+      "reports": [
+        {
+          "title": "Relatório de Transparência 2024",
+          "description": "Indicadores de atendimento, prazos e bases publicadas."
+        },
+        {
+          "title": "Plano de Dados Abertos",
+          "description": "Datasets priorizados, formatos e responsáveis pelas atualizações."
+        },
+        {
+          "title": "Política de Privacidade",
+          "description": "Tratamento de dados pessoais e bases legais aplicáveis."
+        }
+      ]
+    },
+    "datasets": {
+      "heading": "Datasets públicos",
+      "label": "Atualização periódica •",
+      "items": [
+        {
+          "title": "Catálogo de Documentos (CSV)",
+          "type": "CSV"
+        },
+        {
+          "title": "Vocabulário Controlado (JSON)",
+          "type": "JSON"
+        },
+        {
+          "title": "Séries de Pedidos de Acesso (CSV)",
+          "type": "CSV"
+        }
+      ]
+    },
+    "quickSteps": [
+      {
+        "title": "Localize",
+        "text": "Use busca e filtros para chegar ao conteúdo."
+      },
+      {
+        "title": "Verifique",
+        "text": "Leia os termos de uso e permissões disponíveis."
+      },
+      {
+        "title": "Solicite",
+        "text": "Envie um pedido com justificativa quando necessário."
+      }
+    ],
+    "faq": {
+      "heading": "Perguntas frequentes",
+      "items": [
+        {
+          "q": "Quais informações podem estar restritas?",
+          "a": "Itens com dados pessoais sensíveis, segredos industriais ou direitos autorais não licenciados podem ter acesso condicionado."
+        },
+        {
+          "q": "Em quanto tempo recebo retorno do pedido?",
+          "a": "Você recebe protocolo imediato e atualização de status; os prazos variam conforme a complexidade do acesso."
+        },
+        {
+          "q": "Posso reutilizar os dados?",
+          "a": "Respeite a licença indicada em cada item. Datasets podem ser reutilizados com crédito ao Banco de Memória."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Fale com a equipe",
+      "description": "Dúvidas sobre prazos, formatos e disponibilização? Estamos à disposição.",
+      "cta": "Solicitar acesso"
+    },
+    "ui": {
+      "learnMore": "Saiba mais",
+      "viewMore": "Ver mais",
+      "open": "Abrir",
+      "download": "Baixar"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Fale conosco",
+      "title": "Contato – Banco de Memória",
+      "description": "Estamos à disposição para demandas de pesquisa, doações, imprensa e atendimento ao trabalhador.",
+      "primaryAction": "Enviar mensagem",
+      "phone": "(11) 0000-0000",
+      "email": "contato@sintracon.org.br"
+    },
+    "channels": {
+      "title": "Canais oficiais",
+      "description": "Escolha o canal que melhor se encaixa na sua demanda para agilizar o atendimento.",
+      "cards": [
+        {
+          "title": "Atendimento ao Trabalhador",
+          "subtitle": "Dúvidas e orientações",
+          "description": "Direitos, documentos e encaminhamentos. Resposta em até 2 dias úteis."
+        },
+        {
+          "title": "Pesquisa & Acervo",
+          "subtitle": "Solicitações de pesquisa",
+          "description": "Consulta ao banco de memória, doações e uso de imagem."
+        },
+        {
+          "title": "WhatsApp",
+          "subtitle": "Mensagens rápidas",
+          "description": "Atendimento em horário comercial. Não envie documentos sensíveis."
+        },
+        {
+          "title": "Imprensa",
+          "subtitle": "Assessoria",
+          "description": "Entrevistas, dados e imagens com crédito institucional."
+        },
+        {
+          "title": "Atendimento Presencial",
+          "subtitle": "Matriz",
+          "description": "Endereço, horários e agendamento para consulta local."
+        }
+      ]
+    },
+    "form": {
+      "heading": "Envie uma mensagem",
+      "description": "Preencha o formulário e retornaremos em até 2 dias úteis.",
+      "fields": [
+        { "label": "Nome completo" },
+        { "label": "E-mail" },
+        { "label": "Telefone (opcional)" },
+        {
+          "label": "Assunto",
+          "options": [
+            "Atendimento ao Trabalhador",
+            "Pesquisa / Acervo",
+            "Doação de materiais",
+            "Imprensa",
+            "Outros"
+          ]
+        }
+      ],
+      "textarea": { "label": "Mensagem" },
+      "consent": {
+        "text": "Ao enviar, você concorda com nossa ",
+        "linkLabel": "Política de Privacidade (LGPD)",
+        "suffix": " e com o uso das informações para fins de atendimento."
+      },
+      "buttonLabel": "Enviar",
+      "successMessage": "Mensagem enviada! Obrigado pelo contato.",
+      "selectPlaceholder": "Selecione"
+    },
+    "addresses": {
+      "heading": "Endereços & horários",
+      "description": "Atendimento presencial mediante disponibilidade. Traga documento com foto.",
+      "locations": [
+        {
+          "title": "Matriz – Centro de Memória",
+          "address": "Rua Exemplo, 123 – Centro, São Paulo/SP",
+          "hours": "Seg a Sex, 9h – 17h",
+          "a11y": "Acesso facilitado, elevador, sanitários"
+        },
+        {
+          "title": "Unidade de Atendimento",
+          "address": "Av. Modelo, 456 – Bairro, São Paulo/SP",
+          "hours": "Seg a Sex, 10h – 16h",
+          "a11y": "Rampa de acesso, balcão prioritário"
+        }
+      ]
+    },
+    "map": {
+      "heading": "Mapa & como chegar",
+      "description": "Use transporte público sempre que possível. Consulte rotas e horários atualizados.",
+      "iframeTitle": "Mapa – Centro de Memória",
+      "note": "Transporte público recomendado; confira itinerários recentes."
+    },
+    "faq": {
+      "heading": "Perguntas frequentes",
+      "items": [
+        { "q": "Qual o prazo de resposta?", "a": "Até 2 dias úteis, dependendo do volume de solicitações." },
+        {
+          "q": "Posso solicitar cópias digitalizadas?",
+          "a": "Sim, conforme política de uso e direitos. Alguns materiais exigem autorização."
+        },
+        {
+          "q": "Como doar materiais ao acervo?",
+          "a": "Envie detalhes pelo formulário ou e-mail. A equipe orienta a avaliação e os trâmites."
+        },
+        {
+          "q": "Há atendimento presencial para pesquisa?",
+          "a": "Sim, com agendamento e disponibilidade. Consulte horários e traga documento."
+        }
+      ],
+      "note": "Para outros assuntos, consulte nossa ",
+      "noteLink": "Política de Transparência",
+      "openSymbol": "−",
+      "closeSymbol": "+"
+    }
+  },
+  "acervo": {
+    "sectionGrid": {
+      "open": "Abrir"
+    },
+    "metadata": {
+      "title": "Acervo - Banco de Memória | Sintracon",
+      "description": "Busque e filtre documentos, depoimentos, bibliografia, jornais e fotos por tipo, origem e tags."
+    },
+    "hero": {
+      "searchLabel": "Buscar",
+      "searchPlaceholder": "Buscar por título, tag ou cidade.",
+      "empty": "Nenhum resultado para sua busca. Ajuste filtros ou termos.",
+      "filterOptions": {
+        "types": {
+          "all": "Todos",
+          "document": "Documento",
+          "interview": "Depoimento",
+          "bibliography": "Bibliografia",
+          "newspaper": "Jornal",
+          "photo": "Foto"
+        },
+        "origins": {
+          "all": "Todos",
+          "vr": "Volta Redonda",
+          "bm": "Barra Mansa",
+          "funds": "Fundos"
+        },
+        "tags": {
+          "documents": "Documentos",
+          "atas": "Atas",
+          "strikes": "Greves",
+          "testimonies": "Depoimentos",
+          "oral": "Oral",
+          "leaders": "Lideranças",
+          "bibliography": "Bibliografia",
+          "clipping": "Clipping",
+          "newspapers": "Jornais",
+          "history": "Histórico",
+          "photo": "Fotografia",
+          "daily": "Cotidiano",
+          "mobilization": "Mobilização",
+          "funds": "Fundos",
+          "construction": "Const. Civil",
+          "metal": "Metalúrgico",
+          "movements": "Mov. Populares",
+          "domWaldyr": "Dom Waldyr"
+        }
+      },
+      "actions": {
+        "viewItem": "Ver item"
+      },
+      "nav": {
+        "previous": "Anterior",
+        "next": "Próximo",
+        "results": "Resultados do acervo (navegação por setas/rolagem)"
+      },
+      "items": [
+        {
+          "title": "Documentos – Volta Redonda",
+          "origin": "Volta Redonda",
+          "type": "Documento",
+          "tags": ["Documentos", "Atas", "Greves"]
+        },
+        {
+          "title": "Depoimentos – Volta Redonda",
+          "origin": "Volta Redonda",
+          "type": "Depoimento",
+          "tags": ["Depoimentos", "Oral", "Lideranças"]
+        },
+        {
+          "title": "Referência Bibliográfica – Volta Redonda",
+          "origin": "Volta Redonda",
+          "type": "Bibliografia",
+          "tags": ["Bibliografia", "Clipping"]
+        },
+        {
+          "title": "Jornais de época – Volta Redonda",
+          "origin": "Volta Redonda",
+          "type": "Jornal",
+          "tags": ["Jornais", "Greves"]
+        },
+        {
+          "title": "Acervo Fotográfico – Volta Redonda",
+          "origin": "Volta Redonda",
+          "type": "Foto",
+          "tags": ["Fotografia", "Cotidiano"]
+        },
+        {
+          "title": "Documentos – Barra Mansa",
+          "origin": "Barra Mansa",
+          "type": "Documento",
+          "tags": ["Documentos", "Atas"]
+        },
+        {
+          "title": "Depoimentos – Barra Mansa",
+          "origin": "Barra Mansa",
+          "type": "Depoimento",
+          "tags": ["Depoimentos", "Oral"]
+        },
+        {
+          "title": "Referência Bibliográfica – Barra Mansa",
+          "origin": "Barra Mansa",
+          "type": "Bibliografia",
+          "tags": ["Bibliografia", "Clipping"]
+        },
+        {
+          "title": "Jornais de época – Barra Mansa",
+          "origin": "Barra Mansa",
+          "type": "Jornal",
+          "tags": ["Jornais", "Histórico"]
+        },
+        {
+          "title": "Acervo Fotográfico – Barra Mansa",
+          "origin": "Barra Mansa",
+          "type": "Foto",
+          "tags": ["Fotografia", "Mobilização"]
+        },
+        {
+          "title": "Fundos – Construção Civil",
+          "origin": "Fundos",
+          "type": "Documento",
+          "tags": ["Fundos", "Const. Civil"]
+        },
+        {
+          "title": "Fundos – Metalúrgico",
+          "origin": "Fundos",
+          "type": "Documento",
+          "tags": ["Fundos", "Metalúrgico"]
+        },
+        {
+          "title": "Fundos – Movimentos Populares",
+          "origin": "Fundos",
+          "type": "Jornal",
+          "tags": ["Fundos", "Mov. Populares", "Cartazes"]
+        },
+        {
+          "title": "Fundos – Dom Waldyr",
+          "origin": "Fundos",
+          "type": "Bibliografia",
+          "tags": ["Fundos", "Dom Waldyr"]
+        }
+      ]
+    },
+    "cityShowcase": {
+      "eyebrow": "Acervo por cidade e fundos",
+      "title": "Visão completa dos núcleos disponíveis",
+      "description": "Neste momento o acervo público reúne duas cidades (Volta Redonda e Barra Mansa) e fundos temáticos. Cada bloco abaixo detalha o recorte, cobertura e pré-visualizações das seções principais.",
+      "badges": ["Jornais", "Fotos", "Documentos & Bibliografia"],
+      "cities": [
+        {
+          "name": "Volta Redonda",
+          "description": "Eixo industrial com greves históricas, organização por seção e produção documental intensa ligada à construção civil e metalurgia.",
+          "coverage": "Anos 1940–2000 | Movimentos paredistas e cotidiano fabril",
+          "focus": ["Documentação sindical", "História oral", "Clippings e bibliografia", "Fotografia de mobilização"],
+          "sections": [
+            { "title": "Documentos", "description": "Atas, ofícios e relatórios das bases em VR." },
+            { "title": "Depoimentos", "description": "História oral com lideranças e chão de fábrica." },
+            { "title": "Referência Bibliográfica", "description": "Clippings, livros e artigos sobre VR." },
+            { "title": "Jornais de época", "description": "Capas e edições digitalizadas." },
+            { "title": "Acervo Fotográfico", "description": "Mobilização e cotidiano fabril em imagens." }
+          ]
+        },
+        {
+          "name": "Barra Mansa",
+          "description": "Redes regionais de apoio, organização por bairros e memória operária conectada ao Vale do Paraíba.",
+          "coverage": "Anos 1930–2000 | Bases locais, assembleias e cultura sindical",
+          "focus": ["Atas e ofícios", "Relatos de trabalhadores", "Recortes de imprensa", "Fotografia do território"],
+          "sections": [
+            { "title": "Documentos", "description": "Ofícios, atas e normativas locais." },
+            { "title": "Depoimentos", "description": "Vozes de trabalhadores e dirigentes." },
+            { "title": "Referência Bibliográfica", "description": "Bibliografia e catálogos sobre BM." },
+            { "title": "Jornais de época", "description": "Recortes e edições históricas." },
+            { "title": "Acervo Fotográfico", "description": "Imagens de mobilização e cotidiano." }
+          ]
+        },
+        {
+          "name": "Fundos Temáticos",
+          "description": "Coleções organizadas por fundos institucionais e temáticos: construção civil, metalurgia, movimento operário e Dom Waldyr.",
+          "coverage": "Séries diversas | Documentos, imprensa, iconografia",
+          "focus": ["Const. Civil", "Metalúrgico", "Mov. Populares", "Dom Waldyr"],
+          "sections": [
+            { "title": "Const. Civil", "description": "Atas, memoriais e registros da categoria." },
+            { "title": "Metalúrgico", "description": "Documentação e mídia sindical da metalurgia." },
+            { "title": "Mov. Populares", "description": "Cartazes, jornais e narrativas do movimento." },
+            { "title": "Dom Waldyr", "description": "Acervo relacionado à atuação de Dom Waldyr." }
+          ]
+        }
+      ]
+    }
+  },
+    "sessionLanding": {
+      "aboutSection": "Sobre esta sessão",
+      "intro": "Esta página reúne as pré-visualizações de {section} do acervo de {city}. Use os links abaixo para navegar entre as sessões ou voltar para a visão geral.",
+      "backCity": "Voltar ao acervo de {city}",
+      "overview": "Ver visão geral",
+      "cta": {
+        "title": "Quer navegar em outra sessão?",
+        "subtitle": "Use os menus do topo ou volte para o acervo de {city} para escolher outra coleção.",
+        "action": "Voltar ao acervo"
+      }
+    },
+  "homePage": {
+    "hero": {
+      "alt": "Centro de Memória Operária Digitalizada Rubem Machado"
+    },
+    "search": {
+      "title": "Centro de Memória Operária Digitalizada Rubem Machado",
+      "tagline": "Bem-vindos e bem-vindas ao nosso acervo virtual. Boa pesquisa!",
+      "description": "Busque por termos, nomes ou datas e siga para o acervo completo.",
+      "placeholder": "Busque por termos, nomes, datas…",
+      "button": "Pesquisar",
+      "category": "Categoria",
+      "categories": {
+        "all": "Todo o conteúdo",
+        "imagens": "Imagens",
+        "videos": "Vídeos",
+        "documentos": "Documentos",
+        "pessoas": "Pessoas"
+      }
+    }
+  }
+}

@@ -1,0 +1,1080 @@
+{
+  "global": {
+    "skipToContent": "Skip to content",
+    "siteTitle": "Sintracon",
+    "siteSubtitle": "Memory Center",
+    "menu": "Menu",
+    "close": "Close",
+    "searchPlaceholder": "Search...",
+    "language": "Language",
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "youtube": "YouTube"
+    }
+  },
+  "home": {
+    "featured": {
+      "eyebrow": "Personal archive collections",
+      "title": "Dom Waldyr Calheiros",
+      "description": "Documentation, accounts and publications that record Dom Waldyr�s pastoral presence alongside workers in Volta Redonda and Barra Mansa. An archive for research, mediation and inspiration.",
+      "primaryCta": "See bibliographic production",
+      "secondaryCta": "About the Collection",
+      "footnote": "Illustrative content. The final organization will follow the official catalog of the archive.",
+      "items": [
+        {
+          "title": "Metal�rgica Barbar� workers (1950)",
+          "description": "Historical record of Barbar� Metalworkers in the 1950s"
+        },
+        {
+          "title": "Barra Mansa Steelworkers (1950)",
+          "description": "Historical record of steelworkers in Barra Mansa in the 1950s"
+        },
+        {
+          "title": "Obelisk honoring Barra Mansa workers (1933)",
+          "description": "Obelisk inaugurated on May 1, 1933. Source: Academia Barramansense de Hist�ria."
+        },
+        {
+          "title": "Foundation stone of Sider�rgica Barra Mansa (1935)",
+          "description": "Founding act of the Barra Mansa steel plant signed by Dario Arag�o."
+        },
+        {
+          "title": "Nestl� plant construction (1936)",
+          "description": "Record of the start of the Nestl� plant works in the 1930s."
+        },
+        {
+          "title": "Repression of a popular demonstration",
+          "description": "Assassination of union leader Rubem Machado, president of the Construction Union of Volta Redonda-RJ and region."
+        },
+        {
+          "title": "Workers� Movement in Southern Rio (1970)",
+          "description": "Tribute to workers and the union for their continued support."
+        },
+        {
+          "title": "Police repression and workers� memory",
+          "description": "Records of clashes and memory of the struggles in Volta Redonda and Barra Mansa."
+        }
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Dom Waldyr Calheiros archive",
+      "title": "Pastoral action, dictatorship and workers� movement",
+      "description": "Timeline of Dom Waldyr�s work with workers: pastoral visits, resistance to the civil-military dictatorship and direct support to the labor movement.",
+      "items": [
+        {
+          "title": "Early pastoral missions",
+          "description": "Formation, ordination and arrival in Southern Rio; ties with metalworkers and community bases."
+        },
+        {
+          "title": "Pastoral work in workers� villages",
+          "description": "Visits to worksites, mutual aid and support for families of construction and steelworkers."
+        },
+        {
+          "title": "Civil-military dictatorship",
+          "description": "Reports of torture, defense of political prisoners and articulation with social pastorals amid repression."
+        },
+        {
+          "title": "Workers� movement in Volta Redonda",
+          "description": "Mediating conflicts, supporting strikes and defending rights of metal and construction workers."
+        },
+        {
+          "title": "Communication and bulletins",
+          "description": "Pastoral publications, notes and letters guiding communities and unions under censorship."
+        },
+        {
+          "title": "Human rights and mediation",
+          "description": "Dialogue with authorities, prison visits and legal support to persecuted leaders."
+        },
+        {
+          "title": "Base ecclesial communities",
+          "description": "Organizing Bible circles and solidarity networks aligned with labor struggles."
+        },
+        {
+          "title": "Recognition and legacy",
+          "description": "Tributes from unions and popular movements; living memory in Southern Rio."
+        }
+      ],
+      "aside": {
+        "label": "Profile in focus",
+        "name": "Dom Waldyr Calheiros",
+        "role": "Bishop allied with the workers� movement",
+        "highlights": [
+          "Pastoral work with workers",
+          "Standing up to the dictatorship",
+          "Support for strikes and political prisoners",
+          "Workers� memory"
+        ]
+      },
+      "footnote": "Thematic selection: use the arrows to navigate Dom Waldyr�s milestones."
+    },
+    "hero": {
+      "alt": "Rubem Machado Digital Workers' Memory Center"
+    },
+    "search": {
+      "title": "Rubem Machado Digital Workers' Memory Center",
+      "tagline": "Welcome to our virtual archive. Happy researching!",
+      "description": "Search by terms, names or dates and jump to the full collection.",
+      "placeholder": "Search by terms, names, dates�",
+      "button": "Search",
+      "category": "Category",
+      "categories": {
+        "all": "All content",
+        "imagens": "Images",
+        "videos": "Videos",
+        "documentos": "Documents",
+        "pessoas": "People"
+      }
+    },
+    "journals": {
+      "eyebrow": "Historic newspapers",
+      "title": "A window to the past",
+      "description": "Browse digitized historic editions and continue to the full read.",
+      "cta": "View all newspapers",
+      "ui": {
+        "allLabel": "all types",
+        "readLabel": "Read issue",
+        "prevLabel": "Previous",
+        "nextLabel": "Next",
+        "carouselAriaLabel": "Historic newspapers carousel",
+        "coverAltTemplate": "{title} � cover"
+      },
+      "filters": {
+        "all": "All",
+        "1910s": "1910s",
+        "1920s": "1920s",
+        "1930s": "1930s",
+        "1940s": "1940s",
+        "1950s": "1950s",
+        "1960s": "1960s"
+      },
+      "items": [
+        {
+          "title": "O Oper�rio",
+          "description": "Issue focused on grassroots organizing and early wage demands."
+        },
+        {
+          "title": "Folha do Trabalhador",
+          "description": "Reports on mobilizations in factory districts and the formation of committees."
+        },
+        {
+          "title": "Gazeta Sindical",
+          "description": "Analysis of historic strikes and collective bargaining strategies."
+        },
+        {
+          "title": "O Dia do Povo",
+          "description": "Coverage of marches, assemblies and everyday life on the shop floor."
+        },
+        {
+          "title": "Tribuna Oper�ria",
+          "description": "Special issue on safety, health and workplace improvements."
+        },
+        {
+          "title": "Voz da F�brica",
+          "description": "Shift chronicles, canteens, and new post-war demands."
+        },
+        {
+          "title": "Correio Popular",
+          "description": "Editorial on cost of living and comparative price tables."
+        },
+        {
+          "title": "Jornal do Metal",
+          "description": "Photo reports from assembly lines and new technologies."
+        },
+        {
+          "title": "A Voz do Sindicato",
+          "description": "Action plan, assembly calendar, and interviews with union leaders."
+        },
+        {
+          "title": "Boletim do Trabalhador",
+          "description": "Posters, quick notes, and a timeline of achievements."
+        }
+      ]
+    },
+    "team": {
+      "eyebrow": "Technical Team",
+      "title": "The people behind the Workers' Memory Center",
+      "description": "A multidisciplinary team dedicated to preservation, research and public access.",
+      "cta": "View full team",
+      "ui": {
+        "photoAltTemplate": "Photo of {name}",
+        "viewProfileLabel": "View profile",
+        "emailLabel": "Email {name}",
+        "linkedinLabel": "{name}'s LinkedIn"
+      },
+      "people": [
+        {
+          "role": "General Coordination & Curation",
+          "bio": "Archive strategy, preservation guidelines and historical validation.",
+          "tags": [
+            "Curation",
+            "Management",
+            "Memory"
+          ]
+        },
+        {
+          "role": "Chief Archivist",
+          "bio": "Classification, description and access policies for the archive.",
+          "tags": [
+            "Archival",
+            "Cataloging",
+            "Access"
+          ]
+        },
+        {
+          "role": "Historian",
+          "bio": "Contextualization, timeframes and source verification.",
+          "tags": [
+            "Research",
+            "Context",
+            "Sources"
+          ]
+        },
+        {
+          "role": "Digitization Lead",
+          "bio": "Capture flow, restoration and image standards.",
+          "tags": [
+            "Digitization",
+            "Restoration",
+            "Metadata"
+          ]
+        },
+        {
+          "role": "Software Engineer",
+          "bio": "Application, research and interface with the memory bank.",
+          "tags": [
+            "Full-stack",
+            "Next.js",
+            "UX"
+          ]
+        },
+        {
+          "role": "Infra & DevOps",
+          "bio": "Scalability, backups and environment observability.",
+          "tags": [
+            "Infra",
+            "S3/KVM",
+            "Security"
+          ]
+        },
+        {
+          "role": "Design & Accessibility",
+          "bio": "Visual identity and comfortable reading on every screen.",
+          "tags": [
+            "UI",
+            "A11y",
+            "Systems"
+          ]
+        },
+        {
+          "role": "Content Management",
+          "bio": "Editorial standardization, review and publication of collections.",
+          "tags": [
+            "Editorial",
+            "Standards",
+            "Publishing"
+          ]
+        }
+      ]
+    },
+    "access": {
+      "eyebrow": "Access to Information",
+      "title": "Active transparency in one place",
+      "description": "Consult documents, policies and records from the memory bank.",
+      "ui": {
+        "searchPlaceholder": "Search by title, topic or description�",
+        "filtersLabel": "Filters",
+        "resultsTemplate": "{count} result(s) � {filter}",
+        "allFiltersLabel": "all types",
+        "prevLabel": "Previous",
+        "nextLabel": "Next",
+        "readMoreLabel": "Learn more",
+        "howItWorksTitle": "How it works",
+        "ctaLabel": "Send access request",
+        "rightsTitle": "Requester rights",
+        "rightsLinkLabel": "View transparency policy",
+        "howItWorksSteps": [
+          "1. Find the topic via search or filters.",
+          "2. Open the page of the desired content.",
+          "3. Check permissions and terms of use when applicable.",
+          "4. Need something specific? Send an access request."
+        ],
+        "rightsItems": [
+          "Guidance on where and how to access information.",
+          "Be informed about the availability of the requested content.",
+          "Justification when access is restricted."
+        ]
+      },
+      "filters": {
+        "todas": "All",
+        "atas": "Minutes",
+        "relatorios": "Reports",
+        "contratos": "Contracts",
+        "despesas": "Expenses",
+        "convenios": "Agreements",
+        "boletins": "Bulletins",
+        "imagens": "Images"
+      },
+      "items": [
+        {
+          "title": "Assembly Minutes � 1950�1980",
+          "description": "Deliberations, attendance and agendas debated in general and extraordinary meetings."
+        },
+        {
+          "title": "Management Reports",
+          "description": "Annual summary of actions, indicators and accountability for the union's initiatives."
+        },
+        {
+          "title": "Contracts and Partnerships",
+          "description": "Instruments signed with suppliers and institutions, with scope and terms."
+        },
+        {
+          "title": "Expenses and Operating Costs",
+          "description": "Notes, commitments and spending categories with classification criteria."
+        },
+        {
+          "title": "Agreements and Cooperation Terms",
+          "description": "Collaboration bases, responsibilities and expected results."
+        },
+        {
+          "title": "Bulletins and Official Notices",
+          "description": "Periodic publications with decisions, notices and guidance to the membership."
+        },
+        {
+          "title": "Photo Archive � Public Access",
+          "description": "Set of images with terms of use, credits and context."
+        },
+        {
+          "title": "Transparency and Access Policy",
+          "description": "General guidelines for publication, deadlines and service channels."
+        }
+      ]
+    },
+    "politics": {
+      "eyebrow": "National Policy",
+      "title": "Guidelines, instruments and union history",
+      "description": "Editorial selection of legal milestones, reforms and thematic axes for quick reading.",
+      "featured": {
+        "title": "1988 Constitution � rights and guarantees",
+        "description": "Legal milestone redefining citizenship, labor relations and access to public policy. Understand impacts on work and union organization."
+      },
+      "notes": [
+        "Curated selections with verified sources.",
+        "Concise summaries for quick reading.",
+        "Dive deeper on the dedicated analysis pages."
+      ],
+      "methodologyLink": "Methodology",
+      "searchPlaceholder": "Search milestones�",
+      "ui": {
+        "readAnalysisLabel": "Read analysis",
+        "editorialLabel": "Editorial selection",
+        "axesLabel": "Axes",
+        "notesLabel": "Notes",
+        "quickSearchLabel": "Quick search",
+        "footerNote": "This is an editorial preview of the National Policy area. Visit the dedicated pages for full reads and references.",
+        "prevLabel": "Previous",
+        "nextLabel": "Next"
+      },
+      "axes": {
+        "todos": "All",
+        "trabalho": "Labor",
+        "previdencia": "Pensions",
+        "educacao": "Education",
+        "saude": "Health",
+        "direitos": "Rights"
+      },
+      "events": [
+        {
+          "title": "Labor Reform � Context and effects",
+          "summary": "Changes in contracts, collective bargaining and union representation: overview and debates."
+        },
+        {
+          "title": "Minimum Wage Valorization Policy",
+          "summary": "Indexes and formulas influencing income, consumption and sector negotiations."
+        },
+        {
+          "title": "Pension Reform � General rules",
+          "summary": "Minimum age, contribution time and transitions: what changes for different groups."
+        },
+        {
+          "title": "Professional minimum wages",
+          "summary": "Floor structures by occupation and their impact on careers and negotiations."
+        },
+        {
+          "title": "National Guidelines for Vocational Education",
+          "summary": "Qualification and certification for the world of work: history and policies."
+        },
+        {
+          "title": "SUS � Structure and social participation",
+          "summary": "Councils, conferences and universal access: how public health is organized."
+        },
+        {
+          "title": "Occupational safety and health",
+          "summary": "Regulatory standards, prevention and working conditions across decades."
+        },
+        {
+          "title": "Councils and bargaining tables",
+          "summary": "Social dialogue mechanisms between government, workers and employers."
+        },
+        {
+          "title": "Social housing programs",
+          "summary": "Access to housing and socio-economic impacts for the working class."
+        },
+        {
+          "title": "Transparency and Access Policy",
+          "summary": "Legal bases for active transparency, response times and social oversight."
+        },
+        {
+          "title": "Charter of Principles",
+          "summary": "Values and commitments guiding institutional action."
+        },
+        {
+          "title": "Regional pacts",
+          "summary": "Regional implementation of national policy goals and priorities."
+        }
+      ]
+    }
+  },
+  "contactPage": {
+    "metadata": {
+      "title": "Contact � Memory Bank | Sintracon",
+      "description": "Reach the Memory Bank team: official channels, form, addresses, hours and guidance."
+    }
+  },
+  "politicsPage": {
+    "metadata": {
+      "title": "National Policy � Memory Bank | Sintracon",
+      "description": "Guidelines, instruments and timeline of the union�s national policy. Browse by axis, periods and access full documents."
+    },
+    "hero": {
+      "eyebrow": "National Policy"
+    },
+    "sections": {
+      "guidelines": "Guidelines",
+      "highlights": "Highlights",
+      "instruments": "Instruments",
+      "timeline": "Timeline",
+      "implementation": "Implementation",
+      "faq": "FAQ"
+    },
+    "stats": {
+      "axes": "Axes",
+      "guidelines": "Guidelines",
+      "instruments": "Instruments",
+      "periods": "Periods",
+      "regions": "Regions",
+      "highlights": "Highlights"
+    },
+    "filters": {
+      "searchPlaceholder": "Search by title or keyword�",
+      "allAxes": "All axes",
+      "allPeriods": "All periods"
+    },
+    "ui": {
+      "readGuideline": "Read guideline",
+      "read": "Read",
+      "highlight": "Highlight",
+      "viewDocument": "View document",
+      "prev": "Previous",
+      "next": "Next"
+    },
+    "timeline": {
+      "note": "Check the analysis pages for chronological details."
+    },
+    "implementation": {
+      "note": "Regional implementation and indicators (dynamic content to link to the real API)."
+    },
+    "faq": {
+      "items": [
+        {
+          "q": "How do I navigate the guidelines?",
+          "a": "Use filters by axis/period and open the analysis pages."
+        },
+        {
+          "q": "Where do I find the full documents?",
+          "a": "In the instruments and guidelines links; soon connected to the official database."
+        }
+      ]
+    }
+  },
+  "transparencyPage": {
+    "metadata": {
+      "title": "Transparency | Sintracon",
+      "description": "Reports, open data plan, privacy policy and publishing guidelines."
+    },
+    "hero": {
+      "eyebrow": "Transparency",
+      "title": "Institutional transparency hub",
+      "description": "Reports, policies and public plans gathered in one place for public oversight."
+    },
+    "links": [
+      {
+        "title": "Transparency Report 2024",
+        "description": "Indicators, deliveries and goals from the latest accountability cycle.",
+        "action": "Open"
+      },
+      {
+        "title": "Open Data Plan",
+        "description": "Prioritized datasets, formats and publication schedules.",
+        "action": "Open"
+      },
+      {
+        "title": "Privacy Policy",
+        "description": "Guidelines for personal data handling and legal bases.",
+        "action": "Open"
+      },
+      {
+        "title": "Transparency Policy",
+        "description": "Publishing guidelines, detail levels and response times for public requests.",
+        "action": "Open"
+      }
+    ],
+    "footerNote": "For formal requests, also check the Access to Information portal.",
+    "ui": {
+      "open": "Open"
+    }
+  },
+  "navbar": {
+    "inicio": "Home",
+    "acervo": "Archive",
+    "acesso": "Access",
+    "institucional": "Institutional",
+    "politica": "National Policy",
+    "contato": "Contact",
+    "diretoria": "Board",
+    "equipe": "Team",
+    "transparencia": "Transparency",
+    "jornais": "Historical Newspapers",
+    "producao": "Bibliographic Production",
+    "sobre": "About",
+    "acervoOverview": "Overview",
+    "acervoVoltaRedonda": "Volta Redonda",
+    "acervoVrDocuments": "Documents",
+    "acervoVrDepoimentos": "Interviews",
+    "acervoVrBibliografia": "Bibliographic reference",
+    "acervoVrJornais": "Historical newspapers",
+    "acervoVrFotos": "Photo archive",
+    "acervoBarraMansa": "Barra Mansa",
+    "acervoBmDocuments": "Documents",
+    "acervoBmDepoimentos": "Interviews",
+    "acervoBmBibliografia": "Bibliographic reference",
+    "acervoBmJornais": "Historical newspapers",
+    "acervoBmFotos": "Photo archive",
+    "acervoFundos": "Collections",
+    "acervoFundosConstrucao": "Civil Construction",
+    "acervoFundosMetalurgico": "Metallurgical",
+    "acervoFundosMovimentos": "Popular Movements",
+    "acervoFundosDomWaldyr": "Dom Waldyr"
+  },
+  "footer": {
+    "copyright": "Sintracon",
+    "links": "Links",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact",
+    "reserved": "All rights reserved."
+  },
+  "inicio": {
+    "search": {
+      "title": "Digital Workers� Memory Center Rubem Machado",
+      "tagline": "Welcome to our virtual archive. Happy researching!",
+      "description": "Search by terms, names or dates and move to the full archive.",
+      "placeholder": "Search terms, names, dates�",
+      "button": "Search",
+      "category": "Category",
+      "whoWeAre": "WHO WE ARE"
+    },
+    "timeline": {
+      "eyebrow": "Dom Waldyr Calheiros Archive",
+      "title": "Pastoral action, dictatorship and workers� movement",
+      "footnote": "Thematic selection: use the arrows to browse Dom Waldyr�s milestones."
+    },
+    "access": {
+      "eyebrow": "Access to Information",
+      "title": "Active transparency and search in one place",
+      "cta": "Learn more",
+      "filters": "Filters",
+      "howItWorks": [
+        "Find the topic",
+        "Open the desired content",
+        "Check permissions",
+        "Send a request if needed"
+      ]
+    },
+    "politics": {
+      "eyebrow": "National Policy",
+      "title": "Guidelines, instruments and history of union action",
+      "cta": "View analysis",
+      "notes": "Notes"
+    }
+  },
+  "lang": {
+    "pt-BR": "Portugu�s (Brasil)",
+    "pt-PT": "Portugu�s (Portugal)",
+    "es": "Espa�ol",
+    "en": "English"
+  },
+  "accessExpenses": {
+    "metadata": {
+      "title": "Expenses and operational costs � Access to Information | Sintracon",
+      "description": "Notes, commitments and spending categories with classification criteria. Updated periodically."
+    },
+    "eyebrow": "Access to Information",
+    "title": "Expenses and operational costs",
+    "lead": "Quick view of main expenses by month and category. Full spreadsheet and invoices available upon formal request.",
+    "months": {
+      "oct2025": "Oct/2025",
+      "sep2025": "Sep/2025"
+    },
+    "categories": {
+      "preservation": "Preservation",
+      "infrastructure": "Infrastructure",
+      "communication": "Communication"
+    },
+    "expenses": {
+      "digital": "Digitization and restoration",
+      "hosting": "Hosting and CDN",
+      "editorial": "Editorial production"
+    },
+    "recent": {
+      "title": "Recent expenses",
+      "subtitle": "Accrual basis. For attachments, request via Contact."
+    },
+    "detail": {
+      "title": "Detailed spreadsheet",
+      "text": {
+        "part1": "Send a protocol in the",
+        "part2": "or request the budget execution spreadsheet through"
+      },
+      "access": "Access to Information",
+      "contact": "Contact"
+    }
+  },
+  "accessContracts": {
+    "metadata": {
+      "title": "Contracts and Partnerships � Access to Information | Sintracon",
+      "description": "Agreements with vendors and institutions. Scope, terms, values and execution status."
+    },
+    "eyebrow": "Access to Information",
+    "title": "Contracts and partnerships",
+    "lead": "Check scope, estimated value, term and status. Signed versions and addenda will be published here after legal review.",
+    "stats": {
+      "active": "Active instruments",
+      "activeValue": "2",
+      "cooperation": "Cooperation",
+      "cooperationValue": "1",
+      "updated": "Last update",
+      "updatedValue": "Nov/2025"
+    },
+    "listing": {
+      "title": "Summary list",
+      "subtitle": "For full copies, use Contact or the official request protocol."
+    },
+    "cta": "View details",
+    "contracts": {
+      "contract1": {
+        "title": "Contract 01/2024 � Digitization and Preservation",
+        "partner": "Mem�ria Digital Ltda.",
+        "term": "Jan/2024 � Dec/2025",
+        "value": "R$ 210,000.00",
+        "status": "In execution"
+      },
+      "contract2": {
+        "title": "Agreement 03/2023 � Hosting and CDN",
+        "partner": "InfraCloud S.A.",
+        "term": "Jul/2023 � Jul/2026",
+        "value": "R$ 86,400.00",
+        "status": "Active"
+      },
+      "contract3": {
+        "title": "Agreement 07/2022 � Historical digitization",
+        "partner": "Universidade Popular",
+        "term": "Aug/2022 � Feb/2024",
+        "value": "R$ 0.00 (cooperation)",
+        "status": "Closed"
+      }
+    },
+    "request": {
+      "title": "How to request",
+      "text": {
+        "part1": "If you need full copies or clarifications, send a protocol via",
+        "part2": "or open a formal request in"
+      },
+      "contact": "Contact",
+      "access": "Access to Information"
+    }
+  },
+  "notFound": {
+    "eyebrow": "Page not found",
+    "lede": "We�re polishing this area to go live soon.",
+    "badge": "Not available yet",
+    "title": "Under construction, almost there.",
+    "description": "The structure is ready. Now we�re refining narrative, accessibility and performance to keep the experience consistent.",
+    "cta": {
+      "home": "Back to home",
+      "archive": "Explore the archive",
+      "contact": "Notify the team"
+    },
+    "status": {
+      "title": "Build line",
+      "subtitle": "Layered evolution",
+      "online": "Online",
+      "navigation": "Navigation architecture",
+      "navigationValue": "Completed",
+      "navigationNote": "Flows and routes already mapped.",
+      "interface": "Interface and typography",
+      "interfaceValue": "Polishing details",
+      "interfaceNote": "Adjusting contrasts and micro-interactions.",
+      "editorial": "Editorial content",
+      "editorialValue": "Curating",
+      "editorialNote": "Organizing texts, credits and sources."
+    },
+    "shortcuts": {
+      "title": "Useful shortcuts",
+      "politics": "National Archives Policy",
+      "transparency": "Transparency and reports",
+      "journals": "Historical newspapers",
+      "personal": "Personal archive: Rubem Machado"
+    },
+    "highlights": {
+      "experience": {
+        "title": "Continuous experience",
+        "text": "This page will keep the project�s look: dark background, soft glow and breathable components."
+      },
+      "early": {
+        "title": "Early access",
+        "text": "While we finish, you can browse the archive, check national policy or contact the team."
+      },
+      "direct": {
+        "title": "Direct line",
+        "text": "Need the content now? Send a message via Contact and we�ll prioritize urgent cases."
+      }
+    }
+  },
+  "accessMain": {
+    "metadata": {
+      "title": "Access to Information � Memory Bank | Sintracon",
+      "description": "Consult documents, policies and records from the memory bank. Search by topic and move to full-content pages."
+    },
+    "hero": {
+      "label": "Access to Information",
+      "title": "Active transparency and search in one place",
+      "description": "Consult documents, policies and records from the memory bank. Filter by topic and move to full content.",
+      "searchPlaceholder": "Search by title, topic or description",
+      "filterLabel": "Filters"
+    },
+    "filters": {
+      "todos": "All",
+      "atas": "Minutes",
+      "relat�rios": "Reports",
+      "contratos": "Contracts",
+      "despesas": "Expenses",
+      "conv�nios": "Agreements",
+      "boletins": "Bulletins",
+      "imagens": "Images"
+    },
+    "operations": {
+      "howItWorksTitle": "How it works",
+      "steps": [
+        {
+          "title": "Find",
+          "detail": "Locate the desired topic via search or filters."
+        },
+        {
+          "title": "Access",
+          "detail": "Open the page with full content and usage terms."
+        },
+        {
+          "title": "Verify",
+          "detail": "Check permissions, licenses and reuse conditions."
+        },
+        {
+          "title": "Request",
+          "detail": "Send a request if you need something specific."
+        }
+      ],
+      "cta": "Send access request"
+    },
+    "rights": {
+      "title": "Requester rights",
+      "items": [
+        "Guidance on where and how to access the information.",
+        "Be informed about the availability of the requested content.",
+        "Justification in case of access restriction."
+      ],
+      "policy": "See transparency policy"
+    },
+    "transparency": {
+      "heading": "Active transparency - reports",
+      "reports": [
+        {
+          "title": "Transparency Report 2024",
+          "description": "Service indicators, deadlines and published datasets."
+        },
+        {
+          "title": "Open Data Plan",
+          "description": "Prioritized datasets, formats and update owners."
+        },
+        {
+          "title": "Privacy Policy",
+          "description": "Personal data handling and applicable legal bases."
+        }
+      ]
+    },
+    "datasets": {
+      "heading": "Public datasets",
+      "label": "Periodic update �",
+      "items": [
+        {
+          "title": "Document Catalog (CSV)",
+          "type": "CSV"
+        },
+        {
+          "title": "Controlled Vocabulary (JSON)",
+          "type": "JSON"
+        },
+        {
+          "title": "Access Request Series (CSV)",
+          "type": "CSV"
+        }
+      ]
+    },
+    "quickSteps": [
+      {
+        "title": "Find",
+        "text": "Use search and filters to reach the content."
+      },
+      {
+        "title": "Verify",
+        "text": "Read the available terms of use and permissions."
+      },
+      {
+        "title": "Request",
+        "text": "Send a request with justification when needed."
+      }
+    ],
+    "faq": {
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "What information may be restricted?",
+          "a": "Items with sensitive personal data, industrial secrets or unlicensed copyrights may have conditioned access."
+        },
+        {
+          "q": "How long until I get a response?",
+          "a": "You receive an immediate protocol and status updates; deadlines vary by request complexity."
+        },
+        {
+          "q": "Can I reuse the data?",
+          "a": "Respect the license indicated on each item. Datasets may be reused with credit to the Memory Bank."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Talk to the team",
+      "description": "Questions about timelines, formats and availability? We're here to help.",
+      "cta": "Request access"
+    },
+    "ui": {
+      "learnMore": "Learn more",
+      "viewMore": "View more",
+      "open": "Open",
+      "download": "Download"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Talk to us",
+      "title": "Contact � Memory Bank",
+      "description": "We�re available for research requests, donations, press, and worker support.",
+      "primaryAction": "Send message",
+      "phone": "(11) 0000-0000",
+      "email": "contato@sintracon.org.br"
+    },
+    "channels": {
+      "title": "Official channels",
+      "description": "Choose the channel that best fits your request to speed up the response.",
+      "cards": [
+        {
+          "title": "Worker Support",
+          "subtitle": "Questions and guidance",
+          "description": "Rights, documents, and referrals. Response within 2 business days."
+        },
+        {
+          "title": "Research & Archive",
+          "subtitle": "Research requests",
+          "description": "Consult the memory bank, donations, and image use."
+        },
+        {
+          "title": "WhatsApp",
+          "subtitle": "Quick messages",
+          "description": "Business-hours support. Do not send sensitive documents."
+        },
+        {
+          "title": "Press",
+          "subtitle": "Advisory",
+          "description": "Interviews, data, and images with institutional credit."
+        },
+        {
+          "title": "In-person Service",
+          "subtitle": "Head office",
+          "description": "Address, hours, and scheduling for on-site consultation."
+        }
+      ]
+    },
+    "form": {
+      "heading": "Send a message",
+      "description": "Fill out the form and we�ll reply within 2 business days.",
+      "fields": [
+        { "label": "Full name" },
+        { "label": "Email" },
+        { "label": "Phone (optional)" },
+        {
+          "label": "Subject",
+          "options": [
+            "Worker Support",
+            "Research / Archive",
+            "Donation of materials",
+            "Press",
+            "Other"
+          ]
+        }
+      ],
+      "textarea": { "label": "Message" },
+      "consent": {
+        "text": "By sending, you agree to our ",
+        "linkLabel": "Privacy Policy",
+        "suffix": " and to the use of your information for support purposes."
+      },
+      "buttonLabel": "Send",
+      "successMessage": "Message sent! Thanks for reaching out.",
+      "selectPlaceholder": "Select"
+    },
+    "addresses": {
+      "heading": "Addresses & hours",
+      "description": "In-person service subject to availability. Bring a photo ID.",
+      "locations": [
+        {
+          "title": "Head Office � Memory Center",
+          "address": "Rua Exemplo, 123 � Centro, S�o Paulo/SP",
+          "hours": "Mon to Fri, 9am � 5pm",
+          "a11y": "Accessible entrance, elevator, restrooms"
+        },
+        {
+          "title": "Service Unit",
+          "address": "Av. Modelo, 456 � Bairro, S�o Paulo/SP",
+          "hours": "Mon to Fri, 10am � 4pm",
+          "a11y": "Ramp access, priority counter"
+        }
+      ]
+    },
+    "map": {
+      "heading": "Map & how to arrive",
+      "description": "Use public transportation whenever possible. Check updated routes and schedules.",
+      "iframeTitle": "Map � Memory Center",
+      "note": "Public transportation recommended; check recent itineraries."
+    },
+    "faq": {
+      "heading": "Frequently asked questions",
+      "items": [
+        { "q": "What is the response time?", "a": "Up to 2 business days, depending on volume." },
+        {
+          "q": "Can I request digitized copies?",
+          "a": "Yes, according to use and rights policies. Some materials require authorization."
+        },
+        {
+          "q": "How do I donate materials to the archive?",
+          "a": "Send details via the form or email. The team will guide evaluation and procedures."
+        },
+        {
+          "q": "Is there in-person support for research?",
+          "a": "Yes, by appointment and availability. Check hours and bring ID."
+        }
+      ],
+      "note": "For other topics, see our ",
+      "noteLink": "Transparency Policy",
+      "openSymbol": "-",
+      "closeSymbol": "+"
+    }
+  },
+    "sessionLanding": {"aboutSection": "About this section","intro": "This page gathers previews of {section} from the {city} archive. Use the links below to browse sections or return to the overview.","backCity": "Back to {city} archive","overview": "View overview","cta": {"title": "Want to browse another section?","subtitle": "Use the top menus or return to the {city} archive to choose another collection.","action": "Back to archive"}},
+  "homePage": {
+    "hero": {
+      "alt": "Rubem Machado Digital Workers� Memory Center"
+    },
+    "search": {
+      "title": "Rubem Machado Digital Workers� Memory Center",
+      "tagline": "Welcome to our virtual archive. Happy researching!",
+      "description": "Search by terms, names or dates and move to the full archive.",
+      "placeholder": "Search by terms, names, dates�",
+      "button": "Search",
+      "category": "Category",
+      "categories": {
+        "all": "All content",
+        "imagens": "Images",
+        "videos": "Videos",
+        "documentos": "Documents",
+        "pessoas": "People"
+      }
+    }
+  }
+,
+  "acervo": {"sectionGrid": {"open": "Open"},
+    "metadata": {"title": "Archive - Memory Bank | Sintracon","description": "Search and filter documents, testimonies, bibliography, newspapers, and photos by type, origin, and tags."},
+    "hero": {
+      "searchLabel": "Search",
+      "searchPlaceholder": "Search by title, tag, or city.",
+      "empty": "No results for your search. Adjust filters or terms.",
+      "filterOptions": {
+        "types": {"all": "All","document": "Document","interview": "Testimony","bibliography": "Bibliography","newspaper": "Newspaper","photo": "Photo"},
+        "origins": {"all": "All","vr": "Volta Redonda","bm": "Barra Mansa","funds": "Funds"},
+        "tags": {"documents": "Documents","atas": "Minutes","strikes": "Strikes","testimonies": "Testimonies","oral": "Oral","leaders": "Leaders","bibliography": "Bibliography","clipping": "Clipping","newspapers": "Newspapers","history": "Historical","photo": "Photography","daily": "Daily life","mobilization": "Mobilization","funds": "Funds","construction": "Const. Civil","metal": "Metallurgical","movements": "Popular Mov.","domWaldyr": "Dom Waldyr"}
+      },
+      "actions": {"viewItem": "View item"},
+      "nav": {"previous": "Previous","next": "Next","results": "Archive results (arrow/scroll navigation)"},
+      "items": [
+        {"title": "Documents - Volta Redonda","origin": "Volta Redonda","type": "Document","tags": ["Documents","Minutes","Strikes"]},
+        {"title": "Testimonies - Volta Redonda","origin": "Volta Redonda","type": "Testimony","tags": ["Testimonies","Oral","Leaders"]},
+        {"title": "Bibliographic Reference - Volta Redonda","origin": "Volta Redonda","type": "Bibliography","tags": ["Bibliography","Clipping"]},
+        {"title": "Historic Newspapers - Volta Redonda","origin": "Volta Redonda","type": "Newspaper","tags": ["Newspapers","Strikes"]},
+        {"title": "Photographic Archive - Volta Redonda","origin": "Volta Redonda","type": "Photo","tags": ["Photography","Daily life"]},
+        {"title": "Documents - Barra Mansa","origin": "Barra Mansa","type": "Document","tags": ["Documents","Minutes"]},
+        {"title": "Testimonies - Barra Mansa","origin": "Barra Mansa","type": "Testimony","tags": ["Testimonies","Oral"]},
+        {"title": "Bibliographic Reference - Barra Mansa","origin": "Barra Mansa","type": "Bibliography","tags": ["Bibliography","Clipping"]},
+        {"title": "Historic Newspapers - Barra Mansa","origin": "Barra Mansa","type": "Newspaper","tags": ["Newspapers","Historical"]},
+        {"title": "Photographic Archive - Barra Mansa","origin": "Barra Mansa","type": "Photo","tags": ["Photography","Mobilization"]},
+        {"title": "Funds - Construction","origin": "Funds","type": "Document","tags": ["Funds","Const. Civil"]},
+        {"title": "Funds - Metallurgical","origin": "Funds","type": "Document","tags": ["Funds","Metallurgical"]},
+        {"title": "Funds - Popular Movements","origin": "Funds","type": "Newspaper","tags": ["Funds","Popular Mov.","Posters"]},
+        {"title": "Funds - Dom Waldyr","origin": "Funds","type": "Bibliography","tags": ["Funds","Dom Waldyr"]}
+      ]
+    },
+    "cityShowcase": {
+      "eyebrow": "Archive by city and funds",
+      "title": "Complete view of available hubs",
+      "description": "The public archive brings together Volta Redonda, Barra Mansa, and thematic funds. Each block details scope, coverage, and previews of main sections.",
+      "badges": ["Newspapers","Photos","Documents & Bibliography"],
+      "cities": [
+        {"name": "Volta Redonda","description": "Industrial hub with historic strikes and documentation tied to construction and metallurgy.","coverage": "Years 1940-2000 | Strike movements and factory daily life","focus": ["Union documentation","Oral history","Clippings and bibliography","Mobilization photography"],"sections": [
+          {"title": "Documents","description": "Minutes, memos, and reports from VR bases."},
+          {"title": "Testimonies","description": "Oral history with leaders and shop floor."},
+          {"title": "Bibliographic Reference","description": "Clippings, books, and articles on VR."},
+          {"title": "Historic Newspapers","description": "Covers and digitized editions."},
+          {"title": "Photographic Archive","description": "Mobilization and factory daily life in images."}
+        ]},
+        {"name": "Barra Mansa","description": "Regional support networks and worker memory linked to the Paraiba Valley.","coverage": "Years 1930-2000 | Local bases, assemblies, and union culture","focus": ["Minutes and memos","Worker accounts","Press clippings","Territory photography"],"sections": [
+          {"title": "Documents","description": "Memos, minutes, and local regulations."},
+          {"title": "Testimonies","description": "Voices of workers and leaders."},
+          {"title": "Bibliographic Reference","description": "Bibliography and catalogs on BM."},
+          {"title": "Historic Newspapers","description": "Historic clippings and editions."},
+          {"title": "Photographic Archive","description": "Images of mobilization and daily life."}
+        ]},
+        {"name": "Thematic Funds","description": "Collections by institutional/thematic funds: construction, metallurgy, labor movement, and Dom Waldyr.","coverage": "Various series | Documents, press, iconography","focus": ["Const. Civil","Metallurgical","Popular Mov.","Dom Waldyr"],"sections": [
+          {"title": "Const. Civil","description": "Minutes, memorials, and records of the category."},
+          {"title": "Metallurgical","description": "Documentation and union media of metallurgy."},
+          {"title": "Popular Mov.","description": "Posters, newspapers, and movement narratives."},
+          {"title": "Dom Waldyr","description": "Archive related to Dom Waldyr's work."}
+        ]}
+      ]
+    }
+  }
+}
