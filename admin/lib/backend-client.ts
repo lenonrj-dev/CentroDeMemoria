@@ -1,4 +1,5 @@
 import type { PaginatedMeta } from "./backend-types";
+import { API_BASE_URL, joinUrl } from "./api";
 
 export type ApiSuccess<T> = { success: true; data: T; meta?: PaginatedMeta };
 export type ApiErrorResponse = {
@@ -46,17 +47,6 @@ export class ApiClientError extends Error {
     this.path = init.path;
     this.method = init.method;
   }
-}
-
-export const API_BASE_URL =
-  (process.env.NEXT_PUBLIC_API_BASE_URL || "/api/backend").replace(/\/+$/, "");
-
-function normalizePath(path: string, baseUrl: string) {
-  if (!baseUrl.startsWith("/api/backend")) return path;
-  if (path === "/api") return "";
-  if (path.startsWith("/api/backend")) return path.replace(/^\/api\/backend/, "");
-  if (path.startsWith("/api/")) return path.slice(4);
-  return path;
 }
 
 function safeJsonParse(text: string) {
@@ -110,8 +100,8 @@ export async function apiRequest<T>(
   ensureRequestId(headers);
 
   const baseUrl = config.baseUrl ?? API_BASE_URL;
-  const normalized = normalizePath(path, baseUrl);
-  const res = await fetch(`${baseUrl}${normalized}`, { ...options, headers });
+  const target = joinUrl(baseUrl, path);
+  const res = await fetch(target, { ...options, headers });
 
   if (res.status === 204) {
     return { success: true, data: null as T };
