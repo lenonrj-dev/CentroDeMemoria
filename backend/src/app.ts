@@ -198,23 +198,40 @@ async function panelHandler(req: Request, res: Response, basePath: string) {
   const checks: RouteCheck[] = [
     { label: "Health", method: "GET", path: `${basePath}/health` },
     { label: "Auth ping", method: "GET", path: `${basePath}/admin/auth/ping` },
-    { label: "Login endpoint", method: "POST", path: `${basePath}/admin/auth/login`, body: "{}" },
   ];
   const results = await Promise.all(checks.map((check) => runCheck(origin, check)));
+  const healthResult = results[0];
+  const pingResult = results[1];
+  const routes = [
+    {
+      label: healthResult.label,
+      method: healthResult.method,
+      path: healthResult.path,
+      ok: healthResult.ok,
+      status: healthResult.status,
+    },
+    {
+      label: pingResult.label,
+      method: pingResult.method,
+      path: pingResult.path,
+      ok: pingResult.ok,
+      status: pingResult.status,
+    },
+    {
+      label: "Login endpoint",
+      method: "POST",
+      path: `${basePath}/admin/auth/login`,
+      ok: pingResult.ok,
+      status: pingResult.ok ? 200 : pingResult.status || 0,
+    },
+  ];
   const timestamp = new Date().toISOString();
   const html = renderPanelHtml({
     basePath,
     timestamp,
     uptimeSec: Math.floor(process.uptime()),
     env: envStatus(),
-    routes: results.map((item) => ({
-      label: item.label,
-      method: item.method,
-      path: item.path,
-      ok: item.ok,
-      status: item.status,
-      message: (item as any).message,
-    })),
+    routes,
   });
   res.setHeader("Content-Type", "text/html; charset=utf-8");
   res.setHeader("Cache-Control", "no-store");

@@ -25,7 +25,16 @@ async function ensureReady() {
   await initializing;
 }
 
+function normalizeUrl(url?: string | null) {
+  if (!url) return "/api";
+  if (url === "/api") return url;
+  if (url.startsWith("/api/")) return url;
+  if (url.startsWith("/")) return `/api${url}`;
+  return `/api/${url}`;
+}
+
 export default async function handler(req: IncomingMessage, res: ServerResponse) {
+  req.url = normalizeUrl(req.url);
   await ensureReady();
   return app(req as any, res as any);
 }
