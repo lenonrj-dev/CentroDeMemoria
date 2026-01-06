@@ -1,6 +1,7 @@
 import type { IncomingMessage, ServerResponse } from "node:http";
 import { app } from "./app";
 import { connectDb } from "./config/db";
+import { applyCors, handlePreflight } from "./cors";
 import { ensurePersonalArchivesSeeded } from "./seed/personal-archives";
 import { ensureSiteRoutesSeeded } from "./seed/site-routes";
 
@@ -40,6 +41,8 @@ function normalizeUrl(rawUrl?: string | null) {
 }
 
 export async function handleRequest(req: IncomingMessage, res: ServerResponse) {
+  if (handlePreflight(req, res)) return;
+  applyCors(req, res);
   req.url = normalizeUrl(req.url);
   await ensureReady();
   return app(req as any, res as any);
