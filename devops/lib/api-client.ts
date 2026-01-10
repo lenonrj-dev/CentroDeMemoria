@@ -1,4 +1,5 @@
 import type { ApiErrorResponse, ApiSuccess } from "./api-types";
+import { API_BASE_URL, joinUrl } from "./api";
 
 type ApiClientErrorInit = {
   message: string;
@@ -30,16 +31,6 @@ export class ApiClientError extends Error {
     this.path = init.path;
     this.method = init.method;
   }
-}
-
-export const API_BASE_URL =
-  (process.env.NEXT_PUBLIC_API_BASE_URL || "/api/backend").replace(/\/+$/, "");
-
-function normalizePath(path: string) {
-  if (!API_BASE_URL.startsWith("/api/backend")) return path;
-  if (path === "/api") return "";
-  if (path.startsWith("/api/")) return path.slice(4);
-  return path;
 }
 
 function safeJsonParse(text: string) {
@@ -91,7 +82,7 @@ export async function apiRequest<T>(
   if (token) headers.set("authorization", `Bearer ${token}`);
   ensureRequestId(headers);
 
-  const res = await fetch(`${API_BASE_URL}${normalizePath(path)}`, { ...options, headers });
+  const res = await fetch(joinUrl(API_BASE_URL, path), { ...options, headers });
 
   if (res.status === 204) {
     return { success: true, data: null as T };
