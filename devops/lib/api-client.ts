@@ -1,5 +1,6 @@
 import type { ApiErrorResponse, ApiSuccess } from "./api-types";
-import { API_BASE_URL, joinUrl } from "./api";
+import { API_BASE_URL } from "./api";
+import { resolveBackendPath } from "./backend-route";
 
 type ApiClientErrorInit = {
   message: string;
@@ -82,7 +83,10 @@ export async function apiRequest<T>(
   if (token) headers.set("authorization", `Bearer ${token}`);
   ensureRequestId(headers);
 
-  const res = await fetch(joinUrl(API_BASE_URL, path), { ...options, headers });
+  const method = (options.method || "GET").toUpperCase();
+  const resolvedPath = resolveBackendPath(method, path);
+  const base = API_BASE_URL || "";
+  const res = await fetch(`${base}${resolvedPath}`, { ...options, headers });
 
   if (res.status === 204) {
     return { success: true, data: null as T };

@@ -1,0 +1,26 @@
+[
+  {
+    "method": "POST",
+    "path": "/api/admin/auth/login"
+  },
+  {
+    "method": "GET",
+    "path": "/api/devops/config"
+  },
+  {
+    "method": "GET",
+    "path": "/api/devops/health"
+  },
+  {
+    "method": "GET",
+    "path": "/api/devops/logs?limit=200"
+  },
+  {
+    "method": "GET",
+    "path": "/api/devops/logs?limit=8"
+  },
+  {
+    "method": "GET",
+    "path": "/api/devops/metrics"
+  }
+]
