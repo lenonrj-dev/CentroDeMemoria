@@ -1,0 +1,554 @@
+[
+  {
+    "method": "GET",
+    "path": "/api"
+  },
+  {
+    "method": "GET",
+    "path": "/api/acervo-fotografico"
+  },
+  {
+    "method": "GET",
+    "path": "/api/acervo-fotografico/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/acervos-pessoais"
+  },
+  {
+    "method": "GET",
+    "path": "/api/acervos-pessoais/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/acervo-fotografico"
+  },
+  {
+    "method": "POST",
+    "path": "/api/admin/acervo-fotografico"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/admin/acervo-fotografico/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/acervo-fotografico/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/acervo-fotografico/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/acervo-fotografico/:id/status"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/acervos-pessoais"
+  },
+  {
+    "method": "POST",
+    "path": "/api/admin/acervos-pessoais"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/admin/acervos-pessoais/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/acervos-pessoais/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/acervos-pessoais/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/acervos-pessoais/:id/status"
+  },
+  {
+    "method": "POST",
+    "path": "/api/admin/auth/login"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/auth/ping"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/depoimentos"
+  },
+  {
+    "method": "POST",
+    "path": "/api/admin/depoimentos"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/admin/depoimentos/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/depoimentos/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/depoimentos/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/depoimentos/:id/status"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/documentos"
+  },
+  {
+    "method": "POST",
+    "path": "/api/admin/documentos"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/admin/documentos/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/documentos/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/documentos/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/documentos/:id/status"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/entrevistas"
+  },
+  {
+    "method": "POST",
+    "path": "/api/admin/entrevistas"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/admin/entrevistas/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/entrevistas/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/entrevistas/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/entrevistas/:id/status"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/jornais"
+  },
+  {
+    "method": "POST",
+    "path": "/api/admin/jornais"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/admin/jornais/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/jornais/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/jornais/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/jornais/:id/status"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/overview"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/referencias"
+  },
+  {
+    "method": "POST",
+    "path": "/api/admin/referencias"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/admin/referencias/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/referencias/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/referencias/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/referencias/:id/status"
+  },
+  {
+    "method": "GET",
+    "path": "/api/admin/rotas"
+  },
+  {
+    "method": "POST",
+    "path": "/api/admin/rotas"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/admin/rotas/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/admin/rotas/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/acervo-fotografico"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/acervo-fotografico/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/acervos-pessoais"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/acervos-pessoais/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/acervo-fotografico"
+  },
+  {
+    "method": "POST",
+    "path": "/api/backend/admin/acervo-fotografico"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/backend/admin/acervo-fotografico/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/acervo-fotografico/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/acervo-fotografico/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/acervo-fotografico/:id/status"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/acervos-pessoais"
+  },
+  {
+    "method": "POST",
+    "path": "/api/backend/admin/acervos-pessoais"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/backend/admin/acervos-pessoais/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/acervos-pessoais/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/acervos-pessoais/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/acervos-pessoais/:id/status"
+  },
+  {
+    "method": "POST",
+    "path": "/api/backend/admin/auth/login"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/auth/ping"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/depoimentos"
+  },
+  {
+    "method": "POST",
+    "path": "/api/backend/admin/depoimentos"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/backend/admin/depoimentos/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/depoimentos/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/depoimentos/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/depoimentos/:id/status"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/documentos"
+  },
+  {
+    "method": "POST",
+    "path": "/api/backend/admin/documentos"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/backend/admin/documentos/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/documentos/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/documentos/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/documentos/:id/status"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/entrevistas"
+  },
+  {
+    "method": "POST",
+    "path": "/api/backend/admin/entrevistas"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/backend/admin/entrevistas/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/entrevistas/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/entrevistas/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/entrevistas/:id/status"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/jornais"
+  },
+  {
+    "method": "POST",
+    "path": "/api/backend/admin/jornais"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/backend/admin/jornais/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/jornais/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/jornais/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/jornais/:id/status"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/overview"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/referencias"
+  },
+  {
+    "method": "POST",
+    "path": "/api/backend/admin/referencias"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/backend/admin/referencias/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/referencias/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/referencias/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/referencias/:id/status"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/admin/rotas"
+  },
+  {
+    "method": "POST",
+    "path": "/api/backend/admin/rotas"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/backend/admin/rotas/:id"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/backend/admin/rotas/:id"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/depoimentos"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/depoimentos/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/devops/config"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/devops/health"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/devops/logs"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/devops/metrics"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/documentos"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/documentos/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/entrevistas"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/entrevistas/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/health"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/jornais"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/jornais/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/referencias"
+  },
+  {
+    "method": "GET",
+    "path": "/api/backend/referencias/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/depoimentos"
+  },
+  {
+    "method": "GET",
+    "path": "/api/depoimentos/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/devops/config"
+  },
+  {
+    "method": "GET",
+    "path": "/api/devops/health"
+  },
+  {
+    "method": "GET",
+    "path": "/api/devops/logs"
+  },
+  {
+    "method": "GET",
+    "path": "/api/devops/metrics"
+  },
+  {
+    "method": "GET",
+    "path": "/api/documentos"
+  },
+  {
+    "method": "GET",
+    "path": "/api/documentos/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/entrevistas"
+  },
+  {
+    "method": "GET",
+    "path": "/api/entrevistas/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/health"
+  },
+  {
+    "method": "GET",
+    "path": "/api/jornais"
+  },
+  {
+    "method": "GET",
+    "path": "/api/jornais/:slug"
+  },
+  {
+    "method": "GET",
+    "path": "/api/referencias"
+  },
+  {
+    "method": "GET",
+    "path": "/api/referencias/:slug"
+  }
+]
