@@ -9,6 +9,10 @@ let initialized = false;
 let initializing: Promise<void> | null = null;
 
 async function ensureReady() {
+  if (process.env.NODE_ENV === "test") {
+    initialized = true;
+    return;
+  }
   if (initialized) return;
   if (!initializing) {
     initializing = (async () => {

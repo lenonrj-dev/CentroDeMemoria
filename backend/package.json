@@ -8,6 +8,8 @@
     "dev:server": "ts-node-dev --respawn --transpile-only src/server.ts",
     "dev:devops": "npm --prefix ../devops run dev",
     "build": "tsc -p tsconfig.json",
+    "test": "npm run test:routes",
+    "test:routes": "ts-node --transpile-only scripts/test-routes.ts",
     "start": "node dist/server.js",
     "hash": "ts-node src/seed/hash-admin-password.ts",
     "inventory": "ts-node src/seed/content-inventory.ts"
