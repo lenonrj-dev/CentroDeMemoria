@@ -24,9 +24,14 @@ function getAllowedOrigins() {
   const raw = process.env.CORS_ORIGIN || "";
   const base = raw
     .split(",")
-    .map((value) => value.trim())
+    .map((value) =>
+      value.trim().replace(/^['"]+|['"]+$/g, "").replace(/\/+$/, "").toLowerCase()
+    )
     .filter(Boolean);
-  const prod = [...base, ...PRODUCTION_ORIGINS];
+  const prod = [
+    ...base,
+    ...PRODUCTION_ORIGINS.map((value) => value.replace(/\/+$/, "").toLowerCase()),
+  ];
 
   if (process.env.NODE_ENV === "production") return Array.from(new Set(prod));
 
@@ -34,7 +39,11 @@ function getAllowedOrigins() {
 }
 
 function resolveOrigin(origin?: string | string[]) {
-  const value = Array.isArray(origin) ? origin[0] : origin;
+  const value = (Array.isArray(origin) ? origin[0] : origin || "")
+    .trim()
+    .replace(/^['"]+|['"]+$/g, "")
+    .replace(/\/+$/, "")
+    .toLowerCase();
   if (!value) return "";
   const allowed = getAllowedOrigins();
   return allowed.includes(value) ? value : "";
@@ -48,12 +57,7 @@ function appendVary(res: ServerResponse, header: string) {
 
 export function applyCors(req: IncomingMessage, res: ServerResponse) {
   const origin = resolveOrigin(req.headers.origin);
-  if (!origin) return false;
-
-  res.setHeader("Access-Control-Allow-Origin", origin);
-  appendVary(res, "Origin");
   res.setHeader("Access-Control-Allow-Methods", "GET,POST,PUT,PATCH,DELETE,OPTIONS");
-  res.setHeader("Access-Control-Allow-Credentials", "true");
 
   const requested = req.headers["access-control-request-headers"];
   const allowHeaders = requested
@@ -63,6 +67,12 @@ export function applyCors(req: IncomingMessage, res: ServerResponse) {
     : "Content-Type, Authorization, X-Request-Id, X-Requested-With";
   res.setHeader("Access-Control-Allow-Headers", allowHeaders);
   res.setHeader("Access-Control-Max-Age", "86400");
+  res.setHeader("Access-Control-Expose-Headers", "X-Request-Id,x-request-id");
+
+  if (!origin) return false;
+  res.setHeader("Access-Control-Allow-Origin", origin);
+  appendVary(res, "Origin");
+  res.setHeader("Access-Control-Allow-Credentials", "true");
   return true;
 }
 

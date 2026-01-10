@@ -10,6 +10,7 @@
     "build": "tsc -p tsconfig.json",
     "test": "npm run test:routes",
     "test:routes": "ts-node --transpile-only scripts/test-routes.ts",
+    "verify:preflight": "node scripts/verify-preflight.mjs",
     "start": "node dist/server.js",
     "hash": "ts-node src/seed/hash-admin-password.ts",
     "inventory": "ts-node src/seed/content-inventory.ts"

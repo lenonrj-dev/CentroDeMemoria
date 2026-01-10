@@ -1,7 +1,6 @@
 import express from "express";
 import type { Request, Response } from "express";
 import helmet from "helmet";
-import cors from "cors";
 import rateLimit from "express-rate-limit";
 import { env } from "./config/env";
 import { errorHandler } from "./middlewares/error";
@@ -13,6 +12,7 @@ import { publicRoutes } from "./routes/public";
 import { adminRoutes } from "./routes/admin";
 import { devopsRoutes } from "./routes/devops";
 import { ApiError, fail, ok, wrapAsync } from "./utils/api-error";
+import { applyCors } from "./cors";
 
 export const app = express();
 
@@ -22,14 +22,14 @@ app.set("etag", false);
 app.use(requestContext);
 app.use(requestLogger);
 app.use(helmet());
-app.use(
-  cors({
-    origin: env.CORS_ORIGIN_LIST,
-    methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
-    allowedHeaders: ["Content-Type", "Authorization", "X-Request-Id", "x-request-id"],
-    exposedHeaders: ["X-Request-Id", "x-request-id"],
-  })
-);
+app.use((req, res, next) => {
+  applyCors(req, res);
+  if (req.method === "OPTIONS") {
+    res.status(204).end();
+    return;
+  }
+  next();
+});
 app.use(express.json({ limit: "2mb" }));
 app.use(express.urlencoded({ extended: true }));
 
