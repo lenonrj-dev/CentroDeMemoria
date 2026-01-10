@@ -1,7 +1,6 @@
 import type { IncomingMessage, ServerResponse } from "node:http";
-import { env } from "./config/env";
 
-// Origens oficiais em produção (Vercel) — manter aqui para garantir CORS mesmo se o env estiver ausente/mal formatado.
+// Official production origins (Vercel); safe fallback if env is missing.
 const PRODUCTION_ORIGINS = [
   "https://admin-cmodrm.vercel.app",
   "https://devops-cmodrm.vercel.app",
@@ -22,10 +21,14 @@ const LOCAL_ORIGINS = [
 ];
 
 function getAllowedOrigins() {
-  const base = env.CORS_ORIGIN_LIST || [];
+  const raw = process.env.CORS_ORIGIN || "";
+  const base = raw
+    .split(",")
+    .map((value) => value.trim())
+    .filter(Boolean);
   const prod = [...base, ...PRODUCTION_ORIGINS];
 
-  if (env.NODE_ENV === "production") return Array.from(new Set(prod));
+  if (process.env.NODE_ENV === "production") return Array.from(new Set(prod));
 
   return Array.from(new Set([...prod, ...LOCAL_ORIGINS]));
 }
@@ -50,13 +53,14 @@ export function applyCors(req: IncomingMessage, res: ServerResponse) {
   res.setHeader("Access-Control-Allow-Origin", origin);
   appendVary(res, "Origin");
   res.setHeader("Access-Control-Allow-Methods", "GET,POST,PUT,PATCH,DELETE,OPTIONS");
+  res.setHeader("Access-Control-Allow-Credentials", "true");
 
   const requested = req.headers["access-control-request-headers"];
   const allowHeaders = requested
     ? Array.isArray(requested)
       ? requested.join(",")
       : requested
-    : "Content-Type, Authorization, X-Request-Id";
+    : "Content-Type, Authorization, X-Request-Id, X-Requested-With";
   res.setHeader("Access-Control-Allow-Headers", allowHeaders);
   res.setHeader("Access-Control-Max-Age", "86400");
   return true;
