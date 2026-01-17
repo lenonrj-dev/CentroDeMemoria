@@ -12,24 +12,17 @@ import { publicRoutes } from "./routes/public";
 import { adminRoutes } from "./routes/admin";
 import { devopsRoutes } from "./routes/devops";
 import { ApiError, fail, ok, wrapAsync } from "./utils/api-error";
-import { applyCors } from "./cors";
+import { corsMiddleware } from "./middlewares/cors";
 
 export const app = express();
 
 app.disable("x-powered-by");
 app.set("trust proxy", 1);
 app.set("etag", false);
+app.use(corsMiddleware);
 app.use(requestContext);
 app.use(requestLogger);
 app.use(helmet());
-app.use((req, res, next) => {
-  applyCors(req, res);
-  if (req.method === "OPTIONS") {
-    res.status(204).end();
-    return;
-  }
-  next();
-});
 app.use(express.json({ limit: "2mb" }));
 app.use(express.urlencoded({ extended: true }));
 
